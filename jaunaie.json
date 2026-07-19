@@ -1,0 +1,710 @@
+[
+  {
+    "adresse": "2 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005819,
+    "lng": -1.7598938,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "2B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005583,
+    "lng": -1.7600351,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "3 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004741,
+    "lng": -1.7603854,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "4 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200563,
+    "lng": -1.760303,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "5 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004964,
+    "lng": -1.7610715,
+    "etat": "faite"
+  },
+  {
+    "adresse": "6 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005671,
+    "lng": -1.7604729,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "6B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2006035,
+    "lng": -1.7607462,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "7 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005093,
+    "lng": -1.7615357,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "8 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200611,
+    "lng": -1.7610176,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "8B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2006199,
+    "lng": -1.7612997,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "10 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2006285,
+    "lng": -1.7615661,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "10B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2006379,
+    "lng": -1.7618464,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "11 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004998,
+    "lng": -1.7621068,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "12 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005913,
+    "lng": -1.7622049,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "13 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004721,
+    "lng": -1.7626728,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "14 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005796,
+    "lng": -1.7624024,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "15 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004448,
+    "lng": -1.7630807,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "16 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005689,
+    "lng": -1.7625845,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "16B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005514,
+    "lng": -1.7628643,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "17 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004196,
+    "lng": -1.7634758,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "18 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005391,
+    "lng": -1.7630595,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "18A rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "19 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004072,
+    "lng": -1.7636756,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "21 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003955,
+    "lng": -1.7638691,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "22 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2005038,
+    "lng": -1.7636233,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "22B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004978,
+    "lng": -1.7637196,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "23 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003854,
+    "lng": -1.764037,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "24 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004858,
+    "lng": -1.7639378,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "24B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004951,
+    "lng": -1.7638012,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "25 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003646,
+    "lng": -1.7643776,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "26 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004688,
+    "lng": -1.7641819,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "26B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004563,
+    "lng": -1.764371,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "27 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003571,
+    "lng": -1.7644896,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "27B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003363,
+    "lng": -1.7647857,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "28 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004407,
+    "lng": -1.7646072,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "28B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004299,
+    "lng": -1.7647984,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "29 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003217,
+    "lng": -1.7650184,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "29B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003166,
+    "lng": -1.7651553,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "30 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004202,
+    "lng": -1.7650526,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "30B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004112,
+    "lng": -1.7652803,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "31 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003164,
+    "lng": -1.7653269,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "31B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200309,
+    "lng": -1.7655321,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "32 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003976,
+    "lng": -1.7657202,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "33 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003031,
+    "lng": -1.7656913,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "34 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003926,
+    "lng": -1.7658671,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "35 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002983,
+    "lng": -1.7658177,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "35B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "36 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003843,
+    "lng": -1.766136,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "37 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002817,
+    "lng": -1.7662967,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "37B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002777,
+    "lng": -1.7664083,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "38 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003747,
+    "lng": -1.7664344,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "39 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002749,
+    "lng": -1.7664971,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "40 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003702,
+    "lng": -1.7665789,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "40B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200365,
+    "lng": -1.7667404,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "41 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002663,
+    "lng": -1.7667491,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "42 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003566,
+    "lng": -1.7670115,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "42B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "43 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002581,
+    "lng": -1.7670007,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "44 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200349,
+    "lng": -1.7672654,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "44B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200346,
+    "lng": -1.7673657,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "45 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002507,
+    "lng": -1.7672256,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "46 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003428,
+    "lng": -1.7674642,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "47 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002433,
+    "lng": -1.7674468,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "47B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002349,
+    "lng": -1.767704,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "48 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003378,
+    "lng": -1.7676245,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "49 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200227,
+    "lng": -1.7679365,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "50 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003318,
+    "lng": -1.7678057,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "50B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003237,
+    "lng": -1.76806,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "51 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002185,
+    "lng": -1.768168,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "52 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003119,
+    "lng": -1.768486,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "53 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002123,
+    "lng": -1.7684439,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "54 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2003011,
+    "lng": -1.7689138,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "55 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200204,
+    "lng": -1.7687148,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "56 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002983,
+    "lng": -1.7690389,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "57 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001831,
+    "lng": -1.7696763,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "58 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002903,
+    "lng": -1.7695002,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "58B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002877,
+    "lng": -1.7696394,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "59 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001778,
+    "lng": -1.7699464,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "60 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002864,
+    "lng": -1.7697292,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "61 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001732,
+    "lng": -1.7701965,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "62 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002825,
+    "lng": -1.7699906,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "63 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200169,
+    "lng": -1.7704401,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "64 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002774,
+    "lng": -1.7703139,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "65 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001652,
+    "lng": -1.770678,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "66 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002716,
+    "lng": -1.7706558,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "67 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001613,
+    "lng": -1.7709005,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "68 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002668,
+    "lng": -1.7709245,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "69 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001584,
+    "lng": -1.7710887,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "70 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002618,
+    "lng": -1.7711972,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "71 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001549,
+    "lng": -1.7713137,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "72 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002571,
+    "lng": -1.7714391,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "73 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001507,
+    "lng": -1.7715425,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "74 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002579,
+    "lng": -1.7720677,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "76 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002449,
+    "lng": -1.7724787,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "77 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001135,
+    "lng": -1.773939,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "78 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002313,
+    "lng": -1.7728311,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "79 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200101,
+    "lng": -1.7744746,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "79B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2000956,
+    "lng": -1.7746872,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "80 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002194,
+    "lng": -1.773191,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "81 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2000922,
+    "lng": -1.7748097,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "82 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002105,
+    "lng": -1.7735001,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "83A rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "83B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "84 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200203,
+    "lng": -1.7738121,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "85A rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "85B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2004045,
+    "lng": -1.7644574,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "86 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200197,
+    "lng": -1.7740974,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "87 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2000782,
+    "lng": -1.775634,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "88 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001926,
+    "lng": -1.7743236,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "88B rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001881,
+    "lng": -1.7745741,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "89 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2000779,
+    "lng": -1.7759171,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "90 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001844,
+    "lng": -1.7748062,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "91 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2000923,
+    "lng": -1.776291,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "92 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001777,
+    "lng": -1.7756184,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "93 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.200098,
+    "lng": -1.7764099,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "94 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2002072,
+    "lng": -1.776454,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "95 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001061,
+    "lng": -1.7765675,
+    "etat": "non_visité"
+  },
+  {
+    "adresse": "97 rue de la Jaunaie, Le Pellerin",
+    "lat": 47.2001245,
+    "lng": -1.7768597,
+    "etat": "non_visité"
+  }
+]
