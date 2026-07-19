@@ -1,0 +1,142 @@
+:root{
+    --c-non_visite: #9e9e9e;
+    --c-faite: #2ecc71;
+    --c-a_repasser: #f39c12;
+    --c-absent: #3498db;
+    --c-refus: #e74c3c;
+    --bg: #f4f5f7;
+    --card-bg: #ffffff;
+    --text: #222;
+    --text-light: #666;
+}
+
+body{
+    margin:0;
+    background: var(--bg);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color: var(--text);
+}
+
+.topbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 20px 24px;
+    background: var(--card-bg);
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.topbar h1{
+    margin:0;
+    font-size: 1.4rem;
+}
+
+.btn-retour{
+    text-decoration:none;
+    color:#333;
+    background:#eee;
+    padding:8px 14px;
+    border-radius:8px;
+    font-size:0.9rem;
+    transition: background .15s;
+}
+.btn-retour:hover{ background:#ddd; }
+
+.dashboard{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 24px;
+    display: grid;
+    gap: 20px;
+}
+
+.card{
+    background: var(--card-bg);
+    border-radius: 14px;
+    padding: 20px 22px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.card-full{ width: 100%; box-sizing: border-box; }
+
+.card-header{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    margin-bottom: 14px;
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.pct-big{
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--c-faite);
+}
+
+.progress-bar{
+    display:flex;
+    width:100%;
+    height: 22px;
+    border-radius: 11px;
+    overflow:hidden;
+    background: var(--c-non_visite);
+}
+
+.progress-fill{
+    height:100%;
+    background: var(--c-faite);
+    transition: width .4s ease;
+}
+
+.progress-legend{
+    display:flex;
+    flex-wrap:wrap;
+    gap: 14px;
+    margin-top: 12px;
+    font-size: 0.85rem;
+    color: var(--text-light);
+}
+
+.legend-item{
+    display:flex;
+    align-items:center;
+    gap:6px;
+}
+
+.legend-dot{
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    display:inline-block;
+}
+
+.stats-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 14px;
+}
+
+.stat-card{
+    background: var(--card-bg);
+    border-radius: 14px;
+    padding: 16px 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    border-left: 6px solid #ccc;
+}
+
+.stat-card .stat-value{
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.stat-card .stat-label{
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-top: 2px;
+}
+
+.chart-wrapper{
+    max-width: 380px;
+    margin: 0 auto;
+}

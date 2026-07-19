@@ -10,8 +10,28 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin=""/>
+
+    <style>
+        #btn-progression{
+            position:absolute;
+            top:10px;
+            right:10px;
+            z-index:1000;
+            background:#fff;
+            border:2px solid rgba(0,0,0,0.2);
+            border-radius:6px;
+            padding:8px 12px;
+            font-size:14px;
+            font-family: system-ui, sans-serif;
+            text-decoration:none;
+            color:#333;
+            box-shadow:0 1px 3px rgba(0,0,0,0.2);
+        }
+        #btn-progression:hover{ background:#f4f4f4; }
+    </style>
 </head>
 <body>
+    <a id="btn-progression" href="/progression">📊 Progression</a>
     <div id="map"></div>
 
     <!-- Leaflet JS -->
@@ -20,5 +40,6 @@
      crossorigin=""></script>
 
     <script src="script.js"></script>
+    <script src="auth-ui.js"></script>
 </body>
 </html>

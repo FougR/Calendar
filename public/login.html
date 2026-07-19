@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connexion - Calendrier</title>
+    <style>
+        :root{ font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+        body{
+            margin:0;
+            min-height:100vh;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            background:#f4f5f7;
+        }
+        .login-card{
+            background:#fff;
+            padding:32px 28px;
+            border-radius:14px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.1);
+            width:100%;
+            max-width:340px;
+            box-sizing:border-box;
+        }
+        .login-card h1{
+            font-size:1.3rem;
+            margin:0 0 20px;
+            text-align:center;
+        }
+        label{
+            display:block;
+            font-size:0.85rem;
+            color:#555;
+            margin-bottom:6px;
+        }
+        input{
+            width:100%;
+            padding:10px 12px;
+            margin-bottom:16px;
+            border:1px solid #ddd;
+            border-radius:8px;
+            font-size:1rem;
+            box-sizing:border-box;
+        }
+        button{
+            width:100%;
+            padding:12px;
+            background:#2ecc71;
+            color:#fff;
+            border:none;
+            border-radius:8px;
+            font-size:1rem;
+            font-weight:600;
+            cursor:pointer;
+        }
+        button:hover{ background:#27ae60; }
+        #error{
+            color:#e74c3c;
+            font-size:0.85rem;
+            text-align:center;
+            margin-bottom:12px;
+            min-height:1.1em;
+        }
+    </style>
+</head>
+<body>
+    <form class="login-card" id="loginForm">
+        <h1>🔥 Calendrier des pompiers</h1>
+        <label for="nom">Nom</label>
+        <input type="text" id="nom" autocomplete="username" required>
+        <label for="motDePasse">Mot de passe</label>
+        <input type="password" id="motDePasse" autocomplete="current-password" required>
+        <div id="error"></div>
+        <button type="submit">Se connecter</button>
+    </form>
+    <script src="login.js"></script>
+</body>
+</html>

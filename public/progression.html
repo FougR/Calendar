@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progression - Calendrier V0.1</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="progression.css">
+</head>
+<body>
+    <div class="topbar">
+        <h1>📊 Progression de la vente</h1>
+        <a href="/" class="btn-retour">← Retour à la carte</a>
+    </div>
+
+    <div class="dashboard">
+        <!-- Grande barre de progression globale -->
+        <div class="card card-full">
+            <div class="card-header">
+                <span>Avancement global (maisons visitées)</span>
+                <span id="pct-visite" class="pct-big">0%</span>
+            </div>
+            <div class="progress-bar">
+                <div id="progress-fill" class="progress-fill" style="width:0%"></div>
+            </div>
+            <div id="progress-legend" class="progress-legend"></div>
+        </div>
+
+        <!-- Compteurs -->
+        <div class="stats-grid" id="stats-grid">
+            <!-- injecté par JS -->
+        </div>
+
+        <!-- Graphique -->
+        <div class="card card-full">
+            <div class="card-header">
+                <span>Répartition par état</span>
+            </div>
+            <div class="chart-wrapper">
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+    <script src="progression.js"></script>
+    <script src="auth-ui.js"></script>
+</body>
+</html>

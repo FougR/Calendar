@@ -2866,5 +2866,683 @@
     "lat": 47.19568,
     "lng": -1.811427,
     "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202594,
+    "lng": -1.817701,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.20186,
+    "lng": -1.813813,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202905,
+    "lng": -1.81784,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.198684,
+    "lng": -1.806752,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2BIS Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.202175,
+    "lng": -1.81375,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.201502,
+    "lng": -1.813074,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.201553,
+    "lng": -1.813544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.203035,
+    "lng": -1.818055,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.198831,
+    "lng": -1.807154,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.201507,
+    "lng": -1.813213,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202944,
+    "lng": -1.818119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.198912,
+    "lng": -1.807343,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chemin du Clos de l'Etang, Le Pellerin",
+    "lat": 47.201506,
+    "lng": -1.812703,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202842,
+    "lng": -1.81821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202731,
+    "lng": -1.818557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202648,
+    "lng": -1.818213,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202589,
+    "lng": -1.817885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.202616,
+    "lng": -1.818001,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.20267,
+    "lng": -1.818254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Place du Pé de Buzay, Le Pellerin",
+    "lat": 47.20268,
+    "lng": -1.818381,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.201029,
+    "lng": -1.81084,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.201161,
+    "lng": -1.811823,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.201908,
+    "lng": -1.811822,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.20206,
+    "lng": -1.812321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202021,
+    "lng": -1.811983,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202137,
+    "lng": -1.812839,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202115,
+    "lng": -1.812211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35A Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.20239,
+    "lng": -1.813766,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202164,
+    "lng": -1.812432,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202545,
+    "lng": -1.814287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202212,
+    "lng": -1.812713,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202408,
+    "lng": -1.814877,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39BIS Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202579,
+    "lng": -1.814468,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.20225,
+    "lng": -1.812978,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40BIS Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202288,
+    "lng": -1.813241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202247,
+    "lng": -1.815263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.20235,
+    "lng": -1.813424,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202306,
+    "lng": -1.815678,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202484,
+    "lng": -1.813719,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202448,
+    "lng": -1.8163,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202568,
+    "lng": -1.814038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202554,
+    "lng": -1.816819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202537,
+    "lng": -1.817432,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202368,
+    "lng": -1.815181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50A Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202428,
+    "lng": -1.815068,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202293,
+    "lng": -1.817479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202351,
+    "lng": -1.815524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202165,
+    "lng": -1.817502,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202388,
+    "lng": -1.815677,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.201886,
+    "lng": -1.81753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202412,
+    "lng": -1.815799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202462,
+    "lng": -1.816025,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "59 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.201027,
+    "lng": -1.817748,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202555,
+    "lng": -1.816442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60BIS Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202584,
+    "lng": -1.816577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "61 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.200774,
+    "lng": -1.81826,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202717,
+    "lng": -1.817287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202726,
+    "lng": -1.817419,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64BIS Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202453,
+    "lng": -1.817547,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202303,
+    "lng": -1.817576,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "68 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.202079,
+    "lng": -1.817613,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "70 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.2018,
+    "lng": -1.817648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "78 Route du Pé de Buzay, Le Pellerin",
+    "lat": 47.200842,
+    "lng": -1.818362,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Etier, Le Pellerin",
+    "lat": 47.2034,
+    "lng": -1.817433,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.202871,
+    "lng": -1.814656,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Rue de l'Etier, Le Pellerin",
+    "lat": 47.203173,
+    "lng": -1.817525,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B Rue de l'Etier, Le Pellerin",
+    "lat": 47.203056,
+    "lng": -1.817546,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1C Rue de l'Etier, Le Pellerin",
+    "lat": 47.202993,
+    "lng": -1.817559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Etier, Le Pellerin",
+    "lat": 47.202926,
+    "lng": -1.817455,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.202876,
+    "lng": -1.814564,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue de l'Etier, Le Pellerin",
+    "lat": 47.203385,
+    "lng": -1.817323,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Etier, Le Pellerin",
+    "lat": 47.203622,
+    "lng": -1.817336,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.203027,
+    "lng": -1.814557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3B Rue de l'Etier, Le Pellerin",
+    "lat": 47.203654,
+    "lng": -1.817321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Etier, Le Pellerin",
+    "lat": 47.203556,
+    "lng": -1.817249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.202964,
+    "lng": -1.814508,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4A Rue de l'Etier, Le Pellerin",
+    "lat": 47.2037,
+    "lng": -1.817166,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4B Rue de l'Etier, Le Pellerin",
+    "lat": 47.203831,
+    "lng": -1.817087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Etier, Le Pellerin",
+    "lat": 47.203761,
+    "lng": -1.817274,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5B Rue de l'Etier, Le Pellerin",
+    "lat": 47.203877,
+    "lng": -1.817223,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Etier, Le Pellerin",
+    "lat": 47.203939,
+    "lng": -1.817004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Etier, Le Pellerin",
+    "lat": 47.203997,
+    "lng": -1.817096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A Rue de l'Etier, Le Pellerin",
+    "lat": 47.204284,
+    "lng": -1.816883,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B Rue de l'Etier, Le Pellerin",
+    "lat": 47.204386,
+    "lng": -1.81677,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7C Rue de l'Etier, Le Pellerin",
+    "lat": 47.204475,
+    "lng": -1.816682,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de l'Etier, Le Pellerin",
+    "lat": 47.204123,
+    "lng": -1.816894,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.203182,
+    "lng": -1.814374,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de l'Etier, Le Pellerin",
+    "lat": 47.204779,
+    "lng": -1.816661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9B Rue de l'Etier, Le Pellerin",
+    "lat": 47.20499,
+    "lng": -1.816706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de l'Etier, Le Pellerin",
+    "lat": 47.204237,
+    "lng": -1.816778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10B Rue de l'Etier, Le Pellerin",
+    "lat": 47.204467,
+    "lng": -1.816555,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de l'Etier, Le Pellerin",
+    "lat": 47.205227,
+    "lng": -1.816595,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.204253,
+    "lng": -1.813733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11BIS Rue de la Teignouse, Le Pellerin",
+    "lat": 47.204365,
+    "lng": -1.813655,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de l'Etier, Le Pellerin",
+    "lat": 47.204773,
+    "lng": -1.816492,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.203796,
+    "lng": -1.813956,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.2045,
+    "lng": -1.813546,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de l'Etier, Le Pellerin",
+    "lat": 47.205116,
+    "lng": -1.816501,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.203902,
+    "lng": -1.813611,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.204234,
+    "lng": -1.813618,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de la Teignouse, Le Pellerin",
+    "lat": 47.204417,
+    "lng": -1.813486,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.194348,
+    "lng": -1.79646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route du Moulin du Breuil, Le Pellerin",
+    "lat": 47.195992,
+    "lng": -1.811255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.194483,
+    "lng": -1.796621,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route du Moulin du Breuil, Le Pellerin",
+    "lat": 47.195651,
+    "lng": -1.811264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.194591,
+    "lng": -1.796745,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.194832,
+    "lng": -1.796788,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.193939,
+    "lng": -1.796349,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Route de la Guilbaudière, Le Pellerin",
+    "lat": 47.193691,
+    "lng": -1.796553,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "315 Chemin de la Touche, Le Pellerin",
+    "lat": 47.194104,
+    "lng": -1.791419,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "340 Chemin de la Touche, Le Pellerin",
+    "lat": 47.194202,
+    "lng": -1.791531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "390 Chemin de la Touche, Le Pellerin",
+    "lat": 47.193806,
+    "lng": -1.791375,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "420 Chemin de la Touche, Le Pellerin",
+    "lat": 47.193641,
+    "lng": -1.791273,
+    "etat": "non_visite"
   }
 ]
