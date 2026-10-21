@@ -10,11 +10,11 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 map.on('click', function(e){
     const lat = e.latlng.lat.toFixed(6);
     const lng = e.latlng.lng.toFixed(6);
-    const marker = L.marker([lat, lng]).addTo(map);
-    marker.bindPopup(`Lat: ${lat}<br>Lng: ${lng}`).openPopup();
+    // const marker = L.marker([lat, lng]).addTo(map);
+    // marker.bindPopup(`Lat: ${lat}<br>Lng: ${lng}`).openPopup();
 
     // console.log(`{"adresse": "N° ? Route de la Chauffetière, Le Pellerin", "lat": ${lat}, "lng": ${lng}, "etat": "non_visite"},`);
-    navigator.clipboard.writeText(`{"adresse": "N° ? Route de la Vièvre, Le Pellerin", "lat": ${lat}, "lng": ${lng}, "etat": "non_visite"},`);
+    // navigator.clipboard.writeText(`{"adresse": "N° ? Route de la Vièvre, Le Pellerin", "lat": ${lat}, "lng": ${lng}, "etat": "non_visite"},`);
 });
 
 // Code Couleur
@@ -63,7 +63,7 @@ function chargerMaisons(){
     //         });
     // }
     console.log("Chargement depuis le fichier JSON");
-        fetch('/secteur2')
+        fetch('/StJean')
             .then(res => res.json())
             .then(data => {
                 maisons = data;
@@ -136,7 +136,7 @@ function changerEtat(nouvelEtat, lat, lng){
     });
 
     // Sauvegarde
-    fetch('/secteur2', {
+    fetch('/StJean', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify(maisons)
