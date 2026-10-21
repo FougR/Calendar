@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar</title>
+    <link rel="stylesheet" href="stats.css">
+</head>
+<body>
+    <div class="topbar">
+        <h1>📊 Progression de la vente</h1>
+        <a href="/" class="btn-retour">Retour à la vente</a>
+    </div>
+
+    <div class="dashboard">
+        <!-- Barre progression globale tout secteur -->
+        <div class="card card-full">
+            <div class="card-header">
+                <span>Avancement global (maisons visitées)</span>
+                <spn id="pct-visite" class="pct-big">0%</spn>
+            </div>
+            <div class="progress-bar">
+                <div id="progress-fill" class="progress-fill" style="width:0%"></div>
+            </div>
+            <div id="progress-legend" class="progress-legend"></div>
+        </div>
+    </div>
+
+    <!-- Compteurs -->
+    <div class="stats-grid" id="stats-grid">
+        <!-- Généré par JS -->
+    </div>
+
+    <!-- Graphique -->
+     <div class="card card-full">
+        <div class="card-header">
+            <span>Répartition par état</span>
+        </div>
+        <div class="chart-wrapper">
+            <canvas id="chart"></canvas>
+        </div>
+     </div>
+
+     <!-- JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.5.0/chart.umd.js" integrity="sha512-D4pL3vNgjkHR/qq+nZywuS6Hg1gwR+UzrdBW6Yg8l26revKyQHMgPq9CLJ2+HHalepS+NuGw1ayCCsGXu9JCXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="stats.js"></script>
+</body>
+</html>

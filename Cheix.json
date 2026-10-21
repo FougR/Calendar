@@ -1,0 +1,3032 @@
+[
+  {
+    "adresse": "1 Allée de l'Ecole, Cheix-en-Retz",
+    "lat": 47.181874,
+    "lng": -1.813468,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée de l'Ecole, Cheix-en-Retz",
+    "lat": 47.182055,
+    "lng": -1.813411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Allée de l'Ecole, Cheix-en-Retz",
+    "lat": 47.182,
+    "lng": -1.813498,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin de la Métairie du Bois, Cheix-en-Retz",
+    "lat": 47.182665,
+    "lng": -1.766263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin de la Métairie du Bois, Cheix-en-Retz",
+    "lat": 47.183147,
+    "lng": -1.766961,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin de la Métairie du Bois, Cheix-en-Retz",
+    "lat": 47.18315,
+    "lng": -1.766831,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin de la Rapinette, Cheix-en-Retz",
+    "lat": 47.178913,
+    "lng": -1.804467,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin de la Rapinette, Cheix-en-Retz",
+    "lat": 47.179074,
+    "lng": -1.804464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chemin de la Rapinette, Cheix-en-Retz",
+    "lat": 47.179172,
+    "lng": -1.804477,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Chemin de la Rapinette, Cheix-en-Retz",
+    "lat": 47.179247,
+    "lng": -1.80452,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Chemin de la Rapinette, Cheix-en-Retz",
+    "lat": 47.179381,
+    "lng": -1.804377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin de la Rive, Cheix-en-Retz",
+    "lat": 47.181149,
+    "lng": -1.816339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin de la Rive, Cheix-en-Retz",
+    "lat": 47.180522,
+    "lng": -1.816518,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin de la Rive, Cheix-en-Retz",
+    "lat": 47.18045,
+    "lng": -1.815721,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin de la Vigne, Cheix-en-Retz",
+    "lat": 47.172331,
+    "lng": -1.787979,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin des Fiotais, Cheix-en-Retz",
+    "lat": 47.178369,
+    "lng": -1.797708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin des Fiotais, Cheix-en-Retz",
+    "lat": 47.178807,
+    "lng": -1.798852,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182754,
+    "lng": -1.815386,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182796,
+    "lng": -1.81506,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182857,
+    "lng": -1.814993,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182834,
+    "lng": -1.814923,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182683,
+    "lng": -1.814943,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Chemin des Grandes Pièces, Cheix-en-Retz",
+    "lat": 47.182632,
+    "lng": -1.814919,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin des Grands Jardins, Cheix-en-Retz",
+    "lat": 47.17864,
+    "lng": -1.801267,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin du Bois Corbeau, Cheix-en-Retz",
+    "lat": 47.184427,
+    "lng": -1.792153,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin du Bois Corbeau, Cheix-en-Retz",
+    "lat": 47.183888,
+    "lng": -1.791991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin du Vignaud, Cheix-en-Retz",
+    "lat": 47.17868,
+    "lng": -1.799937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin du Vignaud, Cheix-en-Retz",
+    "lat": 47.178568,
+    "lng": -1.800102,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin du Vignaud, Cheix-en-Retz",
+    "lat": 47.178496,
+    "lng": -1.799999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin du Vignaud, Cheix-en-Retz",
+    "lat": 47.17829,
+    "lng": -1.800184,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin du Vignaud, Cheix-en-Retz",
+    "lat": 47.178078,
+    "lng": -1.800196,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.182838,
+    "lng": -1.811218,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.182945,
+    "lng": -1.811334,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183009,
+    "lng": -1.811351,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183274,
+    "lng": -1.811222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183439,
+    "lng": -1.811263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183493,
+    "lng": -1.811276,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183681,
+    "lng": -1.811431,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183587,
+    "lng": -1.81146,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183383,
+    "lng": -1.811404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183314,
+    "lng": -1.811387,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Impasse Claude Camille de Laujardière, Cheix-en-Retz",
+    "lat": 47.183075,
+    "lng": -1.811565,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse Colette et Maurice Clavel, Cheix-en-Retz",
+    "lat": 47.182178,
+    "lng": -1.814226,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse Colette et Maurice Clavel, Cheix-en-Retz",
+    "lat": 47.182047,
+    "lng": -1.814182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Impasse de la Treille, Cheix-en-Retz",
+    "lat": 47.174061,
+    "lng": -1.788199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.181595,
+    "lng": -1.809259,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.181501,
+    "lng": -1.809297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.18147,
+    "lng": -1.809548,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.181516,
+    "lng": -1.809619,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.181821,
+    "lng": -1.80981,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.181814,
+    "lng": -1.809866,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse des Grandes Vignes, Cheix-en-Retz",
+    "lat": 47.18203,
+    "lng": -1.809954,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Rainettes, Cheix-en-Retz",
+    "lat": 47.181392,
+    "lng": -1.81314,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Rainettes, Cheix-en-Retz",
+    "lat": 47.181362,
+    "lng": -1.812955,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Impasse des Rainettes, Cheix-en-Retz",
+    "lat": 47.181391,
+    "lng": -1.812865,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Rainettes, Cheix-en-Retz",
+    "lat": 47.181437,
+    "lng": -1.812861,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180682,
+    "lng": -1.811771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180783,
+    "lng": -1.811723,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180839,
+    "lng": -1.811705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180872,
+    "lng": -1.811676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180881,
+    "lng": -1.811626,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180845,
+    "lng": -1.811524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180819,
+    "lng": -1.811472,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180788,
+    "lng": -1.811464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse du Bois Robin, Cheix-en-Retz",
+    "lat": 47.180748,
+    "lng": -1.811509,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Château de Malnoé, Cheix-en-Retz",
+    "lat": 47.174616,
+    "lng": -1.809107,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Château de Malnoé, Cheix-en-Retz",
+    "lat": 47.174622,
+    "lng": -1.809286,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Château de Malnoé, Cheix-en-Retz",
+    "lat": 47.174806,
+    "lng": -1.809652,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Petit Port, Cheix-en-Retz",
+    "lat": 47.171383,
+    "lng": -1.788078,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Petit Port, Cheix-en-Retz",
+    "lat": 47.17149,
+    "lng": -1.787718,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Petit Port, Cheix-en-Retz",
+    "lat": 47.171439,
+    "lng": -1.787875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse du Petit Port, Cheix-en-Retz",
+    "lat": 47.171426,
+    "lng": -1.787976,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse du Petit Port, Cheix-en-Retz",
+    "lat": 47.171404,
+    "lng": -1.788077,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Poteau, Cheix-en-Retz",
+    "lat": 47.185345,
+    "lng": -1.796173,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Poteau, Cheix-en-Retz",
+    "lat": 47.186031,
+    "lng": -1.796506,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse du Poteau, Cheix-en-Retz",
+    "lat": 47.18587,
+    "lng": -1.796543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Stade, Cheix-en-Retz",
+    "lat": 47.182508,
+    "lng": -1.806997,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Lotissement des Quarterons, Cheix-en-Retz",
+    "lat": 47.182103,
+    "lng": -1.809662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Lotissement des Quarterons, Cheix-en-Retz",
+    "lat": 47.182113,
+    "lng": -1.809606,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Lotissement des Quarterons, Cheix-en-Retz",
+    "lat": 47.182105,
+    "lng": -1.80929,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Lotissement des Quarterons, Cheix-en-Retz",
+    "lat": 47.181922,
+    "lng": -1.809227,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Lotissement des Quarterons, Cheix-en-Retz",
+    "lat": 47.181914,
+    "lng": -1.809293,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181987,
+    "lng": -1.815222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181956,
+    "lng": -1.815214,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181724,
+    "lng": -1.815131,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1C Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181918,
+    "lng": -1.815205,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181591,
+    "lng": -1.81499,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181483,
+    "lng": -1.814887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181351,
+    "lng": -1.814935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181329,
+    "lng": -1.815198,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181318,
+    "lng": -1.815335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181298,
+    "lng": -1.815473,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.18129,
+    "lng": -1.815626,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181282,
+    "lng": -1.815721,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181309,
+    "lng": -1.81582,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181367,
+    "lng": -1.815998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181382,
+    "lng": -1.816072,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181496,
+    "lng": -1.816158,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181572,
+    "lng": -1.816373,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181737,
+    "lng": -1.816115,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Place Saint Martin, Cheix-en-Retz",
+    "lat": 47.181753,
+    "lng": -1.815911,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place Yvon Barbot, Cheix-en-Retz",
+    "lat": 47.181559,
+    "lng": -1.814572,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de la Chaucorbe, Cheix-en-Retz",
+    "lat": 47.176324,
+    "lng": -1.787508,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.181975,
+    "lng": -1.816014,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182056,
+    "lng": -1.815967,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182106,
+    "lng": -1.815633,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182137,
+    "lng": -1.815213,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182144,
+    "lng": -1.815464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182173,
+    "lng": -1.815103,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182583,
+    "lng": -1.815605,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182184,
+    "lng": -1.815335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 ter Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182202,
+    "lng": -1.815274,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182213,
+    "lng": -1.815002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182257,
+    "lng": -1.815126,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182276,
+    "lng": -1.814833,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182363,
+    "lng": -1.814867,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182333,
+    "lng": -1.814663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18241,
+    "lng": -1.814725,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182381,
+    "lng": -1.814533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182468,
+    "lng": -1.814591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182515,
+    "lng": -1.814473,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182531,
+    "lng": -1.814221,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182546,
+    "lng": -1.814397,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182646,
+    "lng": -1.813974,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18269,
+    "lng": -1.813901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182933,
+    "lng": -1.813537,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182683,
+    "lng": -1.814172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182977,
+    "lng": -1.81347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182767,
+    "lng": -1.814019,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183183,
+    "lng": -1.813167,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182786,
+    "lng": -1.813986,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18322,
+    "lng": -1.813096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183475,
+    "lng": -1.812738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183518,
+    "lng": -1.812676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.182932,
+    "lng": -1.81375,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183645,
+    "lng": -1.812482,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183084,
+    "lng": -1.813531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183837,
+    "lng": -1.812146,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183104,
+    "lng": -1.813497,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183883,
+    "lng": -1.812076,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183257,
+    "lng": -1.813283,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184093,
+    "lng": -1.811708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183334,
+    "lng": -1.813172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184128,
+    "lng": -1.811639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18336,
+    "lng": -1.813136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184368,
+    "lng": -1.811287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18459,
+    "lng": -1.810901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183583,
+    "lng": -1.812822,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184738,
+    "lng": -1.810661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184771,
+    "lng": -1.810604,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183684,
+    "lng": -1.81268,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184801,
+    "lng": -1.810557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "59 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183879,
+    "lng": -1.812339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184879,
+    "lng": -1.810426,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "61 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.183974,
+    "lng": -1.812178,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184946,
+    "lng": -1.810315,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "63 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184011,
+    "lng": -1.812119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185027,
+    "lng": -1.810186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185042,
+    "lng": -1.810156,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "68 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185124,
+    "lng": -1.809988,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "69 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.184892,
+    "lng": -1.810594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "71 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.18528,
+    "lng": -1.809904,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "74 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185222,
+    "lng": -1.809738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "76 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185328,
+    "lng": -1.809522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "78 Rue de l'Acheneau, Cheix-en-Retz",
+    "lat": 47.185383,
+    "lng": -1.809384,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.184311,
+    "lng": -1.811805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.184311,
+    "lng": -1.81195,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.184854,
+    "lng": -1.811854,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.184678,
+    "lng": -1.811976,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.184904,
+    "lng": -1.811991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Case de l'Ecu, Cheix-en-Retz",
+    "lat": 47.185409,
+    "lng": -1.812091,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181782,
+    "lng": -1.816603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181622,
+    "lng": -1.817637,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181793,
+    "lng": -1.817113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181492,
+    "lng": -1.817768,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181415,
+    "lng": -1.817687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.18146,
+    "lng": -1.817778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.18142,
+    "lng": -1.817799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181183,
+    "lng": -1.817775,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.181218,
+    "lng": -1.817869,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.18114,
+    "lng": -1.817788,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.18083,
+    "lng": -1.817896,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.180864,
+    "lng": -1.818149,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.180806,
+    "lng": -1.818809,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.180804,
+    "lng": -1.819227,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de la Pierre Tremblante, Cheix-en-Retz",
+    "lat": 47.180805,
+    "lng": -1.819464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178732,
+    "lng": -1.80493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178633,
+    "lng": -1.80397,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178728,
+    "lng": -1.804757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178632,
+    "lng": -1.803814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17862,
+    "lng": -1.803548,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178624,
+    "lng": -1.803492,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178715,
+    "lng": -1.803855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178624,
+    "lng": -1.803466,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178837,
+    "lng": -1.803382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178741,
+    "lng": -1.803326,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178931,
+    "lng": -1.803304,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17885,
+    "lng": -1.80319,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179142,
+    "lng": -1.802745,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179172,
+    "lng": -1.802536,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179175,
+    "lng": -1.802223,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17925,
+    "lng": -1.802783,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179256,
+    "lng": -1.802481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179163,
+    "lng": -1.801924,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179256,
+    "lng": -1.802287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179129,
+    "lng": -1.801548,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179252,
+    "lng": -1.8021,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179122,
+    "lng": -1.801443,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179242,
+    "lng": -1.80197,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179049,
+    "lng": -1.801183,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17923,
+    "lng": -1.801751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179066,
+    "lng": -1.800996,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179132,
+    "lng": -1.800777,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179142,
+    "lng": -1.800346,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179221,
+    "lng": -1.800319,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179101,
+    "lng": -1.800119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17916,
+    "lng": -1.799975,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178997,
+    "lng": -1.799716,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179093,
+    "lng": -1.799631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178927,
+    "lng": -1.799368,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179067,
+    "lng": -1.799481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.17889,
+    "lng": -1.799146,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179038,
+    "lng": -1.799327,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.178873,
+    "lng": -1.79906,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179085,
+    "lng": -1.798252,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179127,
+    "lng": -1.798372,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179155,
+    "lng": -1.798169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179702,
+    "lng": -1.797688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.179907,
+    "lng": -1.797246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.180032,
+    "lng": -1.797009,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.180126,
+    "lng": -1.796824,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.180203,
+    "lng": -1.796594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.18024,
+    "lng": -1.79642,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "70 Rue de la Tancherie, Cheix-en-Retz",
+    "lat": 47.180288,
+    "lng": -1.795903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181238,
+    "lng": -1.814057,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181339,
+    "lng": -1.814603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181034,
+    "lng": -1.813706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181293,
+    "lng": -1.814363,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180948,
+    "lng": -1.813573,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181237,
+    "lng": -1.814221,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180845,
+    "lng": -1.813396,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181165,
+    "lng": -1.814101,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180677,
+    "lng": -1.813054,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181037,
+    "lng": -1.813892,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.181007,
+    "lng": -1.813847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180542,
+    "lng": -1.812729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180974,
+    "lng": -1.813789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180407,
+    "lng": -1.812387,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180934,
+    "lng": -1.813729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180313,
+    "lng": -1.812163,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180292,
+    "lng": -1.812107,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180233,
+    "lng": -1.811944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180137,
+    "lng": -1.811681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.180025,
+    "lng": -1.811419,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.179849,
+    "lng": -1.810957,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue de Malnoé, Cheix-en-Retz",
+    "lat": 47.179706,
+    "lng": -1.810325,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.174176,
+    "lng": -1.786991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.174503,
+    "lng": -1.787103,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.174321,
+    "lng": -1.787115,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.17368,
+    "lng": -1.787189,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.174213,
+    "lng": -1.787145,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173647,
+    "lng": -1.787204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173549,
+    "lng": -1.787252,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173252,
+    "lng": -1.787317,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173934,
+    "lng": -1.787227,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172998,
+    "lng": -1.787379,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173811,
+    "lng": -1.787298,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172867,
+    "lng": -1.787395,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173637,
+    "lng": -1.787357,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172598,
+    "lng": -1.787472,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173596,
+    "lng": -1.787371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173413,
+    "lng": -1.787427,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172334,
+    "lng": -1.787535,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173289,
+    "lng": -1.787457,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.17319,
+    "lng": -1.787479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173089,
+    "lng": -1.787484,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.173004,
+    "lng": -1.78751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172822,
+    "lng": -1.787549,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172549,
+    "lng": -1.787626,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172393,
+    "lng": -1.787648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.172103,
+    "lng": -1.787708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.171999,
+    "lng": -1.787709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue de Pilon, Cheix-en-Retz",
+    "lat": 47.171948,
+    "lng": -1.787704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.182347,
+    "lng": -1.809684,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.18249,
+    "lng": -1.809601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.18262,
+    "lng": -1.809753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.182784,
+    "lng": -1.809672,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.182904,
+    "lng": -1.809934,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.18324,
+    "lng": -1.810004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.183192,
+    "lng": -1.810106,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.183292,
+    "lng": -1.810036,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.183464,
+    "lng": -1.810262,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Alouettes, Cheix-en-Retz",
+    "lat": 47.183367,
+    "lng": -1.810079,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.18226,
+    "lng": -1.808382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182005,
+    "lng": -1.808529,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182005,
+    "lng": -1.808352,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182021,
+    "lng": -1.808233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182055,
+    "lng": -1.808022,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182063,
+    "lng": -1.807788,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.182093,
+    "lng": -1.807749,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Boiselées, Cheix-en-Retz",
+    "lat": 47.18226,
+    "lng": -1.807962,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Hauts Bois, Cheix-en-Retz",
+    "lat": 47.182089,
+    "lng": -1.816426,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Hauts Bois, Cheix-en-Retz",
+    "lat": 47.182487,
+    "lng": -1.816508,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Hauts Bois, Cheix-en-Retz",
+    "lat": 47.182787,
+    "lng": -1.816076,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Hauts Bois, Cheix-en-Retz",
+    "lat": 47.182711,
+    "lng": -1.816663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Hauts Bois, Cheix-en-Retz",
+    "lat": 47.182893,
+    "lng": -1.816756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.178174,
+    "lng": -1.77815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.178506,
+    "lng": -1.77806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.178933,
+    "lng": -1.777809,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.179192,
+    "lng": -1.777681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.179122,
+    "lng": -1.777799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.1794,
+    "lng": -1.777699,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.17949,
+    "lng": -1.777809,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.179736,
+    "lng": -1.777527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.179699,
+    "lng": -1.77725,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.17991,
+    "lng": -1.777647,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.179965,
+    "lng": -1.777494,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180103,
+    "lng": -1.777591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180167,
+    "lng": -1.777415,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180727,
+    "lng": -1.777224,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180563,
+    "lng": -1.777172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.181696,
+    "lng": -1.776762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180726,
+    "lng": -1.777068,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.180793,
+    "lng": -1.777033,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Hérissées, Cheix-en-Retz",
+    "lat": 47.181087,
+    "lng": -1.776854,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183909,
+    "lng": -1.8097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183997,
+    "lng": -1.809813,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 ter Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183937,
+    "lng": -1.810138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183832,
+    "lng": -1.809659,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183829,
+    "lng": -1.810233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183768,
+    "lng": -1.810032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183796,
+    "lng": -1.810545,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183723,
+    "lng": -1.810443,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.183766,
+    "lng": -1.810793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Ibis, Cheix-en-Retz",
+    "lat": 47.18369,
+    "lng": -1.810779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.18669,
+    "lng": -1.809113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186294,
+    "lng": -1.809123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186951,
+    "lng": -1.809218,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186636,
+    "lng": -1.808982,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.18713,
+    "lng": -1.80916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue des Landes, Cheix-en-Retz",
+    "lat": 47.18702,
+    "lng": -1.80921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186767,
+    "lng": -1.808341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.187139,
+    "lng": -1.80907,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Rue des Landes, Cheix-en-Retz",
+    "lat": 47.187006,
+    "lng": -1.809035,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186905,
+    "lng": -1.808603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186874,
+    "lng": -1.808417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186868,
+    "lng": -1.808333,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186838,
+    "lng": -1.808132,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186768,
+    "lng": -1.807792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Landes, Cheix-en-Retz",
+    "lat": 47.186678,
+    "lng": -1.807602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Marcouronnes, Cheix-en-Retz",
+    "lat": 47.182982,
+    "lng": -1.800369,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Marcouronnes, Cheix-en-Retz",
+    "lat": 47.183332,
+    "lng": -1.800923,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186112,
+    "lng": -1.809537,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186229,
+    "lng": -1.809586,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186155,
+    "lng": -1.809683,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186296,
+    "lng": -1.809762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.1863,
+    "lng": -1.810097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186387,
+    "lng": -1.810029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186329,
+    "lng": -1.810217,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186488,
+    "lng": -1.810539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186422,
+    "lng": -1.810713,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186492,
+    "lng": -1.811008,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186512,
+    "lng": -1.810644,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186625,
+    "lng": -1.811416,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186593,
+    "lng": -1.810987,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.18674,
+    "lng": -1.811746,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186665,
+    "lng": -1.811226,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186756,
+    "lng": -1.812268,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186829,
+    "lng": -1.811694,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186896,
+    "lng": -1.812399,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.186912,
+    "lng": -1.811919,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.187023,
+    "lng": -1.81221,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue des Minees, Cheix-en-Retz",
+    "lat": 47.187191,
+    "lng": -1.812678,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.173103,
+    "lng": -1.787298,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172999,
+    "lng": -1.787122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.173049,
+    "lng": -1.787013,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172938,
+    "lng": -1.786862,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.173006,
+    "lng": -1.786903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172738,
+    "lng": -1.786786,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172714,
+    "lng": -1.786622,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172339,
+    "lng": -1.787058,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172353,
+    "lng": -1.78699,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.172146,
+    "lng": -1.787163,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Nenuphars, Cheix-en-Retz",
+    "lat": 47.171872,
+    "lng": -1.787504,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181385,
+    "lng": -1.813915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181967,
+    "lng": -1.811651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181987,
+    "lng": -1.811551,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181401,
+    "lng": -1.813735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182043,
+    "lng": -1.811122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182088,
+    "lng": -1.810789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.18142,
+    "lng": -1.813613,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182117,
+    "lng": -1.8105,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.18172,
+    "lng": -1.812388,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181696,
+    "lng": -1.812458,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 ter Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181809,
+    "lng": -1.811986,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182122,
+    "lng": -1.810378,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.18188,
+    "lng": -1.811569,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182337,
+    "lng": -1.808944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.181904,
+    "lng": -1.811451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182353,
+    "lng": -1.808869,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182406,
+    "lng": -1.808481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182038,
+    "lng": -1.810579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 bis Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182634,
+    "lng": -1.807835,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182637,
+    "lng": -1.808063,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182793,
+    "lng": -1.807845,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182705,
+    "lng": -1.808066,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.182848,
+    "lng": -1.807847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183142,
+    "lng": -1.80838,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.18312,
+    "lng": -1.807858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183138,
+    "lng": -1.808509,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183604,
+    "lng": -1.807782,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183352,
+    "lng": -1.80816,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183704,
+    "lng": -1.807626,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183411,
+    "lng": -1.808167,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183791,
+    "lng": -1.80752,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183587,
+    "lng": -1.80815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183962,
+    "lng": -1.807527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183769,
+    "lng": -1.808453,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184015,
+    "lng": -1.80753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183816,
+    "lng": -1.808398,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184284,
+    "lng": -1.807544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183937,
+    "lng": -1.80775,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184344,
+    "lng": -1.807546,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.183999,
+    "lng": -1.807757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184604,
+    "lng": -1.807565,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184256,
+    "lng": -1.807769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184422,
+    "lng": -1.80778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.18493,
+    "lng": -1.807724,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184476,
+    "lng": -1.807782,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.184961,
+    "lng": -1.808007,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.185142,
+    "lng": -1.808144,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.185327,
+    "lng": -1.808285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue des Quarterons, Cheix-en-Retz",
+    "lat": 47.185347,
+    "lng": -1.808378,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.178022,
+    "lng": -1.781464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.178227,
+    "lng": -1.782468,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.17811,
+    "lng": -1.782048,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.178062,
+    "lng": -1.781875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.177901,
+    "lng": -1.781453,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.177747,
+    "lng": -1.779012,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Bois aux Moines, Cheix-en-Retz",
+    "lat": 47.177907,
+    "lng": -1.777582,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.179328,
+    "lng": -1.801124,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.179578,
+    "lng": -1.801082,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.17959,
+    "lng": -1.801087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.17955,
+    "lng": -1.801191,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.179605,
+    "lng": -1.801093,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.17973,
+    "lng": -1.801233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.179622,
+    "lng": -1.801097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.17995,
+    "lng": -1.801176,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.179841,
+    "lng": -1.801092,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.180375,
+    "lng": -1.801008,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.18001,
+    "lng": -1.801032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.181312,
+    "lng": -1.800765,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.18201,
+    "lng": -1.800681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.181934,
+    "lng": -1.800572,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.182691,
+    "lng": -1.800138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.183153,
+    "lng": -1.799112,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue du Bois Praud, Cheix-en-Retz",
+    "lat": 47.185195,
+    "lng": -1.794208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Breuil, Cheix-en-Retz",
+    "lat": 47.191387,
+    "lng": -1.810607,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Breuil, Cheix-en-Retz",
+    "lat": 47.191966,
+    "lng": -1.810735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.181844,
+    "lng": -1.812554,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.181976,
+    "lng": -1.812458,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.181875,
+    "lng": -1.81257,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182033,
+    "lng": -1.812482,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182006,
+    "lng": -1.812632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.18237,
+    "lng": -1.812298,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.18204,
+    "lng": -1.812652,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182611,
+    "lng": -1.811938,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182131,
+    "lng": -1.812694,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182645,
+    "lng": -1.811884,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182246,
+    "lng": -1.81287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182884,
+    "lng": -1.812111,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182333,
+    "lng": -1.812891,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182879,
+    "lng": -1.812164,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.18237,
+    "lng": -1.812843,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182364,
+    "lng": -1.812774,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182774,
+    "lng": -1.812268,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Champ Fleuri, Cheix-en-Retz",
+    "lat": 47.182813,
+    "lng": -1.812263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.180611,
+    "lng": -1.813516,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.180339,
+    "lng": -1.81356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.180262,
+    "lng": -1.813569,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.180181,
+    "lng": -1.813577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.179981,
+    "lng": -1.81361,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.179669,
+    "lng": -1.813656,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.179439,
+    "lng": -1.813707,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.179051,
+    "lng": -1.813783,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.178833,
+    "lng": -1.813819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.17868,
+    "lng": -1.813847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.178542,
+    "lng": -1.813868,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.178279,
+    "lng": -1.813902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.178032,
+    "lng": -1.813952,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.177885,
+    "lng": -1.814422,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.177821,
+    "lng": -1.814407,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.177755,
+    "lng": -1.814019,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.177145,
+    "lng": -1.814081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.176936,
+    "lng": -1.81407,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.176522,
+    "lng": -1.814002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.176409,
+    "lng": -1.813981,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue du Grand Port, Cheix-en-Retz",
+    "lat": 47.17632,
+    "lng": -1.813963,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.175295,
+    "lng": -1.786383,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.176452,
+    "lng": -1.785504,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.176866,
+    "lng": -1.785056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.177147,
+    "lng": -1.784734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.177794,
+    "lng": -1.783773,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.17786,
+    "lng": -1.783667,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Moulin Lacroix, Cheix-en-Retz",
+    "lat": 47.178105,
+    "lng": -1.783229,
+    "etat": "non_visite"
+  }
+]

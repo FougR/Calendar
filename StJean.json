@@ -1,0 +1,6080 @@
+[
+  {
+    "adresse": "1 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191118,
+    "lng": -1.74439,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191157,
+    "lng": -1.744249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191076,
+    "lng": -1.74428,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191116,
+    "lng": -1.744119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191205,
+    "lng": -1.744021,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191241,
+    "lng": -1.743563,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191276,
+    "lng": -1.743719,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191253,
+    "lng": -1.743502,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191275,
+    "lng": -1.743416,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chemin des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191299,
+    "lng": -1.743322,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin des Vignes de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186823,
+    "lng": -1.731556,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin des Vignes de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186973,
+    "lng": -1.731356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin des Vignes de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.187076,
+    "lng": -1.731031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Chemin des Vignes de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.187075,
+    "lng": -1.731277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin du Bois Bernard, Saint-Jean-de-Boiseau",
+    "lat": 47.186969,
+    "lng": -1.732605,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin du Bois Bernard, Saint-Jean-de-Boiseau",
+    "lat": 47.186812,
+    "lng": -1.732396,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse Béthélian, Saint-Jean-de-Boiseau",
+    "lat": 47.193095,
+    "lng": -1.728456,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse Béthélian, Saint-Jean-de-Boiseau",
+    "lat": 47.193059,
+    "lng": -1.728661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse Béthélian, Saint-Jean-de-Boiseau",
+    "lat": 47.193099,
+    "lng": -1.728875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.189375,
+    "lng": -1.722203,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.189202,
+    "lng": -1.722139,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.189227,
+    "lng": -1.722011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.189036,
+    "lng": -1.721926,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.189072,
+    "lng": -1.721814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.188955,
+    "lng": -1.721825,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.188944,
+    "lng": -1.721651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.18881,
+    "lng": -1.721635,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.188779,
+    "lng": -1.721406,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Impasse de la Poterie, Saint-Jean-de-Boiseau",
+    "lat": 47.188604,
+    "lng": -1.721637,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196655,
+    "lng": -1.721284,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196653,
+    "lng": -1.721148,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196753,
+    "lng": -1.721241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196732,
+    "lng": -1.721113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196897,
+    "lng": -1.721193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196876,
+    "lng": -1.721002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse des Aliziers, Saint-Jean-de-Boiseau",
+    "lat": 47.196962,
+    "lng": -1.720964,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Gruches, Saint-Jean-de-Boiseau",
+    "lat": 47.197583,
+    "lng": -1.737256,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194132,
+    "lng": -1.728577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194184,
+    "lng": -1.728348,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194107,
+    "lng": -1.728688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.19419,
+    "lng": -1.728505,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194109,
+    "lng": -1.728808,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194168,
+    "lng": -1.728635,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.19413,
+    "lng": -1.728875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194268,
+    "lng": -1.728793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194173,
+    "lng": -1.728993,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Impasse des Ondains, Saint-Jean-de-Boiseau",
+    "lat": 47.194265,
+    "lng": -1.728915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193457,
+    "lng": -1.728599,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.19358,
+    "lng": -1.728577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193429,
+    "lng": -1.728682,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.19355,
+    "lng": -1.728661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193454,
+    "lng": -1.728791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193518,
+    "lng": -1.72875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.19345,
+    "lng": -1.72885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193549,
+    "lng": -1.728883,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193449,
+    "lng": -1.728921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193595,
+    "lng": -1.728945,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.19345,
+    "lng": -1.728967,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193595,
+    "lng": -1.729087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.19346,
+    "lng": -1.729053,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Impasse des Rochères, Saint-Jean-de-Boiseau",
+    "lat": 47.193479,
+    "lng": -1.729113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Bas du Clos, Saint-Jean-de-Boiseau",
+    "lat": 47.190404,
+    "lng": -1.745414,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Bas du Clos, Saint-Jean-de-Boiseau",
+    "lat": 47.190338,
+    "lng": -1.74565,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Bas du Clos, Saint-Jean-de-Boiseau",
+    "lat": 47.190319,
+    "lng": -1.745414,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Bas du Clos, Saint-Jean-de-Boiseau",
+    "lat": 47.190248,
+    "lng": -1.745591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Bigand, Saint-Jean-de-Boiseau",
+    "lat": 47.191818,
+    "lng": -1.725591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Bigand, Saint-Jean-de-Boiseau",
+    "lat": 47.191751,
+    "lng": -1.725309,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.196745,
+    "lng": -1.721873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.19672,
+    "lng": -1.721714,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.19677,
+    "lng": -1.721643,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.196837,
+    "lng": -1.721651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.196873,
+    "lng": -1.721726,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse du Parc, Saint-Jean-de-Boiseau",
+    "lat": 47.196846,
+    "lng": -1.721884,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196654,
+    "lng": -1.743466,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196545,
+    "lng": -1.743086,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196681,
+    "lng": -1.743549,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196824,
+    "lng": -1.743072,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196677,
+    "lng": -1.743317,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196805,
+    "lng": -1.743016,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196728,
+    "lng": -1.743281,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.19678,
+    "lng": -1.742939,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196763,
+    "lng": -1.743256,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196756,
+    "lng": -1.742866,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196819,
+    "lng": -1.743215,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196853,
+    "lng": -1.743145,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196854,
+    "lng": -1.743093,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.19684,
+    "lng": -1.74305,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196814,
+    "lng": -1.74297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Impasse du Tertre, Saint-Jean-de-Boiseau",
+    "lat": 47.196785,
+    "lng": -1.742879,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193664,
+    "lng": -1.727208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193671,
+    "lng": -1.72712,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193683,
+    "lng": -1.726974,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193673,
+    "lng": -1.726907,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193677,
+    "lng": -1.726867,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse du Trait de la Cour, Saint-Jean-de-Boiseau",
+    "lat": 47.193719,
+    "lng": -1.726848,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse Louise Michel, Saint-Jean-de-Boiseau",
+    "lat": 47.193571,
+    "lng": -1.728296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse Louise Michel, Saint-Jean-de-Boiseau",
+    "lat": 47.193578,
+    "lng": -1.728168,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse Louise Michel, Saint-Jean-de-Boiseau",
+    "lat": 47.193628,
+    "lng": -1.728028,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse Louise Michel, Saint-Jean-de-Boiseau",
+    "lat": 47.19368,
+    "lng": -1.727942,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse Louise Michel, Saint-Jean-de-Boiseau",
+    "lat": 47.193733,
+    "lng": -1.72784,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.196092,
+    "lng": -1.724233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.195791,
+    "lng": -1.724107,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.195945,
+    "lng": -1.724052,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.195947,
+    "lng": -1.723888,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.195887,
+    "lng": -1.723768,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Place de la Liberté, Saint-Jean-de-Boiseau",
+    "lat": 47.195802,
+    "lng": -1.723846,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place des Acacias, Saint-Jean-de-Boiseau",
+    "lat": 47.199544,
+    "lng": -1.739533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place des Acacias, Saint-Jean-de-Boiseau",
+    "lat": 47.199727,
+    "lng": -1.739699,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place des Acacias, Saint-Jean-de-Boiseau",
+    "lat": 47.199976,
+    "lng": -1.739885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199685,
+    "lng": -1.735978,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199807,
+    "lng": -1.735966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199749,
+    "lng": -1.736124,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199828,
+    "lng": -1.736098,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199773,
+    "lng": -1.736254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199835,
+    "lng": -1.736231,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199788,
+    "lng": -1.736333,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.19985,
+    "lng": -1.736342,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199778,
+    "lng": -1.736516,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199862,
+    "lng": -1.736473,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199791,
+    "lng": -1.736672,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199855,
+    "lng": -1.736687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199862,
+    "lng": -1.736769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199812,
+    "lng": -1.736794,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199866,
+    "lng": -1.736821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199812,
+    "lng": -1.736932,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199878,
+    "lng": -1.737041,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199875,
+    "lng": -1.736935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199819,
+    "lng": -1.737029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199896,
+    "lng": -1.737169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199824,
+    "lng": -1.737108,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199909,
+    "lng": -1.73728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199831,
+    "lng": -1.737182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199914,
+    "lng": -1.737347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199839,
+    "lng": -1.737265,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199849,
+    "lng": -1.737376,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199919,
+    "lng": -1.737412,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.19986,
+    "lng": -1.737495,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199927,
+    "lng": -1.737519,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199878,
+    "lng": -1.737846,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199936,
+    "lng": -1.737622,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199875,
+    "lng": -1.737996,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199914,
+    "lng": -1.738137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199942,
+    "lng": -1.737706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200029,
+    "lng": -1.738534,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.19995,
+    "lng": -1.737805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199958,
+    "lng": -1.737902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199966,
+    "lng": -1.737995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200013,
+    "lng": -1.738794,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199981,
+    "lng": -1.738137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200004,
+    "lng": -1.738908,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200028,
+    "lng": -1.738331,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.19997,
+    "lng": -1.739076,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200042,
+    "lng": -1.738382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199923,
+    "lng": -1.739211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.20006,
+    "lng": -1.738449,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200099,
+    "lng": -1.738648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200073,
+    "lng": -1.738732,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200076,
+    "lng": -1.739018,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 bis Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.200023,
+    "lng": -1.739079,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.2,
+    "lng": -1.739195,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue Abbé Henri Garnier, Saint-Jean-de-Boiseau",
+    "lat": 47.199975,
+    "lng": -1.739294,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194718,
+    "lng": -1.722585,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194593,
+    "lng": -1.72244,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194684,
+    "lng": -1.722438,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194497,
+    "lng": -1.722154,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194607,
+    "lng": -1.722208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.193999,
+    "lng": -1.720861,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194566,
+    "lng": -1.722087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194524,
+    "lng": -1.721963,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194348,
+    "lng": -1.72143,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Charles De Gaulle, Saint-Jean-de-Boiseau",
+    "lat": 47.194154,
+    "lng": -1.720972,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195485,
+    "lng": -1.726109,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195485,
+    "lng": -1.726109,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195421,
+    "lng": -1.726353,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195421,
+    "lng": -1.726353,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195351,
+    "lng": -1.726623,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195351,
+    "lng": -1.726623,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195286,
+    "lng": -1.726886,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de Bethleem, Saint-Jean-de-Boiseau",
+    "lat": 47.195286,
+    "lng": -1.726886,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196204,
+    "lng": -1.724009,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196599,
+    "lng": -1.724152,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196715,
+    "lng": -1.724182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 ter Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196839,
+    "lng": -1.724339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196888,
+    "lng": -1.72454,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196655,
+    "lng": -1.724073,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de l'Egalité, Saint-Jean-de-Boiseau",
+    "lat": 47.196997,
+    "lng": -1.724662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Ouche Jacquet, Saint-Jean-de-Boiseau",
+    "lat": 47.19623,
+    "lng": -1.738643,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Ouche Jacquet, Saint-Jean-de-Boiseau",
+    "lat": 47.19666,
+    "lng": -1.73769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Ouche Jacquet, Saint-Jean-de-Boiseau",
+    "lat": 47.196756,
+    "lng": -1.737532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198983,
+    "lng": -1.735576,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.19881,
+    "lng": -1.735279,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.19893,
+    "lng": -1.735467,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198651,
+    "lng": -1.734878,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198891,
+    "lng": -1.735347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198823,
+    "lng": -1.735178,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198779,
+    "lng": -1.735066,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198881,
+    "lng": -1.734898,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.199034,
+    "lng": -1.734731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198702,
+    "lng": -1.734917,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198612,
+    "lng": -1.734704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198539,
+    "lng": -1.734528,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de la Croix, Saint-Jean-de-Boiseau",
+    "lat": 47.198297,
+    "lng": -1.734087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.19991,
+    "lng": -1.738302,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199907,
+    "lng": -1.738356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199886,
+    "lng": -1.738557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.19986,
+    "lng": -1.738424,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.19974,
+    "lng": -1.739354,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199811,
+    "lng": -1.738636,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199686,
+    "lng": -1.739079,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199689,
+    "lng": -1.7392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de la Fontaine, Saint-Jean-de-Boiseau",
+    "lat": 47.199663,
+    "lng": -1.739442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199445,
+    "lng": -1.739662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199375,
+    "lng": -1.73981,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199352,
+    "lng": -1.739708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199205,
+    "lng": -1.73992,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199048,
+    "lng": -1.739981,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 ter Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198938,
+    "lng": -1.740038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199248,
+    "lng": -1.73976,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198828,
+    "lng": -1.740095,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199132,
+    "lng": -1.73982,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.199049,
+    "lng": -1.739863,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.19863,
+    "lng": -1.740199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.19897,
+    "lng": -1.739904,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198481,
+    "lng": -1.740277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198891,
+    "lng": -1.739945,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198325,
+    "lng": -1.740357,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198786,
+    "lng": -1.739998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198175,
+    "lng": -1.740432,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198663,
+    "lng": -1.740062,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197886,
+    "lng": -1.740587,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198506,
+    "lng": -1.740144,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198412,
+    "lng": -1.740193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197657,
+    "lng": -1.740698,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197569,
+    "lng": -1.740738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.198294,
+    "lng": -1.740254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.19748,
+    "lng": -1.740766,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.19738,
+    "lng": -1.740795,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197854,
+    "lng": -1.740481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197222,
+    "lng": -1.740818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197736,
+    "lng": -1.740539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196946,
+    "lng": -1.740844,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197558,
+    "lng": -1.740615,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196623,
+    "lng": -1.740839,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196191,
+    "lng": -1.74085,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197313,
+    "lng": -1.740646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.197093,
+    "lng": -1.740671,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196922,
+    "lng": -1.740663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.19674,
+    "lng": -1.740665,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196608,
+    "lng": -1.740667,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 bis Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196495,
+    "lng": -1.740668,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196438,
+    "lng": -1.740671,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196281,
+    "lng": -1.740675,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.196114,
+    "lng": -1.740679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue de la Loire, Saint-Jean-de-Boiseau",
+    "lat": 47.195961,
+    "lng": -1.740638,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186657,
+    "lng": -1.732021,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186636,
+    "lng": -1.731644,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186619,
+    "lng": -1.731417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186873,
+    "lng": -1.730479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186596,
+    "lng": -1.731093,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.187247,
+    "lng": -1.729137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.186721,
+    "lng": -1.730631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Prunière, Saint-Jean-de-Boiseau",
+    "lat": 47.18681,
+    "lng": -1.730437,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.197755,
+    "lng": -1.7248,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 ter Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.198182,
+    "lng": -1.724579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.198737,
+    "lng": -1.724229,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.198268,
+    "lng": -1.724452,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.19832,
+    "lng": -1.724543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.198852,
+    "lng": -1.724188,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.199028,
+    "lng": -1.724249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.19846,
+    "lng": -1.724501,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.199153,
+    "lng": -1.724281,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Rivière, Saint-Jean-de-Boiseau",
+    "lat": 47.199258,
+    "lng": -1.724293,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195739,
+    "lng": -1.7259,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.19557,
+    "lng": -1.726952,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195736,
+    "lng": -1.725996,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195664,
+    "lng": -1.727004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195725,
+    "lng": -1.726083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195708,
+    "lng": -1.726162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195694,
+    "lng": -1.726246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195677,
+    "lng": -1.726348,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 bis Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195649,
+    "lng": -1.726517,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195628,
+    "lng": -1.726693,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Vallée, Saint-Jean-de-Boiseau",
+    "lat": 47.195609,
+    "lng": -1.72684,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Ajoncs, Saint-Jean-de-Boiseau",
+    "lat": 47.192219,
+    "lng": -1.726288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Ajoncs, Saint-Jean-de-Boiseau",
+    "lat": 47.192275,
+    "lng": -1.72638,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Ajoncs, Saint-Jean-de-Boiseau",
+    "lat": 47.19225,
+    "lng": -1.72662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Ajoncs, Saint-Jean-de-Boiseau",
+    "lat": 47.192325,
+    "lng": -1.726839,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.192749,
+    "lng": -1.726946,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.192045,
+    "lng": -1.727186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.192542,
+    "lng": -1.727016,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.191809,
+    "lng": -1.727127,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.192322,
+    "lng": -1.727178,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.192139,
+    "lng": -1.727251,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.191989,
+    "lng": -1.72726,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Bruyères, Saint-Jean-de-Boiseau",
+    "lat": 47.191797,
+    "lng": -1.727203,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Celliers, Saint-Jean-de-Boiseau",
+    "lat": 47.189779,
+    "lng": -1.747984,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Celliers, Saint-Jean-de-Boiseau",
+    "lat": 47.189765,
+    "lng": -1.747848,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue des Celliers, Saint-Jean-de-Boiseau",
+    "lat": 47.189836,
+    "lng": -1.747798,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Celliers, Saint-Jean-de-Boiseau",
+    "lat": 47.190002,
+    "lng": -1.747789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Celliers, Saint-Jean-de-Boiseau",
+    "lat": 47.189981,
+    "lng": -1.747908,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191135,
+    "lng": -1.723579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191137,
+    "lng": -1.723398,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191134,
+    "lng": -1.723497,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191133,
+    "lng": -1.723705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191219,
+    "lng": -1.723858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191236,
+    "lng": -1.723986,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 ter Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.19124,
+    "lng": -1.72407,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191139,
+    "lng": -1.723813,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191143,
+    "lng": -1.723879,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191204,
+    "lng": -1.724162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191152,
+    "lng": -1.724038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191202,
+    "lng": -1.72426,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191147,
+    "lng": -1.72431,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.19113,
+    "lng": -1.724522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 ter Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.19113,
+    "lng": -1.724627,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191201,
+    "lng": -1.724355,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191122,
+    "lng": -1.72477,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.1912,
+    "lng": -1.724531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13B Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.190917,
+    "lng": -1.724895,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13C Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.190849,
+    "lng": -1.724827,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191107,
+    "lng": -1.724946,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191199,
+    "lng": -1.724641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191092,
+    "lng": -1.725086,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191194,
+    "lng": -1.724753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Dames, Saint-Jean-de-Boiseau",
+    "lat": 47.191189,
+    "lng": -1.724878,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195845,
+    "lng": -1.72525,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195845,
+    "lng": -1.7254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195755,
+    "lng": -1.725374,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195773,
+    "lng": -1.725226,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195742,
+    "lng": -1.725463,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195713,
+    "lng": -1.725572,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Frères Gohaud, Saint-Jean-de-Boiseau",
+    "lat": 47.195641,
+    "lng": -1.725561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194542,
+    "lng": -1.726533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194381,
+    "lng": -1.727895,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194537,
+    "lng": -1.726615,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194336,
+    "lng": -1.727986,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.19453,
+    "lng": -1.726744,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194276,
+    "lng": -1.728093,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194224,
+    "lng": -1.728243,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194528,
+    "lng": -1.726798,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.193367,
+    "lng": -1.728526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.193275,
+    "lng": -1.728472,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194524,
+    "lng": -1.72687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.193053,
+    "lng": -1.728205,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 bis Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.192965,
+    "lng": -1.728068,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194515,
+    "lng": -1.726943,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194501,
+    "lng": -1.72706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.19449,
+    "lng": -1.727148,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194479,
+    "lng": -1.727211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194462,
+    "lng": -1.727308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194437,
+    "lng": -1.727435,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194319,
+    "lng": -1.727847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194222,
+    "lng": -1.728024,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194013,
+    "lng": -1.728149,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue des Genêts, Saint-Jean-de-Boiseau",
+    "lat": 47.194016,
+    "lng": -1.728211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199772,
+    "lng": -1.735673,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199688,
+    "lng": -1.735594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199767,
+    "lng": -1.735583,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199708,
+    "lng": -1.735315,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199777,
+    "lng": -1.735193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199742,
+    "lng": -1.735109,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199784,
+    "lng": -1.734886,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.19971,
+    "lng": -1.734599,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199753,
+    "lng": -1.734666,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199662,
+    "lng": -1.73417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199733,
+    "lng": -1.734451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199703,
+    "lng": -1.734169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199673,
+    "lng": -1.73393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199657,
+    "lng": -1.733791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199649,
+    "lng": -1.733723,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Gras, Saint-Jean-de-Boiseau",
+    "lat": 47.199637,
+    "lng": -1.733629,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Jardins, Saint-Jean-de-Boiseau",
+    "lat": 47.199788,
+    "lng": -1.73767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Jardins, Saint-Jean-de-Boiseau",
+    "lat": 47.199456,
+    "lng": -1.737711,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Jardins, Saint-Jean-de-Boiseau",
+    "lat": 47.199528,
+    "lng": -1.737728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Lilas, Saint-Jean-de-Boiseau",
+    "lat": 47.193767,
+    "lng": -1.726273,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Lilas, Saint-Jean-de-Boiseau",
+    "lat": 47.193761,
+    "lng": -1.7264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Lilas, Saint-Jean-de-Boiseau",
+    "lat": 47.193521,
+    "lng": -1.726535,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191838,
+    "lng": -1.745266,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.191742,
+    "lng": -1.745165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.19518,
+    "lng": -1.748157,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.19163,
+    "lng": -1.745046,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.194956,
+    "lng": -1.747985,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.19153,
+    "lng": -1.744944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190873,
+    "lng": -1.744295,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.19333,
+    "lng": -1.74676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190658,
+    "lng": -1.744081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190457,
+    "lng": -1.74388,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190188,
+    "lng": -1.743611,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.189694,
+    "lng": -1.743108,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190783,
+    "lng": -1.744338,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.189376,
+    "lng": -1.742814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190533,
+    "lng": -1.744082,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190299,
+    "lng": -1.743843,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190178,
+    "lng": -1.743723,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 bis Rue des Petites Landes, Saint-Jean-de-Boiseau",
+    "lat": 47.190062,
+    "lng": -1.743643,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.19556,
+    "lng": -1.725795,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.195119,
+    "lng": -1.725943,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.195405,
+    "lng": -1.725795,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.194936,
+    "lng": -1.725953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.195195,
+    "lng": -1.725792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.194767,
+    "lng": -1.725966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.195036,
+    "lng": -1.725796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193612,
+    "lng": -1.726002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.19436,
+    "lng": -1.725801,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193437,
+    "lng": -1.725815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.194202,
+    "lng": -1.725799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.194084,
+    "lng": -1.725798,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193885,
+    "lng": -1.725796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.192995,
+    "lng": -1.724411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193722,
+    "lng": -1.725795,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.19346,
+    "lng": -1.725598,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193389,
+    "lng": -1.725316,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193258,
+    "lng": -1.724779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.1932,
+    "lng": -1.724556,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193081,
+    "lng": -1.724075,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue des Violettes, Saint-Jean-de-Boiseau",
+    "lat": 47.193029,
+    "lng": -1.723868,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199569,
+    "lng": -1.739995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199607,
+    "lng": -1.740238,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199651,
+    "lng": -1.74004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199626,
+    "lng": -1.740394,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199671,
+    "lng": -1.740186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199665,
+    "lng": -1.740706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199684,
+    "lng": -1.74086,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199677,
+    "lng": -1.740351,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199715,
+    "lng": -1.741119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199748,
+    "lng": -1.741385,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 ter Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199772,
+    "lng": -1.741583,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199802,
+    "lng": -1.74183,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.19975,
+    "lng": -1.74083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199864,
+    "lng": -1.742338,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199794,
+    "lng": -1.741184,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199796,
+    "lng": -1.742899,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.19982,
+    "lng": -1.741406,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199768,
+    "lng": -1.74305,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.199867,
+    "lng": -1.74181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 bis Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.200415,
+    "lng": -1.743283,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Bac, Saint-Jean-de-Boiseau",
+    "lat": 47.200683,
+    "lng": -1.744711,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.195841,
+    "lng": -1.725603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196017,
+    "lng": -1.725443,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196065,
+    "lng": -1.725415,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.195977,
+    "lng": -1.725563,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196203,
+    "lng": -1.725377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196022,
+    "lng": -1.725551,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196293,
+    "lng": -1.725343,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196095,
+    "lng": -1.725496,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196557,
+    "lng": -1.725292,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196162,
+    "lng": -1.725474,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196609,
+    "lng": -1.725263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 bis Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196688,
+    "lng": -1.725214,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196302,
+    "lng": -1.725428,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196349,
+    "lng": -1.725414,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196778,
+    "lng": -1.725169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196496,
+    "lng": -1.725396,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196575,
+    "lng": -1.725362,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196928,
+    "lng": -1.725123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.19669,
+    "lng": -1.725317,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196979,
+    "lng": -1.725048,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.1969,
+    "lng": -1.725358,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.19704,
+    "lng": -1.725363,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Cartron, Saint-Jean-de-Boiseau",
+    "lat": 47.196993,
+    "lng": -1.725217,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.19967,
+    "lng": -1.735756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199582,
+    "lng": -1.735885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199461,
+    "lng": -1.735814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199432,
+    "lng": -1.735912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199345,
+    "lng": -1.735799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199385,
+    "lng": -1.735955,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199288,
+    "lng": -1.735911,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198792,
+    "lng": -1.735701,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198741,
+    "lng": -1.735733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.199231,
+    "lng": -1.7358,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198673,
+    "lng": -1.735824,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198953,
+    "lng": -1.735733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198627,
+    "lng": -1.735872,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198828,
+    "lng": -1.735797,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198601,
+    "lng": -1.735885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198609,
+    "lng": -1.736017,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198579,
+    "lng": -1.735923,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198536,
+    "lng": -1.736084,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198541,
+    "lng": -1.735964,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198465,
+    "lng": -1.736151,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198355,
+    "lng": -1.736234,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 bis Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198252,
+    "lng": -1.736295,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198398,
+    "lng": -1.736095,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198186,
+    "lng": -1.736356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198335,
+    "lng": -1.736118,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197915,
+    "lng": -1.736552,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198259,
+    "lng": -1.736175,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197701,
+    "lng": -1.736706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 bis Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197669,
+    "lng": -1.736729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198159,
+    "lng": -1.736251,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197585,
+    "lng": -1.736789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.198054,
+    "lng": -1.736331,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197494,
+    "lng": -1.736855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197946,
+    "lng": -1.736413,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197825,
+    "lng": -1.736503,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.196927,
+    "lng": -1.736976,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197718,
+    "lng": -1.736581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.19646,
+    "lng": -1.736895,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197563,
+    "lng": -1.736695,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 bis Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197279,
+    "lng": -1.736844,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.197089,
+    "lng": -1.736888,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.196837,
+    "lng": -1.736853,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue du Château, Saint-Jean-de-Boiseau",
+    "lat": 47.196588,
+    "lng": -1.736803,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194671,
+    "lng": -1.72284,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194753,
+    "lng": -1.722912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194602,
+    "lng": -1.722894,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194699,
+    "lng": -1.722944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194543,
+    "lng": -1.72295,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194654,
+    "lng": -1.722972,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194368,
+    "lng": -1.723051,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194607,
+    "lng": -1.723004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194098,
+    "lng": -1.723154,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194553,
+    "lng": -1.72304,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.194478,
+    "lng": -1.723096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19441,
+    "lng": -1.723144,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193855,
+    "lng": -1.723209,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193711,
+    "lng": -1.723227,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193431,
+    "lng": -1.723267,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193882,
+    "lng": -1.723311,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193172,
+    "lng": -1.723304,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193747,
+    "lng": -1.723334,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193556,
+    "lng": -1.723368,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192548,
+    "lng": -1.723362,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19339,
+    "lng": -1.72341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192361,
+    "lng": -1.72339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193219,
+    "lng": -1.723427,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192035,
+    "lng": -1.723423,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.193069,
+    "lng": -1.723442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191939,
+    "lng": -1.723403,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192517,
+    "lng": -1.723505,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191876,
+    "lng": -1.723389,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192422,
+    "lng": -1.723513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191793,
+    "lng": -1.723371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192348,
+    "lng": -1.723524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192252,
+    "lng": -1.723534,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19168,
+    "lng": -1.723347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.192132,
+    "lng": -1.72354,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19157,
+    "lng": -1.723313,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191966,
+    "lng": -1.723528,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191524,
+    "lng": -1.723292,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191876,
+    "lng": -1.723518,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191474,
+    "lng": -1.723267,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191793,
+    "lng": -1.723504,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191397,
+    "lng": -1.723231,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191698,
+    "lng": -1.72348,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19131,
+    "lng": -1.72319,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191599,
+    "lng": -1.723448,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191258,
+    "lng": -1.723167,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191501,
+    "lng": -1.723405,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191215,
+    "lng": -1.723149,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191399,
+    "lng": -1.723358,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191064,
+    "lng": -1.723102,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.191276,
+    "lng": -1.723301,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190879,
+    "lng": -1.723049,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190984,
+    "lng": -1.72321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190923,
+    "lng": -1.723192,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190402,
+    "lng": -1.722912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190271,
+    "lng": -1.722255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 ter Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.19017,
+    "lng": -1.722825,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190851,
+    "lng": -1.723169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190067,
+    "lng": -1.722783,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189845,
+    "lng": -1.722669,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190742,
+    "lng": -1.723132,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189523,
+    "lng": -1.722372,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189674,
+    "lng": -1.722511,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190621,
+    "lng": -1.723091,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190525,
+    "lng": -1.723059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190426,
+    "lng": -1.723026,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190296,
+    "lng": -1.722982,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190222,
+    "lng": -1.722957,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 ter Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.190108,
+    "lng": -1.722915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189993,
+    "lng": -1.722872,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189885,
+    "lng": -1.722833,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "68 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189711,
+    "lng": -1.722769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "68 bis Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189543,
+    "lng": -1.722705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "70 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.189404,
+    "lng": -1.722652,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "72 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.188676,
+    "lng": -1.722365,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "90 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.18681,
+    "lng": -1.722067,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "91 Rue du Landas, Saint-Jean-de-Boiseau",
+    "lat": 47.185944,
+    "lng": -1.722304,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.195793,
+    "lng": -1.720794,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.195585,
+    "lng": -1.720692,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.195952,
+    "lng": -1.720689,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.19577,
+    "lng": -1.720612,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.195949,
+    "lng": -1.720532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.196118,
+    "lng": -1.720457,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.196292,
+    "lng": -1.720381,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Lavoir, Saint-Jean-de-Boiseau",
+    "lat": 47.196467,
+    "lng": -1.720171,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Moulin Hardy, Saint-Jean-de-Boiseau",
+    "lat": 47.198211,
+    "lng": -1.740959,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue du Moulin Hardy, Saint-Jean-de-Boiseau",
+    "lat": 47.198232,
+    "lng": -1.741112,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Moulin Hardy, Saint-Jean-de-Boiseau",
+    "lat": 47.198326,
+    "lng": -1.741993,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Moulin Hardy, Saint-Jean-de-Boiseau",
+    "lat": 47.198397,
+    "lng": -1.74244,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195687,
+    "lng": -1.740511,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195486,
+    "lng": -1.7404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195428,
+    "lng": -1.74052,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195689,
+    "lng": -1.74066,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195039,
+    "lng": -1.740152,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.195271,
+    "lng": -1.740396,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "100 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.190107,
+    "lng": -1.742974,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "102 Rue du Moulin Rothard, Saint-Jean-de-Boiseau",
+    "lat": 47.189975,
+    "lng": -1.743194,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196106,
+    "lng": -1.736966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196225,
+    "lng": -1.737341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196105,
+    "lng": -1.73731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196222,
+    "lng": -1.737598,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4A Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196193,
+    "lng": -1.737792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4B Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19616,
+    "lng": -1.737964,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4C Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196124,
+    "lng": -1.738148,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196098,
+    "lng": -1.737631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196076,
+    "lng": -1.738391,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196019,
+    "lng": -1.739017,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196071,
+    "lng": -1.737865,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196022,
+    "lng": -1.738092,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195876,
+    "lng": -1.739442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195854,
+    "lng": -1.739596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195969,
+    "lng": -1.738344,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195842,
+    "lng": -1.739683,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19592,
+    "lng": -1.738594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195888,
+    "lng": -1.738756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196037,
+    "lng": -1.741557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12B Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19607,
+    "lng": -1.741789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195855,
+    "lng": -1.738923,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196094,
+    "lng": -1.741912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196112,
+    "lng": -1.742039,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 ter Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196135,
+    "lng": -1.742186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195732,
+    "lng": -1.739931,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196145,
+    "lng": -1.742322,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195835,
+    "lng": -1.740945,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195817,
+    "lng": -1.741216,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196249,
+    "lng": -1.742793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195847,
+    "lng": -1.741433,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195946,
+    "lng": -1.741598,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 ter Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195961,
+    "lng": -1.741715,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.195978,
+    "lng": -1.741818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196584,
+    "lng": -1.743842,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196014,
+    "lng": -1.742062,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196031,
+    "lng": -1.74218,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196654,
+    "lng": -1.744061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196114,
+    "lng": -1.742681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27A Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196054,
+    "lng": -1.742348,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196088,
+    "lng": -1.74255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196723,
+    "lng": -1.744276,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196159,
+    "lng": -1.742829,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196236,
+    "lng": -1.74307,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31A Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196249,
+    "lng": -1.743161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196305,
+    "lng": -1.743288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19686,
+    "lng": -1.744698,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196341,
+    "lng": -1.743399,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196386,
+    "lng": -1.743542,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 ter Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196415,
+    "lng": -1.743634,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196942,
+    "lng": -1.744934,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196439,
+    "lng": -1.743709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196479,
+    "lng": -1.743834,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197025,
+    "lng": -1.745167,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196559,
+    "lng": -1.744083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197167,
+    "lng": -1.745522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196644,
+    "lng": -1.744349,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197284,
+    "lng": -1.745793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196722,
+    "lng": -1.744634,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197388,
+    "lng": -1.746033,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19682,
+    "lng": -1.744927,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197472,
+    "lng": -1.746222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196933,
+    "lng": -1.745215,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19755,
+    "lng": -1.746481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197037,
+    "lng": -1.745483,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197082,
+    "lng": -1.745612,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197656,
+    "lng": -1.746781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197161,
+    "lng": -1.74577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49A Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.196815,
+    "lng": -1.745897,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197715,
+    "lng": -1.746979,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197691,
+    "lng": -1.746898,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197234,
+    "lng": -1.745938,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197761,
+    "lng": -1.747141,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197825,
+    "lng": -1.747448,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197345,
+    "lng": -1.746199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197883,
+    "lng": -1.747756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197458,
+    "lng": -1.746462,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197505,
+    "lng": -1.746636,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.19754,
+    "lng": -1.746727,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197935,
+    "lng": -1.748047,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.198006,
+    "lng": -1.748255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "59 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197631,
+    "lng": -1.746991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197996,
+    "lng": -1.748386,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "61 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197684,
+    "lng": -1.747193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "63 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197742,
+    "lng": -1.747481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "63 bis Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197798,
+    "lng": -1.747753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "65 Rue du Pellerin, Saint-Jean-de-Boiseau",
+    "lat": 47.197855,
+    "lng": -1.74808,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20004,
+    "lng": -1.735722,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200141,
+    "lng": -1.735743,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1C Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20019,
+    "lng": -1.73574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 ter Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200243,
+    "lng": -1.735733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200065,
+    "lng": -1.735627,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200319,
+    "lng": -1.735726,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200177,
+    "lng": -1.735644,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200379,
+    "lng": -1.735729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200444,
+    "lng": -1.736134,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200466,
+    "lng": -1.736371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20042,
+    "lng": -1.735631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20046,
+    "lng": -1.736495,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200724,
+    "lng": -1.735272,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20041,
+    "lng": -1.736985,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200434,
+    "lng": -1.737242,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 bis Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200383,
+    "lng": -1.737271,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.20034,
+    "lng": -1.737898,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200341,
+    "lng": -1.737649,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200244,
+    "lng": -1.738463,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200324,
+    "lng": -1.737792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200309,
+    "lng": -1.737859,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200238,
+    "lng": -1.738172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Port, Saint-Jean-de-Boiseau",
+    "lat": 47.200223,
+    "lng": -1.73823,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192711,
+    "lng": -1.727839,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.19255,
+    "lng": -1.728076,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192639,
+    "lng": -1.727892,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.19246,
+    "lng": -1.728139,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192555,
+    "lng": -1.727951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192382,
+    "lng": -1.72818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.19246,
+    "lng": -1.728017,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192302,
+    "lng": -1.728213,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192369,
+    "lng": -1.728077,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192184,
+    "lng": -1.728236,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192186,
+    "lng": -1.728127,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.1921,
+    "lng": -1.728235,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192089,
+    "lng": -1.728124,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192018,
+    "lng": -1.72822,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.192009,
+    "lng": -1.728109,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191916,
+    "lng": -1.728181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191926,
+    "lng": -1.728081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191829,
+    "lng": -1.72816,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191845,
+    "lng": -1.728054,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191748,
+    "lng": -1.728296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191619,
+    "lng": -1.728051,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191642,
+    "lng": -1.728303,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191543,
+    "lng": -1.72819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191469,
+    "lng": -1.728208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191406,
+    "lng": -1.728224,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191331,
+    "lng": -1.728243,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191275,
+    "lng": -1.728258,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191188,
+    "lng": -1.728277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.191096,
+    "lng": -1.728283,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Pré Joli, Saint-Jean-de-Boiseau",
+    "lat": 47.19102,
+    "lng": -1.728288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Pré Varades, Saint-Jean-de-Boiseau",
+    "lat": 47.198514,
+    "lng": -1.724624,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Pré Varades, Saint-Jean-de-Boiseau",
+    "lat": 47.198509,
+    "lng": -1.724728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Pré Varades, Saint-Jean-de-Boiseau",
+    "lat": 47.198776,
+    "lng": -1.725686,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Pré Varades, Saint-Jean-de-Boiseau",
+    "lat": 47.199235,
+    "lng": -1.725846,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Pré Varades, Saint-Jean-de-Boiseau",
+    "lat": 47.199405,
+    "lng": -1.72601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195676,
+    "lng": -1.723812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195676,
+    "lng": -1.723812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195628,
+    "lng": -1.723769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195628,
+    "lng": -1.723769,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195571,
+    "lng": -1.723708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195571,
+    "lng": -1.723708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195436,
+    "lng": -1.723628,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195436,
+    "lng": -1.723628,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195293,
+    "lng": -1.723625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195293,
+    "lng": -1.723625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195356,
+    "lng": -1.723554,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195356,
+    "lng": -1.723554,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195194,
+    "lng": -1.723527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195194,
+    "lng": -1.723527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195296,
+    "lng": -1.723502,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195296,
+    "lng": -1.723502,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195225,
+    "lng": -1.723404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195225,
+    "lng": -1.723404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195131,
+    "lng": -1.723245,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195131,
+    "lng": -1.723245,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195099,
+    "lng": -1.723436,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195099,
+    "lng": -1.723436,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195073,
+    "lng": -1.723162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195073,
+    "lng": -1.723162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195021,
+    "lng": -1.723074,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195021,
+    "lng": -1.723074,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195068,
+    "lng": -1.723347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195068,
+    "lng": -1.723347,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194879,
+    "lng": -1.722866,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194879,
+    "lng": -1.722866,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195026,
+    "lng": -1.723253,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.195026,
+    "lng": -1.723253,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194838,
+    "lng": -1.722803,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194838,
+    "lng": -1.722803,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194966,
+    "lng": -1.723165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194966,
+    "lng": -1.723165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194796,
+    "lng": -1.722736,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.194796,
+    "lng": -1.722736,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.19475,
+    "lng": -1.722666,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 bis Rue du Prieuré, Saint-Jean-de-Boiseau",
+    "lat": 47.19475,
+    "lng": -1.722666,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190963,
+    "lng": -1.74515,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.191,
+    "lng": -1.744845,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190876,
+    "lng": -1.745282,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190939,
+    "lng": -1.74537,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190928,
+    "lng": -1.745495,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190819,
+    "lng": -1.745805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190879,
+    "lng": -1.745858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190863,
+    "lng": -1.746079,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190768,
+    "lng": -1.746283,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190746,
+    "lng": -1.747066,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190719,
+    "lng": -1.746682,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190646,
+    "lng": -1.747615,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190632,
+    "lng": -1.747705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190678,
+    "lng": -1.747023,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190608,
+    "lng": -1.747444,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190551,
+    "lng": -1.747942,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190461,
+    "lng": -1.748335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190474,
+    "lng": -1.747938,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190241,
+    "lng": -1.748477,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190392,
+    "lng": -1.7482,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.190169,
+    "lng": -1.748493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189994,
+    "lng": -1.748411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189851,
+    "lng": -1.748553,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189614,
+    "lng": -1.74883,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189528,
+    "lng": -1.748478,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189431,
+    "lng": -1.748696,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189289,
+    "lng": -1.748587,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 bis Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188972,
+    "lng": -1.748627,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.189309,
+    "lng": -1.748734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188758,
+    "lng": -1.748214,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188956,
+    "lng": -1.748776,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188316,
+    "lng": -1.743273,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188359,
+    "lng": -1.743056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Surchaud, Saint-Jean-de-Boiseau",
+    "lat": 47.188396,
+    "lng": -1.742835,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.196398,
+    "lng": -1.722762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.1964,
+    "lng": -1.722524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.196403,
+    "lng": -1.722291,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.196405,
+    "lng": -1.722056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.196409,
+    "lng": -1.721791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.19628,
+    "lng": -1.720833,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Verger, Saint-Jean-de-Boiseau",
+    "lat": 47.196265,
+    "lng": -1.720757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Eugène Pottier, Saint-Jean-de-Boiseau",
+    "lat": 47.193367,
+    "lng": -1.727049,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Eugène Pottier, Saint-Jean-de-Boiseau",
+    "lat": 47.193261,
+    "lng": -1.727222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Eugène Pottier, Saint-Jean-de-Boiseau",
+    "lat": 47.193245,
+    "lng": -1.727086,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Eugène Pottier, Saint-Jean-de-Boiseau",
+    "lat": 47.193191,
+    "lng": -1.727372,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Eugène Pottier, Saint-Jean-de-Boiseau",
+    "lat": 47.193117,
+    "lng": -1.727202,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Fernand Pelloutier, Saint-Jean-de-Boiseau",
+    "lat": 47.193177,
+    "lng": -1.727791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Fernand Pelloutier, Saint-Jean-de-Boiseau",
+    "lat": 47.193053,
+    "lng": -1.727704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Fernand Pelloutier, Saint-Jean-de-Boiseau",
+    "lat": 47.193216,
+    "lng": -1.727625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Fernand Pelloutier, Saint-Jean-de-Boiseau",
+    "lat": 47.193057,
+    "lng": -1.727581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194138,
+    "lng": -1.722028,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194124,
+    "lng": -1.721981,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.19411,
+    "lng": -1.721937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194097,
+    "lng": -1.721896,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194085,
+    "lng": -1.721855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194072,
+    "lng": -1.721813,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194057,
+    "lng": -1.721767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194043,
+    "lng": -1.721719,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.19403,
+    "lng": -1.721679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194014,
+    "lng": -1.721628,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.194,
+    "lng": -1.721582,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.193985,
+    "lng": -1.721534,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.193969,
+    "lng": -1.721474,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.193921,
+    "lng": -1.721328,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue Guillaume Apollinaire, Saint-Jean-de-Boiseau",
+    "lat": 47.193896,
+    "lng": -1.721246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195523,
+    "lng": -1.739285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195477,
+    "lng": -1.739315,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195607,
+    "lng": -1.739427,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195429,
+    "lng": -1.73951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195379,
+    "lng": -1.739384,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195279,
+    "lng": -1.739453,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.194941,
+    "lng": -1.739802,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.195155,
+    "lng": -1.739532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.194936,
+    "lng": -1.739666,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.194899,
+    "lng": -1.739687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Jean Bertreux, Saint-Jean-de-Boiseau",
+    "lat": 47.194744,
+    "lng": -1.739766,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191443,
+    "lng": -1.725443,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191296,
+    "lng": -1.725155,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191494,
+    "lng": -1.725658,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191741,
+    "lng": -1.726544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191542,
+    "lng": -1.725858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191521,
+    "lng": -1.72744,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191616,
+    "lng": -1.726165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191656,
+    "lng": -1.726363,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191661,
+    "lng": -1.726648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191613,
+    "lng": -1.726931,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191538,
+    "lng": -1.727204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191386,
+    "lng": -1.727493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191268,
+    "lng": -1.727725,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Jean Brochard, Saint-Jean-de-Boiseau",
+    "lat": 47.191281,
+    "lng": -1.727937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194378,
+    "lng": -1.727603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194309,
+    "lng": -1.727674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194351,
+    "lng": -1.727599,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194159,
+    "lng": -1.72765,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194278,
+    "lng": -1.727588,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.193822,
+    "lng": -1.727561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.194205,
+    "lng": -1.727578,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Jean Jaurès, Saint-Jean-de-Boiseau",
+    "lat": 47.19368,
+    "lng": -1.727492,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193582,
+    "lng": -1.72303,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193529,
+    "lng": -1.722751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193287,
+    "lng": -1.722002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193506,
+    "lng": -1.722634,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193112,
+    "lng": -1.721659,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193482,
+    "lng": -1.722504,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193272,
+    "lng": -1.721319,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193433,
+    "lng": -1.722287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.19347,
+    "lng": -1.721422,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193411,
+    "lng": -1.7222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193838,
+    "lng": -1.721906,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Olympe de Gouges, Saint-Jean-de-Boiseau",
+    "lat": 47.193345,
+    "lng": -1.721935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.193941,
+    "lng": -1.727393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.193947,
+    "lng": -1.727323,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.193979,
+    "lng": -1.727186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.193967,
+    "lng": -1.727116,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.193971,
+    "lng": -1.727075,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Square Robert Buron, Saint-Jean-de-Boiseau",
+    "lat": 47.194018,
+    "lng": -1.727061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197438,
+    "lng": -1.750213,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197414,
+    "lng": -1.750332,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197421,
+    "lng": -1.750392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197542,
+    "lng": -1.750342,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197648,
+    "lng": -1.750388,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197738,
+    "lng": -1.750428,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197846,
+    "lng": -1.750552,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197942,
+    "lng": -1.75071,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Impasse Marie-Louise, Le Pellerin",
+    "lat": 47.197986,
+    "lng": -1.750618,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.19793,
+    "lng": -1.749879,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.198118,
+    "lng": -1.750101,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.198025,
+    "lng": -1.750059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197608,
+    "lng": -1.749732,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5A Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197724,
+    "lng": -1.749786,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5B Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197667,
+    "lng": -1.749385,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5C Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197734,
+    "lng": -1.749539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197888,
+    "lng": -1.749999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197499,
+    "lng": -1.749683,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197406,
+    "lng": -1.749641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197736,
+    "lng": -1.74993,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197132,
+    "lng": -1.749498,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197642,
+    "lng": -1.749887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196905,
+    "lng": -1.74938,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197493,
+    "lng": -1.749819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196757,
+    "lng": -1.749296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197372,
+    "lng": -1.749764,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196612,
+    "lng": -1.749217,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197217,
+    "lng": -1.749682,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196516,
+    "lng": -1.749164,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.197045,
+    "lng": -1.749581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196387,
+    "lng": -1.749092,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196908,
+    "lng": -1.749506,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20A Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196781,
+    "lng": -1.749439,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20B Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196685,
+    "lng": -1.749387,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20C Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196629,
+    "lng": -1.749359,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20D Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196562,
+    "lng": -1.749321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196271,
+    "lng": -1.749028,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196471,
+    "lng": -1.749272,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 bis Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196354,
+    "lng": -1.749837,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 ter Rue du Clos Roux, Le Pellerin",
+    "lat": 47.1963,
+    "lng": -1.749901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196109,
+    "lng": -1.748932,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196266,
+    "lng": -1.749161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.19594,
+    "lng": -1.748781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.196118,
+    "lng": -1.749081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.195811,
+    "lng": -1.748626,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.195658,
+    "lng": -1.748601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.195684,
+    "lng": -1.748451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.195524,
+    "lng": -1.748445,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.195545,
+    "lng": -1.748282,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Clos Roux, Le Pellerin",
+    "lat": 47.19538,
+    "lng": -1.748287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194402,
+    "lng": -1.724798,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194814,
+    "lng": -1.724914,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.19502,
+    "lng": -1.724905,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.1951,
+    "lng": -1.724886,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2C Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.19518,
+    "lng": -1.724893,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2D Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.195287,
+    "lng": -1.72493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2E Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.195343,
+    "lng": -1.724935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2F Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.195418,
+    "lng": -1.724913,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2G Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.195515,
+    "lng": -1.724922,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194153,
+    "lng": -1.72483,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194402,
+    "lng": -1.724951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194002,
+    "lng": -1.724847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194163,
+    "lng": -1.72498,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.193837,
+    "lng": -1.724866,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.194007,
+    "lng": -1.724999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.19368,
+    "lng": -1.724885,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.19384,
+    "lng": -1.725019,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.193525,
+    "lng": -1.724903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Avenue du Onze Novembre, Saint-Jean-de-Boiseau",
+    "lat": 47.193693,
+    "lng": -1.725038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195386,
+    "lng": -1.720856,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195453,
+    "lng": -1.720978,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195243,
+    "lng": -1.720912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.19531,
+    "lng": -1.721037,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195072,
+    "lng": -1.721029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195148,
+    "lng": -1.721255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse des Poiriers, Saint-Jean-de-Boiseau",
+    "lat": 47.195058,
+    "lng": -1.721184,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Huit Mai, Saint-Jean-de-Boiseau",
+    "lat": 47.194592,
+    "lng": -1.725527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Huit Mai, Saint-Jean-de-Boiseau",
+    "lat": 47.194684,
+    "lng": -1.725386,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Huit Mai, Saint-Jean-de-Boiseau",
+    "lat": 47.194678,
+    "lng": -1.725641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.194414,
+    "lng": -1.7241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.194257,
+    "lng": -1.724136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.194094,
+    "lng": -1.724172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193455,
+    "lng": -1.724181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193938,
+    "lng": -1.724208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193782,
+    "lng": -1.724243,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193801,
+    "lng": -1.7241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193633,
+    "lng": -1.724278,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193968,
+    "lng": -1.724062,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Quatorze Juillet, Saint-Jean-de-Boiseau",
+    "lat": 47.193462,
+    "lng": -1.724317,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.194841,
+    "lng": -1.721641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.194931,
+    "lng": -1.721686,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 ter Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195223,
+    "lng": -1.721842,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.19553,
+    "lng": -1.721639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195452,
+    "lng": -1.721857,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195648,
+    "lng": -1.721561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195621,
+    "lng": -1.721784,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195915,
+    "lng": -1.721439,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.195792,
+    "lng": -1.721737,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.196093,
+    "lng": -1.721361,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.196036,
+    "lng": -1.721601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.19621,
+    "lng": -1.721338,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.196233,
+    "lng": -1.721515,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.196349,
+    "lng": -1.721264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue François Mitterrand, Saint-Jean-de-Boiseau",
+    "lat": 47.196339,
+    "lng": -1.721469,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.193087,
+    "lng": -1.725341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.19301,
+    "lng": -1.725378,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2C Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192974,
+    "lng": -1.725395,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2D Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192937,
+    "lng": -1.725413,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2E Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192901,
+    "lng": -1.725431,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192395,
+    "lng": -1.724572,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192198,
+    "lng": -1.725618,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.192144,
+    "lng": -1.725805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.191939,
+    "lng": -1.72591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Pierre Mendès France, Saint-Jean-de-Boiseau",
+    "lat": 47.191767,
+    "lng": -1.725998,
+    "etat": "non_visite"
+  }
+]

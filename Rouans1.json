@@ -1,0 +1,2648 @@
+[
+  {
+    "adresse": "1 Bec, Rouans",
+    "lat": 47.173909,
+    "lng": -1.832456,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Bec, Rouans",
+    "lat": 47.173931,
+    "lng": -1.831985,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Bec, Rouans",
+    "lat": 47.174262,
+    "lng": -1.831972,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chatton, Rouans",
+    "lat": 47.150249,
+    "lng": -1.827299,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chatton, Rouans",
+    "lat": 47.149879,
+    "lng": -1.82557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chatton, Rouans",
+    "lat": 47.14925,
+    "lng": -1.823632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Chatton, Rouans",
+    "lat": 47.149553,
+    "lng": -1.824275,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Chatton, Rouans",
+    "lat": 47.149661,
+    "lng": -1.824123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chatton, Rouans",
+    "lat": 47.149592,
+    "lng": -1.823608,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Chatton, Rouans",
+    "lat": 47.14973,
+    "lng": -1.823921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Chatton, Rouans",
+    "lat": 47.14982,
+    "lng": -1.823846,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Chatton, Rouans",
+    "lat": 47.149874,
+    "lng": -1.823616,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin de la Fontaine, Rouans",
+    "lat": 47.158346,
+    "lng": -1.815159,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chemin de la Fontaine, Rouans",
+    "lat": 47.158489,
+    "lng": -1.815024,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Chemin de la Fontaine, Rouans",
+    "lat": 47.158549,
+    "lng": -1.814681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Chemin de la Fontaine, Rouans",
+    "lat": 47.158487,
+    "lng": -1.81444,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin des Millaux, Rouans",
+    "lat": 47.171084,
+    "lng": -1.818815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Chemin des Millaux, Rouans",
+    "lat": 47.170249,
+    "lng": -1.819327,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin des Vignes, Rouans",
+    "lat": 47.137122,
+    "lng": -1.822099,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin des Vignes, Rouans",
+    "lat": 47.136914,
+    "lng": -1.822307,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Chemin des Vignes, Rouans",
+    "lat": 47.1366,
+    "lng": -1.821456,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Chemin des Vignes, Rouans",
+    "lat": 47.136705,
+    "lng": -1.822295,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin du Calvaire, Rouans",
+    "lat": 47.172168,
+    "lng": -1.817579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin du Calvaire, Rouans",
+    "lat": 47.171852,
+    "lng": -1.817673,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Chemin du Calvaire, Rouans",
+    "lat": 47.171551,
+    "lng": -1.817692,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Chemin du Calvaire, Rouans",
+    "lat": 47.171731,
+    "lng": -1.817527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Chemin du Calvaire, Rouans",
+    "lat": 47.171506,
+    "lng": -1.817277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Chemin du Calvaire, Rouans",
+    "lat": 47.171684,
+    "lng": -1.817113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse de la Blanche, Rouans",
+    "lat": 47.137723,
+    "lng": -1.82362,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse de la Blanche, Rouans",
+    "lat": 47.137899,
+    "lng": -1.824163,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Impasse de la Blanche, Rouans",
+    "lat": 47.137971,
+    "lng": -1.824577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse de la Blanche, Rouans",
+    "lat": 47.138245,
+    "lng": -1.824328,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse de la Blanche, Rouans",
+    "lat": 47.138181,
+    "lng": -1.82468,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Impasse de la Blanche, Rouans",
+    "lat": 47.138381,
+    "lng": -1.824776,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse des Grandes Vignes, Rouans",
+    "lat": 47.171104,
+    "lng": -1.817484,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse des Grandes Vignes, Rouans",
+    "lat": 47.170867,
+    "lng": -1.817891,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Presseau, Rouans",
+    "lat": 47.137489,
+    "lng": -1.821995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse du Presseau, Rouans",
+    "lat": 47.138201,
+    "lng": -1.821819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 L’Hommeau, Rouans",
+    "lat": 47.163855,
+    "lng": -1.821122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis L’Hommeau, Rouans",
+    "lat": 47.163491,
+    "lng": -1.821211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 L’Hommeau, Rouans",
+    "lat": 47.163317,
+    "lng": -1.822137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 L’Hommeau, Rouans",
+    "lat": 47.1637,
+    "lng": -1.820928,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 L’Hommeau, Rouans",
+    "lat": 47.163325,
+    "lng": -1.821632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 L’Hommeau, Rouans",
+    "lat": 47.163748,
+    "lng": -1.820492,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis L’Hommeau, Rouans",
+    "lat": 47.163405,
+    "lng": -1.820648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 L’Hommeau, Rouans",
+    "lat": 47.163242,
+    "lng": -1.821199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 L’Hommeau, Rouans",
+    "lat": 47.163316,
+    "lng": -1.820746,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 L’Hommeau, Rouans",
+    "lat": 47.162875,
+    "lng": -1.821341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 L’Hommeau, Rouans",
+    "lat": 47.163744,
+    "lng": -1.820145,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 L’Hommeau, Rouans",
+    "lat": 47.162766,
+    "lng": -1.821663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 L’Hommeau, Rouans",
+    "lat": 47.163581,
+    "lng": -1.820197,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 L’Hommeau, Rouans",
+    "lat": 47.162449,
+    "lng": -1.821285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 L’Hommeau, Rouans",
+    "lat": 47.163316,
+    "lng": -1.820307,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 L’Hommeau, Rouans",
+    "lat": 47.163155,
+    "lng": -1.82096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 L’Hommeau, Rouans",
+    "lat": 47.163022,
+    "lng": -1.820591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 L’Hommeau, Rouans",
+    "lat": 47.163034,
+    "lng": -1.819639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 L’Hommeau, Rouans",
+    "lat": 47.162946,
+    "lng": -1.819444,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 L’Hommeau, Rouans",
+    "lat": 47.162957,
+    "lng": -1.820018,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 L’Hommeau, Rouans",
+    "lat": 47.162871,
+    "lng": -1.819763,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 L’Hommeau, Rouans",
+    "lat": 47.162933,
+    "lng": -1.818849,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 L’Hommeau, Rouans",
+    "lat": 47.162778,
+    "lng": -1.819504,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 L’Hommeau, Rouans",
+    "lat": 47.162812,
+    "lng": -1.818341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 L’Hommeau, Rouans",
+    "lat": 47.162803,
+    "lng": -1.819363,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 L’Hommeau, Rouans",
+    "lat": 47.163053,
+    "lng": -1.818245,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 bis L’Hommeau, Rouans",
+    "lat": 47.162619,
+    "lng": -1.818941,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 L’Hommeau, Rouans",
+    "lat": 47.162541,
+    "lng": -1.818693,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 L’Hommeau, Rouans",
+    "lat": 47.16229,
+    "lng": -1.818784,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 L’Hommeau, Rouans",
+    "lat": 47.161975,
+    "lng": -1.818975,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 bis L’Hommeau, Rouans",
+    "lat": 47.162173,
+    "lng": -1.819233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 L’Islette, Rouans",
+    "lat": 47.177876,
+    "lng": -1.854137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 L’Islette, Rouans",
+    "lat": 47.177191,
+    "lng": -1.854273,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 L’Islette, Rouans",
+    "lat": 47.176859,
+    "lng": -1.854035,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Bichonnerie, Rouans",
+    "lat": 47.162059,
+    "lng": -1.810845,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Bichonnerie, Rouans",
+    "lat": 47.161514,
+    "lng": -1.810847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Bichonnerie, Rouans",
+    "lat": 47.162284,
+    "lng": -1.810507,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Bichonnerie, Rouans",
+    "lat": 47.162404,
+    "lng": -1.810292,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Bichonnerie, Rouans",
+    "lat": 47.161966,
+    "lng": -1.810373,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Bichonnerie, Rouans",
+    "lat": 47.162936,
+    "lng": -1.809726,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Bichonnerie, Rouans",
+    "lat": 47.162152,
+    "lng": -1.809827,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Bichonnerie, Rouans",
+    "lat": 47.162397,
+    "lng": -1.80943,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Bichonnerie, Rouans",
+    "lat": 47.162752,
+    "lng": -1.809317,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Bichonnerie, Rouans",
+    "lat": 47.162539,
+    "lng": -1.809069,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Bichonnerie, Rouans",
+    "lat": 47.16344,
+    "lng": -1.809468,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis La Bichonnerie, Rouans",
+    "lat": 47.163335,
+    "lng": -1.810662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Bichonnerie, Rouans",
+    "lat": 47.162281,
+    "lng": -1.808793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Bichonnerie, Rouans",
+    "lat": 47.163549,
+    "lng": -1.80912,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Bichonnerie, Rouans",
+    "lat": 47.16311,
+    "lng": -1.808902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 La Bichonnerie, Rouans",
+    "lat": 47.162957,
+    "lng": -1.809018,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 La Bichonnerie, Rouans",
+    "lat": 47.162064,
+    "lng": -1.808028,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 La Bichonnerie, Rouans",
+    "lat": 47.163007,
+    "lng": -1.808764,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 La Bichonnerie, Rouans",
+    "lat": 47.162429,
+    "lng": -1.808744,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 La Bichonnerie, Rouans",
+    "lat": 47.163211,
+    "lng": -1.808382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 bis La Bichonnerie, Rouans",
+    "lat": 47.163676,
+    "lng": -1.807662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 La Bichonnerie, Rouans",
+    "lat": 47.163521,
+    "lng": -1.807356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 La Bichonnerie, Rouans",
+    "lat": 47.162664,
+    "lng": -1.808877,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 La Bichonnerie, Rouans",
+    "lat": 47.163598,
+    "lng": -1.806995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 La Bichonnerie, Rouans",
+    "lat": 47.162844,
+    "lng": -1.808358,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 La Bichonnerie, Rouans",
+    "lat": 47.161628,
+    "lng": -1.810005,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 La Bichonnerie, Rouans",
+    "lat": 47.161978,
+    "lng": -1.809453,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 La Bichonnerie, Rouans",
+    "lat": 47.161766,
+    "lng": -1.8094,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 La Bichonnerie, Rouans",
+    "lat": 47.161607,
+    "lng": -1.80949,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Briorderie, Rouans",
+    "lat": 47.155184,
+    "lng": -1.83099,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Briorderie, Rouans",
+    "lat": 47.153945,
+    "lng": -1.832013,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Briorderie, Rouans",
+    "lat": 47.155461,
+    "lng": -1.830616,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Briorderie, Rouans",
+    "lat": 47.154196,
+    "lng": -1.830918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis La Briorderie, Rouans",
+    "lat": 47.154784,
+    "lng": -1.830506,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Briorderie, Rouans",
+    "lat": 47.154918,
+    "lng": -1.830713,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Briorderie, Rouans",
+    "lat": 47.15273,
+    "lng": -1.830804,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Briorderie, Rouans",
+    "lat": 47.152211,
+    "lng": -1.830621,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Briorderie, Rouans",
+    "lat": 47.151615,
+    "lng": -1.830166,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Briorderie, Rouans",
+    "lat": 47.149461,
+    "lng": -1.829522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Brouniere, Rouans",
+    "lat": 47.137611,
+    "lng": -1.834602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Brouniere, Rouans",
+    "lat": 47.138289,
+    "lng": -1.833922,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Brouniere, Rouans",
+    "lat": 47.137796,
+    "lng": -1.83421,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Brouniere, Rouans",
+    "lat": 47.137855,
+    "lng": -1.834073,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Brouniere, Rouans",
+    "lat": 47.138027,
+    "lng": -1.83415,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Brouniere, Rouans",
+    "lat": 47.138118,
+    "lng": -1.833907,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Brouniere, Rouans",
+    "lat": 47.138233,
+    "lng": -1.833631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 la Castiere, Rouans",
+    "lat": 47.181333,
+    "lng": -1.853101,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 bis la Castiere, Rouans",
+    "lat": 47.181275,
+    "lng": -1.852878,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 la Castiere, Rouans",
+    "lat": 47.18122,
+    "lng": -1.852724,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 bis la Castiere, Rouans",
+    "lat": 47.18102,
+    "lng": -1.853027,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 ter la Castiere, Rouans",
+    "lat": 47.18089,
+    "lng": -1.852812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 la Castiere, Rouans",
+    "lat": 47.181168,
+    "lng": -1.852496,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 la Castiere, Rouans",
+    "lat": 47.181236,
+    "lng": -1.852246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 la Castiere, Rouans",
+    "lat": 47.18183,
+    "lng": -1.853713,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 la Castiere, Rouans",
+    "lat": 47.181067,
+    "lng": -1.852226,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 la Castiere, Rouans",
+    "lat": 47.181583,
+    "lng": -1.853418,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 la Castiere, Rouans",
+    "lat": 47.18108,
+    "lng": -1.852027,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 la Castiere, Rouans",
+    "lat": 47.181544,
+    "lng": -1.852728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 la Castiere, Rouans",
+    "lat": 47.18081,
+    "lng": -1.851639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 ter la Castiere, Rouans",
+    "lat": 47.180531,
+    "lng": -1.851616,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 la Castiere, Rouans",
+    "lat": 47.181401,
+    "lng": -1.852349,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 la Castiere, Rouans",
+    "lat": 47.18057,
+    "lng": -1.851122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 la Castiere, Rouans",
+    "lat": 47.181283,
+    "lng": -1.852091,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 la Castiere, Rouans",
+    "lat": 47.180443,
+    "lng": -1.851263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 la Castiere, Rouans",
+    "lat": 47.180374,
+    "lng": -1.851003,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 la Castiere, Rouans",
+    "lat": 47.181043,
+    "lng": -1.851762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 la Castiere, Rouans",
+    "lat": 47.180115,
+    "lng": -1.850946,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 la Castiere, Rouans",
+    "lat": 47.180913,
+    "lng": -1.851564,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 la Castiere, Rouans",
+    "lat": 47.180281,
+    "lng": -1.850643,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 la Castiere, Rouans",
+    "lat": 47.180244,
+    "lng": -1.850481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 la Castiere, Rouans",
+    "lat": 47.180824,
+    "lng": -1.851383,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 la Castiere, Rouans",
+    "lat": 47.18021,
+    "lng": -1.850295,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 la Castiere, Rouans",
+    "lat": 47.18073,
+    "lng": -1.851058,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 la Castiere, Rouans",
+    "lat": 47.180286,
+    "lng": -1.849775,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 la Castiere, Rouans",
+    "lat": 47.180605,
+    "lng": -1.848961,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 la Castiere, Rouans",
+    "lat": 47.180348,
+    "lng": -1.848693,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Cherpeliere, Rouans",
+    "lat": 47.156814,
+    "lng": -1.840584,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Cherpeliere, Rouans",
+    "lat": 47.156891,
+    "lng": -1.840812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Cherpeliere, Rouans",
+    "lat": 47.157257,
+    "lng": -1.840873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Cherpeliere, Rouans",
+    "lat": 47.157635,
+    "lng": -1.841518,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Cherpeliere, Rouans",
+    "lat": 47.157242,
+    "lng": -1.842234,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Chesnaie, Rouans",
+    "lat": 47.160661,
+    "lng": -1.841462,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Chesnaie, Rouans",
+    "lat": 47.15859,
+    "lng": -1.840207,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Chesnaie, Rouans",
+    "lat": 47.159335,
+    "lng": -1.8401,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Chesnaie, Rouans",
+    "lat": 47.158642,
+    "lng": -1.839594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Chesnaie, Rouans",
+    "lat": 47.159419,
+    "lng": -1.839632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Chesnaie, Rouans",
+    "lat": 47.159061,
+    "lng": -1.839386,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Chesnaie, Rouans",
+    "lat": 47.159091,
+    "lng": -1.838747,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Chesnaie, Rouans",
+    "lat": 47.159266,
+    "lng": -1.838915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Chesnaie, Rouans",
+    "lat": 47.159302,
+    "lng": -1.838537,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Chesnaie, Rouans",
+    "lat": 47.159932,
+    "lng": -1.838876,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Chesnaie, Rouans",
+    "lat": 47.159697,
+    "lng": -1.838536,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Doucetrie, Rouans",
+    "lat": 47.172101,
+    "lng": -1.836321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Faye, Rouans",
+    "lat": 47.17104,
+    "lng": -1.836598,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Faye, Rouans",
+    "lat": 47.170232,
+    "lng": -1.838105,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Faye, Rouans",
+    "lat": 47.170943,
+    "lng": -1.836705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Faye, Rouans",
+    "lat": 47.170766,
+    "lng": -1.836703,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Faye, Rouans",
+    "lat": 47.170465,
+    "lng": -1.837051,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Faye, Rouans",
+    "lat": 47.170164,
+    "lng": -1.836874,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Gaudiniere, Rouans",
+    "lat": 47.176117,
+    "lng": -1.840765,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Gaudiniere, Rouans",
+    "lat": 47.175759,
+    "lng": -1.841279,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Gaudiniere, Rouans",
+    "lat": 47.175238,
+    "lng": -1.841106,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Gauduchere, Rouans",
+    "lat": 47.17469,
+    "lng": -1.852961,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Gauduchere, Rouans",
+    "lat": 47.174198,
+    "lng": -1.853302,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Gauduchere, Rouans",
+    "lat": 47.174173,
+    "lng": -1.852594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Gauduchere, Rouans",
+    "lat": 47.174062,
+    "lng": -1.853608,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Gauduchere, Rouans",
+    "lat": 47.173743,
+    "lng": -1.852667,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Gauduchere, Rouans",
+    "lat": 47.17413,
+    "lng": -1.853876,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Gauduchere, Rouans",
+    "lat": 47.173681,
+    "lng": -1.852582,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Gauduchere, Rouans",
+    "lat": 47.174274,
+    "lng": -1.854077,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Gauduchere, Rouans",
+    "lat": 47.174071,
+    "lng": -1.854228,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Gauduchere, Rouans",
+    "lat": 47.173841,
+    "lng": -1.853873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Gauduchere, Rouans",
+    "lat": 47.173814,
+    "lng": -1.853022,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 La Gauduchere, Rouans",
+    "lat": 47.173195,
+    "lng": -1.85296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Gravelle, Rouans",
+    "lat": 47.176915,
+    "lng": -1.839709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Gravelle, Rouans",
+    "lat": 47.176981,
+    "lng": -1.839901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Gravelle, Rouans",
+    "lat": 47.176672,
+    "lng": -1.840239,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Gravelle, Rouans",
+    "lat": 47.176805,
+    "lng": -1.840192,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Gravelle, Rouans",
+    "lat": 47.176623,
+    "lng": -1.840288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Gravelle, Rouans",
+    "lat": 47.176753,
+    "lng": -1.840308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Gravelle, Rouans",
+    "lat": 47.176697,
+    "lng": -1.84038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Grigotte, Rouans",
+    "lat": 47.141563,
+    "lng": -1.835975,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Haute Faye, Rouans",
+    "lat": 47.149243,
+    "lng": -1.835592,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Haute Faye, Rouans",
+    "lat": 47.149158,
+    "lng": -1.836532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Haute Faye, Rouans",
+    "lat": 47.149226,
+    "lng": -1.835297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Haute Faye, Rouans",
+    "lat": 47.148623,
+    "lng": -1.835564,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Haute Faye, Rouans",
+    "lat": 47.149153,
+    "lng": -1.834129,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Haute Faye, Rouans",
+    "lat": 47.149149,
+    "lng": -1.834805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Haute Faye, Rouans",
+    "lat": 47.149039,
+    "lng": -1.833932,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Haute Faye, Rouans",
+    "lat": 47.14896,
+    "lng": -1.835072,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Haute Faye, Rouans",
+    "lat": 47.148911,
+    "lng": -1.834006,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Haute Faye, Rouans",
+    "lat": 47.148974,
+    "lng": -1.834862,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Haute Faye, Rouans",
+    "lat": 47.148816,
+    "lng": -1.834087,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Haute Faye, Rouans",
+    "lat": 47.149054,
+    "lng": -1.834459,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Haute Faye, Rouans",
+    "lat": 47.148698,
+    "lng": -1.834458,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Jarossais, Rouans",
+    "lat": 47.142656,
+    "lng": -1.830561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Jarossais, Rouans",
+    "lat": 47.142571,
+    "lng": -1.831577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Jarossais, Rouans",
+    "lat": 47.14253,
+    "lng": -1.83105,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Jarossais, Rouans",
+    "lat": 47.142559,
+    "lng": -1.831897,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Jarossais, Rouans",
+    "lat": 47.142388,
+    "lng": -1.831324,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis La Jarossais, Rouans",
+    "lat": 47.142411,
+    "lng": -1.830836,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Jarossais, Rouans",
+    "lat": 47.142982,
+    "lng": -1.831122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Jarossais, Rouans",
+    "lat": 47.141994,
+    "lng": -1.831242,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Jarossais, Rouans",
+    "lat": 47.142645,
+    "lng": -1.832082,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Jarossais, Rouans",
+    "lat": 47.142866,
+    "lng": -1.831983,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Maison Neuve, Rouans",
+    "lat": 47.173121,
+    "lng": -1.832817,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Maison Neuve, Rouans",
+    "lat": 47.172062,
+    "lng": -1.832488,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Maison Neuve, Rouans",
+    "lat": 47.172168,
+    "lng": -1.833604,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Mulonniere, Rouans",
+    "lat": 47.148969,
+    "lng": -1.824056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Mulonniere, Rouans",
+    "lat": 47.148958,
+    "lng": -1.82529,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Mulonniere, Rouans",
+    "lat": 47.149206,
+    "lng": -1.825754,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 La Noindrie, Rouans",
+    "lat": 47.161642,
+    "lng": -1.819237,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 La Noindrie, Rouans",
+    "lat": 47.161526,
+    "lng": -1.81884,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 bis La Noindrie, Rouans",
+    "lat": 47.161035,
+    "lng": -1.819439,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 La Noindrie, Rouans",
+    "lat": 47.161453,
+    "lng": -1.819524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 La Noindrie, Rouans",
+    "lat": 47.160961,
+    "lng": -1.81913,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 bis La Noindrie, Rouans",
+    "lat": 47.160367,
+    "lng": -1.818791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 ter La Noindrie, Rouans",
+    "lat": 47.160588,
+    "lng": -1.819018,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 La Noindrie, Rouans",
+    "lat": 47.161177,
+    "lng": -1.819709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 La Noindrie, Rouans",
+    "lat": 47.160863,
+    "lng": -1.819402,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 La Noindrie, Rouans",
+    "lat": 47.161184,
+    "lng": -1.820083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 La Noindrie, Rouans",
+    "lat": 47.161005,
+    "lng": -1.819584,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 La Noindrie, Rouans",
+    "lat": 47.160998,
+    "lng": -1.820113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 La Noindrie, Rouans",
+    "lat": 47.160551,
+    "lng": -1.819982,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 bis La Noindrie, Rouans",
+    "lat": 47.160675,
+    "lng": -1.819607,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 La Noindrie, Rouans",
+    "lat": 47.161288,
+    "lng": -1.818493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 La Pistole, Rouans",
+    "lat": 47.161356,
+    "lng": -1.809992,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 bis La Pistole, Rouans",
+    "lat": 47.161215,
+    "lng": -1.810113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 La Pistole, Rouans",
+    "lat": 47.160991,
+    "lng": -1.810067,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 bis La Pistole, Rouans",
+    "lat": 47.161439,
+    "lng": -1.809521,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 La Pistole, Rouans",
+    "lat": 47.161177,
+    "lng": -1.80973,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 bis La Pistole, Rouans",
+    "lat": 47.161025,
+    "lng": -1.809802,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 qua La Pistole, Rouans",
+    "lat": 47.160632,
+    "lng": -1.80995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 ter La Pistole, Rouans",
+    "lat": 47.160793,
+    "lng": -1.809726,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 La Pistole, Rouans",
+    "lat": 47.16045,
+    "lng": -1.810655,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 La Pistole, Rouans",
+    "lat": 47.160539,
+    "lng": -1.809339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 La Pistole, Rouans",
+    "lat": 47.160267,
+    "lng": -1.809471,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 La Pistole, Rouans",
+    "lat": 47.160316,
+    "lng": -1.810126,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 La Pistole, Rouans",
+    "lat": 47.160132,
+    "lng": -1.810312,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 La Pistole, Rouans",
+    "lat": 47.160178,
+    "lng": -1.810493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Poterie, Rouans",
+    "lat": 47.152098,
+    "lng": -1.837651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Poterie, Rouans",
+    "lat": 47.151995,
+    "lng": -1.837535,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Poterie, Rouans",
+    "lat": 47.152127,
+    "lng": -1.837417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Poterie, Rouans",
+    "lat": 47.151974,
+    "lng": -1.837222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Poterie, Rouans",
+    "lat": 47.152066,
+    "lng": -1.836953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Rateliere, Rouans",
+    "lat": 47.136501,
+    "lng": -1.831717,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Rateliere, Rouans",
+    "lat": 47.135768,
+    "lng": -1.832113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Rateliere, Rouans",
+    "lat": 47.135667,
+    "lng": -1.831674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Rateliere, Rouans",
+    "lat": 47.135511,
+    "lng": -1.831703,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Robiniere, Rouans",
+    "lat": 47.172175,
+    "lng": -1.828995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Robiniere, Rouans",
+    "lat": 47.172001,
+    "lng": -1.829136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Robiniere, Rouans",
+    "lat": 47.172252,
+    "lng": -1.828732,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Robiniere, Rouans",
+    "lat": 47.172007,
+    "lng": -1.828735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Robiniere, Rouans",
+    "lat": 47.172067,
+    "lng": -1.828473,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Robiniere, Rouans",
+    "lat": 47.17231,
+    "lng": -1.82855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Serbeziere, Rouans",
+    "lat": 47.157438,
+    "lng": -1.835566,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Serbeziere, Rouans",
+    "lat": 47.157304,
+    "lng": -1.835902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Serbeziere, Rouans",
+    "lat": 47.157417,
+    "lng": -1.834596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Serbeziere, Rouans",
+    "lat": 47.157022,
+    "lng": -1.835523,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Serbeziere, Rouans",
+    "lat": 47.157057,
+    "lng": -1.835037,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Serbeziere, Rouans",
+    "lat": 47.156863,
+    "lng": -1.835639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Serbeziere, Rouans",
+    "lat": 47.156891,
+    "lng": -1.835427,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Serbeziere, Rouans",
+    "lat": 47.15653,
+    "lng": -1.835649,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Serbeziere, Rouans",
+    "lat": 47.156358,
+    "lng": -1.835059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Serbeziere, Rouans",
+    "lat": 47.15639,
+    "lng": -1.835448,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Serbeziere, Rouans",
+    "lat": 47.156058,
+    "lng": -1.835061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Serbeziere, Rouans",
+    "lat": 47.155997,
+    "lng": -1.834909,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Simonière, Rouans",
+    "lat": 47.133626,
+    "lng": -1.834799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Simonière, Rouans",
+    "lat": 47.133768,
+    "lng": -1.834513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Simonière, Rouans",
+    "lat": 47.132477,
+    "lng": -1.833494,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Simonière, Rouans",
+    "lat": 47.132685,
+    "lng": -1.833423,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Troliere, Rouans",
+    "lat": 47.17056,
+    "lng": -1.856137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Troliere, Rouans",
+    "lat": 47.170179,
+    "lng": -1.855495,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Vignauderie, Rouans",
+    "lat": 47.171473,
+    "lng": -1.853806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Vignauderie, Rouans",
+    "lat": 47.171374,
+    "lng": -1.854034,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Vignauderie, Rouans",
+    "lat": 47.171409,
+    "lng": -1.85442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Douet, Rouans",
+    "lat": 47.132555,
+    "lng": -1.818535,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Douet, Rouans",
+    "lat": 47.132838,
+    "lng": -1.818717,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Le Douet, Rouans",
+    "lat": 47.132609,
+    "lng": -1.818659,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Le Douet, Rouans",
+    "lat": 47.132283,
+    "lng": -1.819543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Le Douet, Rouans",
+    "lat": 47.132061,
+    "lng": -1.818901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Le Douet, Rouans",
+    "lat": 47.132141,
+    "lng": -1.819184,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Le Douet, Rouans",
+    "lat": 47.131896,
+    "lng": -1.818991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Le Douet, Rouans",
+    "lat": 47.131927,
+    "lng": -1.819188,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Four a Briques, Rouans",
+    "lat": 47.169458,
+    "lng": -1.857157,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Mourien, Rouans",
+    "lat": 47.159484,
+    "lng": -1.817595,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Le Mourien, Rouans",
+    "lat": 47.159466,
+    "lng": -1.817218,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Le Mourien, Rouans",
+    "lat": 47.159204,
+    "lng": -1.816808,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Le Mourien, Rouans",
+    "lat": 47.159173,
+    "lng": -1.816462,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Port de la Gravelle, Rouans",
+    "lat": 47.176577,
+    "lng": -1.836805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Les 4 Chemins, Rouans",
+    "lat": 47.165143,
+    "lng": -1.846185,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Les 4 Chemins, Rouans",
+    "lat": 47.164471,
+    "lng": -1.846645,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Les 4 Chemins, Rouans",
+    "lat": 47.164189,
+    "lng": -1.846718,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Les 4 Chemins, Rouans",
+    "lat": 47.164048,
+    "lng": -1.847068,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Les 4 Chemins, Rouans",
+    "lat": 47.163965,
+    "lng": -1.847392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Les 4 Chemins, Rouans",
+    "lat": 47.163723,
+    "lng": -1.846817,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Les 4 Chemins, Rouans",
+    "lat": 47.164026,
+    "lng": -1.848239,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 bis Les 4 Chemins, Rouans",
+    "lat": 47.163681,
+    "lng": -1.847836,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 ter Les 4 Chemins, Rouans",
+    "lat": 47.163722,
+    "lng": -1.848146,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Les 4 Chemins, Rouans",
+    "lat": 47.16353,
+    "lng": -1.848405,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 bis Les 4 Chemins, Rouans",
+    "lat": 47.163811,
+    "lng": -1.848706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 ter Les 4 Chemins, Rouans",
+    "lat": 47.163588,
+    "lng": -1.848781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Les 4 Chemins, Rouans",
+    "lat": 47.163479,
+    "lng": -1.847381,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Les 4 Chemins, Rouans",
+    "lat": 47.163334,
+    "lng": -1.848958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Les 4 Chemins, Rouans",
+    "lat": 47.163371,
+    "lng": -1.847605,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Les 4 Chemins, Rouans",
+    "lat": 47.163092,
+    "lng": -1.847049,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Les 4 Chemins, Rouans",
+    "lat": 47.163261,
+    "lng": -1.847949,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Les 4 Chemins, Rouans",
+    "lat": 47.162872,
+    "lng": -1.847246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Les 4 Chemins, Rouans",
+    "lat": 47.16313,
+    "lng": -1.84819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Les 4 Chemins, Rouans",
+    "lat": 47.162651,
+    "lng": -1.847258,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les 4 Peux, Rouans",
+    "lat": 47.167405,
+    "lng": -1.847102,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les 4 Peux, Rouans",
+    "lat": 47.168059,
+    "lng": -1.848798,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Les 4 Peux, Rouans",
+    "lat": 47.167836,
+    "lng": -1.848596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Les 4 Peux, Rouans",
+    "lat": 47.167727,
+    "lng": -1.84832,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Les 4 Peux, Rouans",
+    "lat": 47.166506,
+    "lng": -1.847109,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Les 4 Peux, Rouans",
+    "lat": 47.166354,
+    "lng": -1.847029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Les 4 Peux, Rouans",
+    "lat": 47.165811,
+    "lng": -1.846593,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Les 4 Peux, Rouans",
+    "lat": 47.166075,
+    "lng": -1.847075,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Les 4 Peux, Rouans",
+    "lat": 47.165848,
+    "lng": -1.846972,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Les 4 Peux, Rouans",
+    "lat": 47.1656,
+    "lng": -1.846771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Les 4 Peux, Rouans",
+    "lat": 47.165103,
+    "lng": -1.846934,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 bis Les 4 Peux, Rouans",
+    "lat": 47.164884,
+    "lng": -1.847399,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Les 4 Peux, Rouans",
+    "lat": 47.166704,
+    "lng": -1.847496,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Les 4 Peux, Rouans",
+    "lat": 47.166712,
+    "lng": -1.84761,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Les 4 Peux, Rouans",
+    "lat": 47.166907,
+    "lng": -1.847894,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Les 4 Peux, Rouans",
+    "lat": 47.166752,
+    "lng": -1.847706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Les 4 Peux, Rouans",
+    "lat": 47.16694,
+    "lng": -1.848181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Les 4 Peux, Rouans",
+    "lat": 47.166784,
+    "lng": -1.847855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 bis Les 4 Peux, Rouans",
+    "lat": 47.166803,
+    "lng": -1.848031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Les 4 Peux, Rouans",
+    "lat": 47.166812,
+    "lng": -1.848644,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Les 4 Peux, Rouans",
+    "lat": 47.16681,
+    "lng": -1.848145,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Les 4 Peux, Rouans",
+    "lat": 47.166896,
+    "lng": -1.849067,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Les 4 Peux, Rouans",
+    "lat": 47.166681,
+    "lng": -1.84881,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Les 4 Peux, Rouans",
+    "lat": 47.166567,
+    "lng": -1.84918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Les 4 Peux, Rouans",
+    "lat": 47.166579,
+    "lng": -1.849915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Landes, Rouans",
+    "lat": 47.154493,
+    "lng": -1.810991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Les Landes, Rouans",
+    "lat": 47.154281,
+    "lng": -1.811043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Rinieres, Rouans",
+    "lat": 47.168477,
+    "lng": -1.848395,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Rinieres, Rouans",
+    "lat": 47.17017,
+    "lng": -1.847032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Les Rinieres, Rouans",
+    "lat": 47.170814,
+    "lng": -1.846672,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Les Rinieres, Rouans",
+    "lat": 47.170702,
+    "lng": -1.846428,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Moulin de la Chesnaie, Rouans",
+    "lat": 47.155734,
+    "lng": -1.843925,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Moulin de la Chesnaie, Rouans",
+    "lat": 47.155572,
+    "lng": -1.843883,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Moulin la Masse, Rouans",
+    "lat": 47.156165,
+    "lng": -1.810679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Moulin la Masse, Rouans",
+    "lat": 47.156195,
+    "lng": -1.810788,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Moulin la Masse, Rouans",
+    "lat": 47.156279,
+    "lng": -1.810948,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Moulin la Masse, Rouans",
+    "lat": 47.155553,
+    "lng": -1.811275,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de Compostelle, Rouans",
+    "lat": 47.138785,
+    "lng": -1.821817,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de Compostelle, Rouans",
+    "lat": 47.137463,
+    "lng": -1.822888,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de Compostelle, Rouans",
+    "lat": 47.137654,
+    "lng": -1.823171,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de Compostelle, Rouans",
+    "lat": 47.136554,
+    "lng": -1.823157,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de la Castière, Rouans",
+    "lat": 47.179237,
+    "lng": -1.855589,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de la Castière, Rouans",
+    "lat": 47.179313,
+    "lng": -1.854977,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Route de la Castière, Rouans",
+    "lat": 47.179506,
+    "lng": -1.854806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 qua Route de la Castière, Rouans",
+    "lat": 47.179697,
+    "lng": -1.854296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 ter Route de la Castière, Rouans",
+    "lat": 47.179789,
+    "lng": -1.854615,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de la Castière, Rouans",
+    "lat": 47.179336,
+    "lng": -1.855466,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route de la Castière, Rouans",
+    "lat": 47.180127,
+    "lng": -1.854335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de la Castière, Rouans",
+    "lat": 47.17956,
+    "lng": -1.855187,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de la Castière, Rouans",
+    "lat": 47.18032,
+    "lng": -1.854148,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de la Castière, Rouans",
+    "lat": 47.179727,
+    "lng": -1.855063,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route de la Castière, Rouans",
+    "lat": 47.180509,
+    "lng": -1.853987,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route de la Castière, Rouans",
+    "lat": 47.179895,
+    "lng": -1.854987,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Route de la Castière, Rouans",
+    "lat": 47.180631,
+    "lng": -1.853735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de la Castière, Rouans",
+    "lat": 47.180052,
+    "lng": -1.854814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Route de la Castière, Rouans",
+    "lat": 47.180888,
+    "lng": -1.853599,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route de la Castière, Rouans",
+    "lat": 47.180184,
+    "lng": -1.854671,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Route de la Castière, Rouans",
+    "lat": 47.180353,
+    "lng": -1.854549,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Route de la Castière, Rouans",
+    "lat": 47.181049,
+    "lng": -1.853489,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de la Castière, Rouans",
+    "lat": 47.18052,
+    "lng": -1.854511,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 bis Route de la Castière, Rouans",
+    "lat": 47.18066,
+    "lng": -1.854377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Route de la Castière, Rouans",
+    "lat": 47.180808,
+    "lng": -1.854271,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 bis Route de la Castière, Rouans",
+    "lat": 47.180957,
+    "lng": -1.854158,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Route de la Castière, Rouans",
+    "lat": 47.181145,
+    "lng": -1.853983,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 bis Route de la Castière, Rouans",
+    "lat": 47.181278,
+    "lng": -1.853848,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Route de la Castière, Rouans",
+    "lat": 47.181408,
+    "lng": -1.853527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de la Mare, Rouans",
+    "lat": 47.158239,
+    "lng": -1.814958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de la Mare, Rouans",
+    "lat": 47.158239,
+    "lng": -1.814958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de la Mare, Rouans",
+    "lat": 47.157179,
+    "lng": -1.815186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de la Mare, Rouans",
+    "lat": 47.157179,
+    "lng": -1.815186,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de la Mare, Rouans",
+    "lat": 47.158512,
+    "lng": -1.814081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de la Mare, Rouans",
+    "lat": 47.158512,
+    "lng": -1.814081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de la Mare, Rouans",
+    "lat": 47.158722,
+    "lng": -1.813176,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de la Mare, Rouans",
+    "lat": 47.158722,
+    "lng": -1.813176,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route de la Mare, Rouans",
+    "lat": 47.158445,
+    "lng": -1.812887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route de la Mare, Rouans",
+    "lat": 47.158445,
+    "lng": -1.812887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de la Mare, Rouans",
+    "lat": 47.158641,
+    "lng": -1.812371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de la Mare, Rouans",
+    "lat": 47.158641,
+    "lng": -1.812371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Route de la Mare, Rouans",
+    "lat": 47.158108,
+    "lng": -1.81296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Route de la Mare, Rouans",
+    "lat": 47.158108,
+    "lng": -1.81296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Route de la Mare, Rouans",
+    "lat": 47.158316,
+    "lng": -1.812008,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Route de la Mare, Rouans",
+    "lat": 47.158316,
+    "lng": -1.812008,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route du Petit Bois, Rouans",
+    "lat": 47.137808,
+    "lng": -1.822532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route du Petit Bois, Rouans",
+    "lat": 47.137668,
+    "lng": -1.822183,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route du Petit Bois, Rouans",
+    "lat": 47.13751,
+    "lng": -1.82259,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route du Petit Bois, Rouans",
+    "lat": 47.137343,
+    "lng": -1.821387,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Route du Petit Bois, Rouans",
+    "lat": 47.137437,
+    "lng": -1.822425,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route du Petit Bois, Rouans",
+    "lat": 47.137293,
+    "lng": -1.820953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Route du Petit Bois, Rouans",
+    "lat": 47.137253,
+    "lng": -1.820516,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Route du Petit Bois, Rouans",
+    "lat": 47.137198,
+    "lng": -1.821543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Chalandière, Rouans",
+    "lat": 47.17174,
+    "lng": -1.816545,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Chalandière, Rouans",
+    "lat": 47.171213,
+    "lng": -1.818729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Chalandière, Rouans",
+    "lat": 47.171039,
+    "lng": -1.818427,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Chalandière, Rouans",
+    "lat": 47.172276,
+    "lng": -1.817363,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de la Chalandière, Rouans",
+    "lat": 47.172082,
+    "lng": -1.818029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de la Chalandière, Rouans",
+    "lat": 47.171258,
+    "lng": -1.818274,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue de la Chalandière, Rouans",
+    "lat": 47.171277,
+    "lng": -1.816879,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue de la Chalandière, Rouans",
+    "lat": 47.171351,
+    "lng": -1.81781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue de la Chalandière, Rouans",
+    "lat": 47.171504,
+    "lng": -1.81685,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue de la Chalandière, Rouans",
+    "lat": 47.171539,
+    "lng": -1.816592,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Islets, Rouans",
+    "lat": 47.180552,
+    "lng": -1.856211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Islets, Rouans",
+    "lat": 47.180793,
+    "lng": -1.857198,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Islets, Rouans",
+    "lat": 47.180469,
+    "lng": -1.855971,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Islets, Rouans",
+    "lat": 47.180746,
+    "lng": -1.856969,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Islets, Rouans",
+    "lat": 47.18029,
+    "lng": -1.855432,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Islets, Rouans",
+    "lat": 47.180592,
+    "lng": -1.856858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue des Islets, Rouans",
+    "lat": 47.1801,
+    "lng": -1.855818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Islets, Rouans",
+    "lat": 47.180452,
+    "lng": -1.856787,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Islets, Rouans",
+    "lat": 47.179816,
+    "lng": -1.855694,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue des Islets, Rouans",
+    "lat": 47.180346,
+    "lng": -1.856757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Islets, Rouans",
+    "lat": 47.180264,
+    "lng": -1.856681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Islets, Rouans",
+    "lat": 47.180158,
+    "lng": -1.856592,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Islets, Rouans",
+    "lat": 47.180016,
+    "lng": -1.85643,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Islets, Rouans",
+    "lat": 47.17994,
+    "lng": -1.856312,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Islets, Rouans",
+    "lat": 47.179841,
+    "lng": -1.856193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue des Islets, Rouans",
+    "lat": 47.179756,
+    "lng": -1.856084,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue des Islets, Rouans",
+    "lat": 47.179654,
+    "lng": -1.855923,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue des Islets, Rouans",
+    "lat": 47.179538,
+    "lng": -1.855772,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue des Islets, Rouans",
+    "lat": 47.179466,
+    "lng": -1.855665,
+    "etat": "non_visite"
+  }
+]

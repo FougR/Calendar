@@ -1,0 +1,4490 @@
+[
+  {
+    "adresse": "3 Chemin des Cigognes, Vue",
+    "lat": 47.199556,
+    "lng": -1.8763122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chereau, Vue",
+    "lat": 47.2057034,
+    "lng": -1.8660412,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Chereau, Vue",
+    "lat": 47.2058023,
+    "lng": -1.8639833,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse de l'Oisilière, Vue",
+    "lat": 47.201346,
+    "lng": -1.89771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse de l'Oisilière, Vue",
+    "lat": 47.201389,
+    "lng": -1.897689,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse de l'Oisilière, Vue",
+    "lat": 47.201441,
+    "lng": -1.89767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse de l'Oisilière, Vue",
+    "lat": 47.201545,
+    "lng": -1.89762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse de l'Oisilière, Vue",
+    "lat": 47.2018221,
+    "lng": -1.8974764,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse de l'Oisilière, Vue",
+    "lat": 47.2020676,
+    "lng": -1.8972332,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse de l'Oppidum, Vue",
+    "lat": 47.1973968,
+    "lng": -1.8780748,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse de l'Oppidum, Vue",
+    "lat": 47.1973096,
+    "lng": -1.8781024,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse de l'Oppidum, Vue",
+    "lat": 47.1972503,
+    "lng": -1.8781049,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse de l'Oppidum, Vue",
+    "lat": 47.1972835,
+    "lng": -1.8778908,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Impasse de la Fontaine aux Bains, Vue",
+    "lat": 47.1980421,
+    "lng": -1.8753389,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Impasse de la Fontaine aux Bains, Vue",
+    "lat": 47.198016,
+    "lng": -1.8755071,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Impasse de la Fontaine aux Bains, Vue",
+    "lat": 47.1979553,
+    "lng": -1.8756112,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Impasse de la Fontaine aux Bains, Vue",
+    "lat": 47.1978214,
+    "lng": -1.8752794,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse De la Forge, Vue",
+    "lat": 47.2003008,
+    "lng": -1.9044616,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse De la Forge, Vue",
+    "lat": 47.2003609,
+    "lng": -1.9049015,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Impasse De la Forge, Vue",
+    "lat": 47.2004448,
+    "lng": -1.9054031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Impasse De la Forge, Vue",
+    "lat": 47.2005104,
+    "lng": -1.9058161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse Des Marteaux, Vue",
+    "lat": 47.2002243,
+    "lng": -1.9040083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse Des Marteaux, Vue",
+    "lat": 47.2000657,
+    "lng": -1.9034773,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse du Haras, Vue",
+    "lat": 47.199396,
+    "lng": -1.878413,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse Du Tenu, Vue",
+    "lat": 47.1989644,
+    "lng": -1.874966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse Du Tenu, Vue",
+    "lat": 47.1986988,
+    "lng": -1.8751241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Bachonnerie, Vue",
+    "lat": 47.185165,
+    "lng": -1.893947,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Bachonnerie, Vue",
+    "lat": 47.1846099,
+    "lng": -1.8942742,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B La Bachonnerie, Vue",
+    "lat": 47.1848641,
+    "lng": -1.894086,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Bachonnerie, Vue",
+    "lat": 47.184823,
+    "lng": -1.8942279,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Bachonnerie, Vue",
+    "lat": 47.1844522,
+    "lng": -1.8944043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Bachonnerie, Vue",
+    "lat": 47.184632,
+    "lng": -1.894379,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Bachonnerie, Vue",
+    "lat": 47.1842398,
+    "lng": -1.8945652,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Bachonnerie, Vue",
+    "lat": 47.183915,
+    "lng": -1.894324,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Blanchardais, Vue",
+    "lat": 47.192287,
+    "lng": -1.8973059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A La Blanchardais, Vue",
+    "lat": 47.1923289,
+    "lng": -1.8973112,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B La Blanchardais, Vue",
+    "lat": 47.192452,
+    "lng": -1.897343,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Blanchardais, Vue",
+    "lat": 47.192326,
+    "lng": -1.897499,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A La Blanchardais, Vue",
+    "lat": 47.1924515,
+    "lng": -1.8974951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B La Blanchardais, Vue",
+    "lat": 47.1925755,
+    "lng": -1.8974817,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2C La Blanchardais, Vue",
+    "lat": 47.1926994,
+    "lng": -1.8974884,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Blanchardais, Vue",
+    "lat": 47.1925714,
+    "lng": -1.8973515,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3A La Blanchardais, Vue",
+    "lat": 47.1926898,
+    "lng": -1.8973676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3B La Blanchardais, Vue",
+    "lat": 47.1928302,
+    "lng": -1.8973729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Blanchardais, Vue",
+    "lat": 47.1930626,
+    "lng": -1.8975459,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Blanchardais, Vue",
+    "lat": 47.192994,
+    "lng": -1.897393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5B La Blanchardais, Vue",
+    "lat": 47.1930489,
+    "lng": -1.8973971,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Blanchardais, Vue",
+    "lat": 47.1931801,
+    "lng": -1.8975526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Blanchardais, Vue",
+    "lat": 47.1931491,
+    "lng": -1.8973729,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A La Blanchardais, Vue",
+    "lat": 47.193233,
+    "lng": -1.8973756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B La Blanchardais, Vue",
+    "lat": 47.1932776,
+    "lng": -1.897389,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Blanchardais, Vue",
+    "lat": 47.193321,
+    "lng": -1.897579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Blanchardais, Vue",
+    "lat": 47.193369,
+    "lng": -1.897464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9A La Blanchardais, Vue",
+    "lat": 47.1934778,
+    "lng": -1.8974779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Blanchardais, Vue",
+    "lat": 47.19351,
+    "lng": -1.897592,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Blanchardais, Vue",
+    "lat": 47.193583,
+    "lng": -1.8974861,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Blanchardais, Vue",
+    "lat": 47.193802,
+    "lng": -1.897616,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Blanchardais, Vue",
+    "lat": 47.193856,
+    "lng": -1.897515,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Blanchardais, Vue",
+    "lat": 47.194126,
+    "lng": -1.897635,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Blanchardais, Vue",
+    "lat": 47.194161,
+    "lng": -1.897553,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 La Blanchardais, Vue",
+    "lat": 47.1945617,
+    "lng": -1.8976398,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Blanchardais, Vue",
+    "lat": 47.1943138,
+    "lng": -1.8974869,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 La Blanchardais, Vue",
+    "lat": 47.194681,
+    "lng": -1.89768,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 La Blanchardais, Vue",
+    "lat": 47.194558,
+    "lng": -1.8971758,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 La Blanchardais, Vue",
+    "lat": 47.1948533,
+    "lng": -1.8976774,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 La Blanchardais, Vue",
+    "lat": 47.194951,
+    "lng": -1.897138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 La Blanchardais, Vue",
+    "lat": 47.195134,
+    "lng": -1.8977211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 La Blanchardais, Vue",
+    "lat": 47.1951066,
+    "lng": -1.897157,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 La Blanchardais, Vue",
+    "lat": 47.195399,
+    "lng": -1.897741,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 La Blanchardais, Vue",
+    "lat": 47.194764,
+    "lng": -1.8975459,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 La Blanchardais, Vue",
+    "lat": 47.195653,
+    "lng": -1.897767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 La Blanchardais, Vue",
+    "lat": 47.1949768,
+    "lng": -1.8975869,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 La Blanchardais, Vue",
+    "lat": 47.195788,
+    "lng": -1.897773,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 La Blanchardais, Vue",
+    "lat": 47.198177,
+    "lng": -1.898017,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 La Blanchardais, Vue",
+    "lat": 47.198441,
+    "lng": -1.898041,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 La Blanchardais, Vue",
+    "lat": 47.195678,
+    "lng": -1.8976345,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 La Blanchardais, Vue",
+    "lat": 47.1986,
+    "lng": -1.8980559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 La Blanchardais, Vue",
+    "lat": 47.198814,
+    "lng": -1.898075,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 La Blanchardais, Vue",
+    "lat": 47.196034,
+    "lng": -1.897691,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 La Blanchardais, Vue",
+    "lat": 47.199065,
+    "lng": -1.898098,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 La Blanchardais, Vue",
+    "lat": 47.196251,
+    "lng": -1.897711,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 La Blanchardais, Vue",
+    "lat": 47.1974125,
+    "lng": -1.8979132,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Boirie, Vue",
+    "lat": 47.189611,
+    "lng": -1.904194,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Boirie, Vue",
+    "lat": 47.189528,
+    "lng": -1.903501,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Boirie, Vue",
+    "lat": 47.189571,
+    "lng": -1.903641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Boirie, Vue",
+    "lat": 47.189313,
+    "lng": -1.902797,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Boirie, Vue",
+    "lat": 47.189459,
+    "lng": -1.903401,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5A La Boirie, Vue",
+    "lat": 47.18954,
+    "lng": -1.9035789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Boirie, Vue",
+    "lat": 47.189195,
+    "lng": -1.9025641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Boirie, Vue",
+    "lat": 47.189301,
+    "lng": -1.902926,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A La Boirie, Vue",
+    "lat": 47.1892129,
+    "lng": -1.9027892,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B La Boirie, Vue",
+    "lat": 47.1891938,
+    "lng": -1.9027127,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Boirie, Vue",
+    "lat": 47.189113,
+    "lng": -1.9025381,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Boirie, Vue",
+    "lat": 47.189025,
+    "lng": -1.904855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Brosselière, Vue",
+    "lat": 47.18438,
+    "lng": -1.899011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Bucterie, Vue",
+    "lat": 47.185137,
+    "lng": -1.904475,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Cailletais, Vue",
+    "lat": 47.202887,
+    "lng": -1.89789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Cailletais, Vue",
+    "lat": 47.203116,
+    "lng": -1.8975281,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Cailletais, Vue",
+    "lat": 47.203353,
+    "lng": -1.897262,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Cailletais, Vue",
+    "lat": 47.20357,
+    "lng": -1.897103,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Cailletais, Vue",
+    "lat": 47.203719,
+    "lng": -1.897048,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 La Cailletais, Vue",
+    "lat": 47.203905,
+    "lng": -1.897021,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 La Cailletais, Vue",
+    "lat": 47.20411,
+    "lng": -1.896921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18A La Cailletais, Vue",
+    "lat": 47.2042706,
+    "lng": -1.8967623,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18B La Cailletais, Vue",
+    "lat": 47.2043343,
+    "lng": -1.8966536,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18C La Cailletais, Vue",
+    "lat": 47.2043563,
+    "lng": -1.8965806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20A La Cailletais, Vue",
+    "lat": 47.2047143,
+    "lng": -1.8958751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 La Cailletais, Vue",
+    "lat": 47.204878,
+    "lng": -1.89567,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 La Cailletais, Vue",
+    "lat": 47.204989,
+    "lng": -1.8955909,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Claverie, Vue",
+    "lat": 47.2042574,
+    "lng": -1.9024264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Claverie, Vue",
+    "lat": 47.205025,
+    "lng": -1.903629,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 La Claverie, Vue",
+    "lat": 47.2034596,
+    "lng": -1.9020674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 La Claverie, Vue",
+    "lat": 47.203911,
+    "lng": -1.903529,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 La Claverie, Vue",
+    "lat": 47.206195,
+    "lng": -1.903341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Fosse des Pres, Vue",
+    "lat": 47.198791,
+    "lng": -1.905749,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Fosse des Pres, Vue",
+    "lat": 47.1987641,
+    "lng": -1.9050513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Fosse des Pres, Vue",
+    "lat": 47.1988597,
+    "lng": -1.9061309,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Fosse des Pres, Vue",
+    "lat": 47.198731,
+    "lng": -1.905781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Fosse des Pres, Vue",
+    "lat": 47.198994,
+    "lng": -1.9061061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Fosse des Pres, Vue",
+    "lat": 47.198427,
+    "lng": -1.9069331,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Fosse des Pres, Vue",
+    "lat": 47.1990365,
+    "lng": -1.9062717,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Fosse des Pres, Vue",
+    "lat": 47.199185,
+    "lng": -1.906394,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Fosse des Pres, Vue",
+    "lat": 47.198912,
+    "lng": -1.9062359,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Fosse des Pres, Vue",
+    "lat": 47.199082,
+    "lng": -1.906617,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Fosse des Pres, Vue",
+    "lat": 47.198557,
+    "lng": -1.906688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Fosse des Pres, Vue",
+    "lat": 47.198056,
+    "lng": -1.9087061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 La Fosse des Pres, Vue",
+    "lat": 47.1980189,
+    "lng": -1.9094525,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Genonville, Vue",
+    "lat": 47.20063,
+    "lng": -1.865287,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Genonville, Vue",
+    "lat": 47.200728,
+    "lng": -1.865346,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Genonville, Vue",
+    "lat": 47.200835,
+    "lng": -1.865435,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Genonville, Vue",
+    "lat": 47.2011513,
+    "lng": -1.8656043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Hamoyere, Vue",
+    "lat": 47.176663,
+    "lng": -1.909006,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Hamoyere, Vue",
+    "lat": 47.177014,
+    "lng": -1.908875,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Hamoyere, Vue",
+    "lat": 47.176749,
+    "lng": -1.9088949,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Hamoyere, Vue",
+    "lat": 47.17604,
+    "lng": -1.9090179,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Hamoyere, Vue",
+    "lat": 47.176432,
+    "lng": -1.9089191,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Hamoyere, Vue",
+    "lat": 47.1758507,
+    "lng": -1.9092162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Hamoyere, Vue",
+    "lat": 47.176206,
+    "lng": -1.9089281,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Hamoyere, Vue",
+    "lat": 47.1757759,
+    "lng": -1.9093825,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Hamoyere, Vue",
+    "lat": 47.1757377,
+    "lng": -1.9091625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Hamoyere, Vue",
+    "lat": 47.1757878,
+    "lng": -1.9097928,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Hamoyere, Vue",
+    "lat": 47.1759081,
+    "lng": -1.9102005,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 La Hamoyere, Vue",
+    "lat": 47.175089,
+    "lng": -1.909805,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Hamoyere, Vue",
+    "lat": 47.1760667,
+    "lng": -1.9107799,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 La Hamoyere, Vue",
+    "lat": 47.174993,
+    "lng": -1.909789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Hamoyere, Vue",
+    "lat": 47.175481,
+    "lng": -1.909811,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 La Hamoyere, Vue",
+    "lat": 47.174861,
+    "lng": -1.909767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 La Hamoyere, Vue",
+    "lat": 47.174609,
+    "lng": -1.909793,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 La Hamoyere, Vue",
+    "lat": 47.174439,
+    "lng": -1.9099801,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 La Hamoyere, Vue",
+    "lat": 47.174829,
+    "lng": -1.90982,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 La Hamoyere, Vue",
+    "lat": 47.174352,
+    "lng": -1.910438,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 La Hamoyere, Vue",
+    "lat": 47.17445,
+    "lng": -1.91003,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 La Hamoyere, Vue",
+    "lat": 47.1742,
+    "lng": -1.910821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 La Hamoyere, Vue",
+    "lat": 47.174369,
+    "lng": -1.910514,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 La Hamoyere, Vue",
+    "lat": 47.173961,
+    "lng": -1.910823,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 La Hamoyere, Vue",
+    "lat": 47.173738,
+    "lng": -1.910806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 La Hamoyere, Vue",
+    "lat": 47.1741,
+    "lng": -1.910851,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 La Hamoyere, Vue",
+    "lat": 47.173566,
+    "lng": -1.9108329,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 La Hamoyere, Vue",
+    "lat": 47.173477,
+    "lng": -1.910974,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 La Hamoyere, Vue",
+    "lat": 47.172239,
+    "lng": -1.910417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34A La Hamoyere, Vue",
+    "lat": 47.172063,
+    "lng": -1.910224,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 La Hamoyere, Vue",
+    "lat": 47.172128,
+    "lng": -1.9101031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Loge, Vue",
+    "lat": 47.198308,
+    "lng": -1.868728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Maquiniere, Vue",
+    "lat": 47.1923495,
+    "lng": -1.9114543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Morissais, Vue",
+    "lat": 47.204907,
+    "lng": -1.912995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Morissais, Vue",
+    "lat": 47.204848,
+    "lng": -1.912904,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Morissais, Vue",
+    "lat": 47.205161,
+    "lng": -1.9128269,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Morissais, Vue",
+    "lat": 47.205216,
+    "lng": -1.912686,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6A La Morissais, Vue",
+    "lat": 47.2055948,
+    "lng": -1.912397,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Morissais, Vue",
+    "lat": 47.205554,
+    "lng": -1.912283,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Morissais, Vue",
+    "lat": 47.205811,
+    "lng": -1.912222,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Morissais, Vue",
+    "lat": 47.205571,
+    "lng": -1.9117791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Morissais, Vue",
+    "lat": 47.206075,
+    "lng": -1.912112,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Morissais, Vue",
+    "lat": 47.205511,
+    "lng": -1.911564,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 La Morissais, Vue",
+    "lat": 47.2064841,
+    "lng": -1.9120927,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Morissais, Vue",
+    "lat": 47.205461,
+    "lng": -1.9113811,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Morissais, Vue",
+    "lat": 47.205403,
+    "lng": -1.911164,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Morissais, Vue",
+    "lat": 47.205344,
+    "lng": -1.910944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 La Morissais, Vue",
+    "lat": 47.206116,
+    "lng": -1.912083,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 La Morissais, Vue",
+    "lat": 47.205247,
+    "lng": -1.910595,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 La Morissais, Vue",
+    "lat": 47.205868,
+    "lng": -1.9121499,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 La Morissais, Vue",
+    "lat": 47.205677,
+    "lng": -1.911937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 La Morissais, Vue",
+    "lat": 47.205516,
+    "lng": -1.911308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 La Morissais, Vue",
+    "lat": 47.20537,
+    "lng": -1.9107581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 La Morissais, Vue",
+    "lat": 47.205318,
+    "lng": -1.910547,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Noe, Vue",
+    "lat": 47.191921,
+    "lng": -1.8981031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Noe, Vue",
+    "lat": 47.191338,
+    "lng": -1.8984499,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Noe, Vue",
+    "lat": 47.19147,
+    "lng": -1.898528,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Noe, Vue",
+    "lat": 47.191766,
+    "lng": -1.8989921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Noe, Vue",
+    "lat": 47.191769,
+    "lng": -1.897735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Noe, Vue",
+    "lat": 47.191491,
+    "lng": -1.8977061,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Noe, Vue",
+    "lat": 47.191323,
+    "lng": -1.897731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Noe, Vue",
+    "lat": 47.191247,
+    "lng": -1.897842,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Noe, Vue",
+    "lat": 47.191494,
+    "lng": -1.8977871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Noe Gallet, Vue",
+    "lat": 47.186284,
+    "lng": -1.8932369,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Noe Gallet, Vue",
+    "lat": 47.186207,
+    "lng": -1.893418,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Noe Gallet, Vue",
+    "lat": 47.186063,
+    "lng": -1.89402,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Noe Gallet, Vue",
+    "lat": 47.185926,
+    "lng": -1.896009,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Noe Gallet, Vue",
+    "lat": 47.186246,
+    "lng": -1.895997,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Noe Gallet, Vue",
+    "lat": 47.18602,
+    "lng": -1.89601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Noe Gallet, Vue",
+    "lat": 47.186281,
+    "lng": -1.89612,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Petite L'oisiliere, Vue",
+    "lat": 47.2057609,
+    "lng": -1.9011998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Pinellerie, Vue",
+    "lat": 47.202463,
+    "lng": -1.900161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A La Pinellerie, Vue",
+    "lat": 47.200854,
+    "lng": -1.8998819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B La Pinellerie, Vue",
+    "lat": 47.202428,
+    "lng": -1.899139,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis La Pinellerie, Vue",
+    "lat": 47.2010466,
+    "lng": -1.8997154,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Pinellerie, Vue",
+    "lat": 47.202477,
+    "lng": -1.8991999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A La Pinellerie, Vue",
+    "lat": 47.2011225,
+    "lng": -1.8999183,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Pinellerie, Vue",
+    "lat": 47.2026618,
+    "lng": -1.8987043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Pinellerie, Vue",
+    "lat": 47.202744,
+    "lng": -1.898969,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4A La Pinellerie, Vue",
+    "lat": 47.2027755,
+    "lng": -1.8988916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4B La Pinellerie, Vue",
+    "lat": 47.2027755,
+    "lng": -1.8988004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4C La Pinellerie, Vue",
+    "lat": 47.2027646,
+    "lng": -1.8985992,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Pinellerie, Vue",
+    "lat": 47.2012898,
+    "lng": -1.8995796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 La Pinellerie, Vue",
+    "lat": 47.20224,
+    "lng": -1.899208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 La Pinellerie, Vue",
+    "lat": 47.202328,
+    "lng": -1.899624,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 La Pinellerie, Vue",
+    "lat": 47.202641,
+    "lng": -1.9003971,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 La Pinellerie, Vue",
+    "lat": 47.202516,
+    "lng": -1.900214,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 La Pinellerie, Vue",
+    "lat": 47.202834,
+    "lng": -1.900801,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 La Pinellerie, Vue",
+    "lat": 47.202962,
+    "lng": -1.901078,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 La Pinellerie, Vue",
+    "lat": 47.203077,
+    "lng": -1.901316,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 La Pinellerie, Vue",
+    "lat": 47.203221,
+    "lng": -1.9016,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 La Pinellerie, Vue",
+    "lat": 47.203311,
+    "lng": -1.901791,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 La Rochette, Vue",
+    "lat": 47.205221,
+    "lng": -1.896337,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24A La Rochette, Vue",
+    "lat": 47.205645,
+    "lng": -1.895946,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24C La Rochette, Vue",
+    "lat": 47.205352,
+    "lng": -1.89583,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 La Rochette, Vue",
+    "lat": 47.205458,
+    "lng": -1.8953891,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 La Rochette, Vue",
+    "lat": 47.205653,
+    "lng": -1.895936,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28A La Rochette, Vue",
+    "lat": 47.205764,
+    "lng": -1.896228,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 La Rochette, Vue",
+    "lat": 47.205701,
+    "lng": -1.895858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 La Rochette, Vue",
+    "lat": 47.205658,
+    "lng": -1.89533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 La Rochette, Vue",
+    "lat": 47.205777,
+    "lng": -1.89521,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 La Rochette, Vue",
+    "lat": 47.2058081,
+    "lng": -1.8950308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Le Bel Ebeaupin, Vue",
+    "lat": 47.180662,
+    "lng": -1.9019272,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Le Bel Ebeaupin, Vue",
+    "lat": 47.180303,
+    "lng": -1.90193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24A Le Bel Ebeaupin, Vue",
+    "lat": 47.1801356,
+    "lng": -1.9018997,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24B Le Bel Ebeaupin, Vue",
+    "lat": 47.1800814,
+    "lng": -1.9019143,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Le Bel Ebeaupin, Vue",
+    "lat": 47.1807326,
+    "lng": -1.9020367,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Le Bel Ebeaupin, Vue",
+    "lat": 47.181048,
+    "lng": -1.9022739,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Chateau Gaillard, Vue",
+    "lat": 47.2008929,
+    "lng": -1.9048708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Chateau Gaillard, Vue",
+    "lat": 47.200875,
+    "lng": -1.9048692,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Le Chateau Gaillard, Vue",
+    "lat": 47.2011784,
+    "lng": -1.9094457,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Moulin de la Barre, Vue",
+    "lat": 47.1880192,
+    "lng": -1.9090469,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Le Moulin du Bourg, Vue",
+    "lat": 47.2034753,
+    "lng": -1.8715926,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Pas, Vue",
+    "lat": 47.182597,
+    "lng": -1.898893,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Le Pas, Vue",
+    "lat": 47.183427,
+    "lng": -1.901053,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Le Pas, Vue",
+    "lat": 47.1826922,
+    "lng": -1.8998778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Le Pas, Vue",
+    "lat": 47.182626,
+    "lng": -1.899491,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Pigeonnier, Vue",
+    "lat": 47.200073,
+    "lng": -1.899149,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Pigeonnier, Vue",
+    "lat": 47.199265,
+    "lng": -1.895242,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Le Pigeonnier, Vue",
+    "lat": 47.199126,
+    "lng": -1.8947419,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Le Pigeonnier, Vue",
+    "lat": 47.199453,
+    "lng": -1.895738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Le Pigeonnier, Vue",
+    "lat": 47.199698,
+    "lng": -1.89758,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Le Pigeonnier, Vue",
+    "lat": 47.198753,
+    "lng": -1.893802,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Le Pigeonnier, Vue",
+    "lat": 47.199641,
+    "lng": -1.896801,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Le Pigeonnier, Vue",
+    "lat": 47.198746,
+    "lng": -1.8965251,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Le Pigeonnier, Vue",
+    "lat": 47.199446,
+    "lng": -1.896043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Le Pigeonnier, Vue",
+    "lat": 47.198681,
+    "lng": -1.895956,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Le Pigeonnier, Vue",
+    "lat": 47.199166,
+    "lng": -1.89506,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Le Pigeonnier, Vue",
+    "lat": 47.199248,
+    "lng": -1.895369,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Le Pigeonnier, Vue",
+    "lat": 47.198823,
+    "lng": -1.8941931,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Le Pigeonnier, Vue",
+    "lat": 47.19865,
+    "lng": -1.893761,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Le Pigeonnier, Vue",
+    "lat": 47.198479,
+    "lng": -1.8933271,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Le Pigeonnier, Vue",
+    "lat": 47.198902,
+    "lng": -1.894392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43A Le Pigeonnier, Vue",
+    "lat": 47.1987869,
+    "lng": -1.8978963,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Le Pigeonnier, Vue",
+    "lat": 47.1993093,
+    "lng": -1.8981051,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Le Pigeonnier, Vue",
+    "lat": 47.199279,
+    "lng": -1.898033,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Le Pigeonnier, Vue",
+    "lat": 47.200013,
+    "lng": -1.898411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Le Pigeonnier, Vue",
+    "lat": 47.199571,
+    "lng": -1.898085,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Plessis, Vue",
+    "lat": 47.1914767,
+    "lng": -1.9004183,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Le Taillis Poisson, Vue",
+    "lat": 47.1807041,
+    "lng": -1.901918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Caillauderies, Vue",
+    "lat": 47.17939,
+    "lng": -1.8988389,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Les Caillauderies, Vue",
+    "lat": 47.17913,
+    "lng": -1.8990771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Cendrieres, Vue",
+    "lat": 47.1783511,
+    "lng": -1.9010092,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Les Cendrieres, Vue",
+    "lat": 47.1781269,
+    "lng": -1.9008771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B Les Cendrieres, Vue",
+    "lat": 47.1780437,
+    "lng": -1.9008554,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1C Les Cendrieres, Vue",
+    "lat": 47.1778685,
+    "lng": -1.9007752,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Cendrieres, Vue",
+    "lat": 47.177687,
+    "lng": -1.900781,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Les Cendrieres, Vue",
+    "lat": 47.1777781,
+    "lng": -1.900822,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Les Cendrieres, Vue",
+    "lat": 47.178813,
+    "lng": -1.901271,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3A Les Cendrieres, Vue",
+    "lat": 47.1784379,
+    "lng": -1.9010512,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3B Les Cendrieres, Vue",
+    "lat": 47.1784866,
+    "lng": -1.9010854,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3C Les Cendrieres, Vue",
+    "lat": 47.1785717,
+    "lng": -1.9011314,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Les Cendrieres, Vue",
+    "lat": 47.17797,
+    "lng": -1.9009139,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Les Cendrieres, Vue",
+    "lat": 47.1789945,
+    "lng": -1.9013392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Les Cendrieres, Vue",
+    "lat": 47.178139,
+    "lng": -1.900998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Les Cendrieres, Vue",
+    "lat": 47.1791317,
+    "lng": -1.9014004,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Les Cendrieres, Vue",
+    "lat": 47.17825,
+    "lng": -1.9010479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8A Les Cendrieres, Vue",
+    "lat": 47.178322,
+    "lng": -1.901105,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Les Cendrieres, Vue",
+    "lat": 47.1792701,
+    "lng": -1.9014696,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Les Cendrieres, Vue",
+    "lat": 47.178468,
+    "lng": -1.9011561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10A Les Cendrieres, Vue",
+    "lat": 47.178599,
+    "lng": -1.901245,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Les Cendrieres, Vue",
+    "lat": 47.1785972,
+    "lng": -1.901762,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Les Cendrieres, Vue",
+    "lat": 47.1786601,
+    "lng": -1.9017511,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Les Cendrieres, Vue",
+    "lat": 47.1788206,
+    "lng": -1.9013277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Les Cendrieres, Vue",
+    "lat": 47.1789468,
+    "lng": -1.9013965,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Les Cendrieres, Vue",
+    "lat": 47.1790657,
+    "lng": -1.9014487,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Les Cendrieres, Vue",
+    "lat": 47.1791578,
+    "lng": -1.9014966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22A Les Cendrieres, Vue",
+    "lat": 47.1792767,
+    "lng": -1.9015962,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22B Les Cendrieres, Vue",
+    "lat": 47.179438,
+    "lng": -1.901678,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22C Les Cendrieres, Vue",
+    "lat": 47.1796037,
+    "lng": -1.9017661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22D Les Cendrieres, Vue",
+    "lat": 47.1797883,
+    "lng": -1.9018539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Gannes, Vue",
+    "lat": 47.2203138,
+    "lng": -1.8714559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Grandes Caillauderies, Vue",
+    "lat": 47.179677,
+    "lng": -1.8981711,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Grandes Caillauderies, Vue",
+    "lat": 47.178891,
+    "lng": -1.898404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Hautes Angles, Vue",
+    "lat": 47.21679,
+    "lng": -1.8712509,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Petits Pres, Vue",
+    "lat": 47.194849,
+    "lng": -1.9082461,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Les Petits Pres, Vue",
+    "lat": 47.1951354,
+    "lng": -1.9082784,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Pluchais, Vue",
+    "lat": 47.1875338,
+    "lng": -1.8892465,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Les Teurlieres, Vue",
+    "lat": 47.180233,
+    "lng": -1.901857,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Les Teurlieres, Vue",
+    "lat": 47.180233,
+    "lng": -1.901857,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Les Teurlières, Vue",
+    "lat": 47.180323,
+    "lng": -1.901237,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Les Teurlières, Vue",
+    "lat": 47.180323,
+    "lng": -1.901237,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Lieu Dit le Moulin du Bourg, Vue",
+    "lat": 47.202,
+    "lng": -1.8719531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Lieu Dit le Moulin du Bourg, Vue",
+    "lat": 47.202197,
+    "lng": -1.871868,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Lieu Dit le Moulin du Bourg, Vue",
+    "lat": 47.202281,
+    "lng": -1.871789,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Lieu Dit le Moulin du Bourg, Vue",
+    "lat": 47.202999,
+    "lng": -1.87162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Lieu Dit le Moulin du Bourg, Vue",
+    "lat": 47.203257,
+    "lng": -1.871597,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Lotissement de la Tournerie, Vue",
+    "lat": 47.196837,
+    "lng": -1.89053,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Lotissement de la Tournerie, Vue",
+    "lat": 47.196924,
+    "lng": -1.8905581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Lotissement de la Tournerie, Vue",
+    "lat": 47.196795,
+    "lng": -1.890239,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Lotissement de la Tournerie, Vue",
+    "lat": 47.196883,
+    "lng": -1.890237,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Lotissement de la Tournerie, Vue",
+    "lat": 47.196737,
+    "lng": -1.889893,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Lotissement de la Tournerie, Vue",
+    "lat": 47.196858,
+    "lng": -1.889998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Lotissement de la Tournerie, Vue",
+    "lat": 47.196665,
+    "lng": -1.8895821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Lotissement de la Tournerie, Vue",
+    "lat": 47.19683,
+    "lng": -1.889505,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Lotissement de la Tournerie, Vue",
+    "lat": 47.196702,
+    "lng": -1.8893679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Lotissement de la Tournerie, Vue",
+    "lat": 47.196684,
+    "lng": -1.8893662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Lotissement de la Tournerie, Vue",
+    "lat": 47.196763,
+    "lng": -1.88933,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place du Haras, Vue",
+    "lat": 47.1996126,
+    "lng": -1.8782571,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place du Haras, Vue",
+    "lat": 47.199616,
+    "lng": -1.8783309,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place Sainte Anne, Vue",
+    "lat": 47.199763,
+    "lng": -1.877202,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place Sainte Anne, Vue",
+    "lat": 47.200054,
+    "lng": -1.8770369,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Place Sainte Anne, Vue",
+    "lat": 47.200185,
+    "lng": -1.8780512,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place Sainte Anne, Vue",
+    "lat": 47.199629,
+    "lng": -1.877285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place Sainte Anne, Vue",
+    "lat": 47.200057,
+    "lng": -1.8772891,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Place Sainte Anne, Vue",
+    "lat": 47.199427,
+    "lng": -1.877308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Place Sainte Anne, Vue",
+    "lat": 47.200075,
+    "lng": -1.877544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Place Sainte Anne, Vue",
+    "lat": 47.199413,
+    "lng": -1.877426,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Place Sainte Anne, Vue",
+    "lat": 47.200449,
+    "lng": -1.877732,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Place Sainte Anne, Vue",
+    "lat": 47.199396,
+    "lng": -1.8777179,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Place Sainte Anne, Vue",
+    "lat": 47.200203,
+    "lng": -1.8780528,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de Chauvé, Vue",
+    "lat": 47.199088,
+    "lng": -1.8890649,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de Chauvé, Vue",
+    "lat": 47.199088,
+    "lng": -1.8890649,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de Chauvé, Vue",
+    "lat": 47.197632,
+    "lng": -1.890819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de Chauvé, Vue",
+    "lat": 47.197632,
+    "lng": -1.890819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de Chauvé, Vue",
+    "lat": 47.199042,
+    "lng": -1.8893819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de Chauvé, Vue",
+    "lat": 47.199042,
+    "lng": -1.8893819,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route de Chauvé, Vue",
+    "lat": 47.197465,
+    "lng": -1.890826,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route de Chauvé, Vue",
+    "lat": 47.197465,
+    "lng": -1.890826,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de Chauvé, Vue",
+    "lat": 47.198073,
+    "lng": -1.890409,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de Chauvé, Vue",
+    "lat": 47.198073,
+    "lng": -1.890409,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de Chauvé, Vue",
+    "lat": 47.197274,
+    "lng": -1.890835,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de Chauvé, Vue",
+    "lat": 47.197274,
+    "lng": -1.890835,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de Chauvé, Vue",
+    "lat": 47.197907,
+    "lng": -1.890526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de Chauvé, Vue",
+    "lat": 47.197907,
+    "lng": -1.890526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route de Chauvé, Vue",
+    "lat": 47.196833,
+    "lng": -1.890855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route de Chauvé, Vue",
+    "lat": 47.196833,
+    "lng": -1.890855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route de Chauvé, Vue",
+    "lat": 47.197529,
+    "lng": -1.890701,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route de Chauvé, Vue",
+    "lat": 47.197529,
+    "lng": -1.890701,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de Chauvé, Vue",
+    "lat": 47.197438,
+    "lng": -1.8907151,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de Chauvé, Vue",
+    "lat": 47.197438,
+    "lng": -1.8907151,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Route de Chauve, Vue",
+    "lat": 47.197336,
+    "lng": -1.8901243,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Route de Chauve, Vue",
+    "lat": 47.197336,
+    "lng": -1.8901243,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de Chauvé, Vue",
+    "lat": 47.196373,
+    "lng": -1.890761,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de Chauvé, Vue",
+    "lat": 47.196373,
+    "lng": -1.890761,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de L'ile, Vue",
+    "lat": 47.1991629,
+    "lng": -1.8838236,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de L'ile, Vue",
+    "lat": 47.199191,
+    "lng": -1.8839822,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de Nantes, Vue",
+    "lat": 47.198887,
+    "lng": -1.879267,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de Nantes, Vue",
+    "lat": 47.199022,
+    "lng": -1.878767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de Nantes, Vue",
+    "lat": 47.198902,
+    "lng": -1.8791121,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route de Nantes, Vue",
+    "lat": 47.199247,
+    "lng": -1.8783648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de Nantes, Vue",
+    "lat": 47.198571,
+    "lng": -1.878944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de Nantes, Vue",
+    "lat": 47.199229,
+    "lng": -1.8783632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de Nantes, Vue",
+    "lat": 47.198893,
+    "lng": -1.879007,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Route de Nantes, Vue",
+    "lat": 47.198903,
+    "lng": -1.8790271,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route de Nantes, Vue",
+    "lat": 47.199407,
+    "lng": -1.878021,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route de Nantes, Vue",
+    "lat": 47.198932,
+    "lng": -1.878834,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Route de Nantes, Vue",
+    "lat": 47.200021,
+    "lng": -1.8767591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de Nantes, Vue",
+    "lat": 47.198968,
+    "lng": -1.878559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Route de Nantes, Vue",
+    "lat": 47.20004,
+    "lng": -1.8765991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route de Nantes, Vue",
+    "lat": 47.1990412,
+    "lng": -1.87834,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Route de Nantes, Vue",
+    "lat": 47.200065,
+    "lng": -1.8763871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de Nantes, Vue",
+    "lat": 47.199133,
+    "lng": -1.87818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Route de Nantes, Vue",
+    "lat": 47.200184,
+    "lng": -1.875655,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Route de Nantes, Vue",
+    "lat": 47.199929,
+    "lng": -1.876688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Route de Nantes, Vue",
+    "lat": 47.200254,
+    "lng": -1.875238,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Route de Nantes, Vue",
+    "lat": 47.199949,
+    "lng": -1.876571,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Route de Nantes, Vue",
+    "lat": 47.200355,
+    "lng": -1.874539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 bis Route de Nantes, Vue",
+    "lat": 47.2004,
+    "lng": -1.874173,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Route de Nantes, Vue",
+    "lat": 47.199979,
+    "lng": -1.876404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Route de Nantes, Vue",
+    "lat": 47.200452,
+    "lng": -1.873365,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Route de Nantes, Vue",
+    "lat": 47.20002,
+    "lng": -1.8761771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Route de Nantes, Vue",
+    "lat": 47.200452,
+    "lng": -1.873085,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Route de Nantes, Vue",
+    "lat": 47.200071,
+    "lng": -1.8757921,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Route de Nantes, Vue",
+    "lat": 47.200451,
+    "lng": -1.8728471,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Route de Nantes, Vue",
+    "lat": 47.200122,
+    "lng": -1.875432,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Route de Nantes, Vue",
+    "lat": 47.200149,
+    "lng": -1.8752459,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Route de Nantes, Vue",
+    "lat": 47.200184,
+    "lng": -1.875026,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 bis Route de Nantes, Vue",
+    "lat": 47.200204,
+    "lng": -1.874871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 ter Route de Nantes, Vue",
+    "lat": 47.199358,
+    "lng": -1.87472,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Route de Nantes, Vue",
+    "lat": 47.200243,
+    "lng": -1.874579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 bis Route de Nantes, Vue",
+    "lat": 47.200337,
+    "lng": -1.873214,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33C Route de Nantes, Vue",
+    "lat": 47.2003356,
+    "lng": -1.8727117,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33D Route de Nantes, Vue",
+    "lat": 47.2003382,
+    "lng": -1.8725185,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33E Route de Nantes, Vue",
+    "lat": 47.2003371,
+    "lng": -1.8724248,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 ter Route de Nantes, Vue",
+    "lat": 47.200339,
+    "lng": -1.872949,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Route de Nantes, Vue",
+    "lat": 47.200335,
+    "lng": -1.8722691,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 bis Route de Nantes, Vue",
+    "lat": 47.200319,
+    "lng": -1.8718659,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Route de Nantes, Vue",
+    "lat": 47.200325,
+    "lng": -1.8720391,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 bis Route de Nantes, Vue",
+    "lat": 47.200309,
+    "lng": -1.871561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 ter Route de Nantes, Vue",
+    "lat": 47.200295,
+    "lng": -1.8713081,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Route de Nantes, Vue",
+    "lat": 47.200266,
+    "lng": -1.8708957,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Route de Nantes, Vue",
+    "lat": 47.2002343,
+    "lng": -1.8705499,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route de Paimboeuf, Vue",
+    "lat": 47.19859,
+    "lng": -1.881393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route de Paimboeuf, Vue",
+    "lat": 47.199084,
+    "lng": -1.880416,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route de Paimboeuf, Vue",
+    "lat": 47.198579,
+    "lng": -1.881478,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route de Paimboeuf, Vue",
+    "lat": 47.198796,
+    "lng": -1.8804341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route de Paimboeuf, Vue",
+    "lat": 47.198562,
+    "lng": -1.88161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route de Paimboeuf, Vue",
+    "lat": 47.198742,
+    "lng": -1.8808241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Route de Paimboeuf, Vue",
+    "lat": 47.198716,
+    "lng": -1.8810379,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route de Paimboeuf, Vue",
+    "lat": 47.198543,
+    "lng": -1.881821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 bis Route de Paimboeuf, Vue",
+    "lat": 47.198539,
+    "lng": -1.8817632,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 ter Route de Paimboeuf, Vue",
+    "lat": 47.1985569,
+    "lng": -1.8817649,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route de Paimboeuf, Vue",
+    "lat": 47.198684,
+    "lng": -1.8812901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route de Paimboeuf, Vue",
+    "lat": 47.198511,
+    "lng": -1.882239,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Route de Paimboeuf, Vue",
+    "lat": 47.198651,
+    "lng": -1.8815371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Route de Paimboeuf, Vue",
+    "lat": 47.198509,
+    "lng": -1.882393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Route de Paimboeuf, Vue",
+    "lat": 47.198703,
+    "lng": -1.8831918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route de Paimboeuf, Vue",
+    "lat": 47.198537,
+    "lng": -1.88263,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Route de Paimboeuf, Vue",
+    "lat": 47.198601,
+    "lng": -1.881967,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Route de Paimboeuf, Vue",
+    "lat": 47.198566,
+    "lng": -1.882815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Route de Paimboeuf, Vue",
+    "lat": 47.198579,
+    "lng": -1.8823291,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Route de Paimboeuf, Vue",
+    "lat": 47.198579,
+    "lng": -1.882934,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Route de Paimboeuf, Vue",
+    "lat": 47.198602,
+    "lng": -1.882486,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Route de Paimboeuf, Vue",
+    "lat": 47.1985868,
+    "lng": -1.8830641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Route de Paimboeuf, Vue",
+    "lat": 47.198614,
+    "lng": -1.882663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Route de Paimboeuf, Vue",
+    "lat": 47.1983639,
+    "lng": -1.8832411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Route de Paimboeuf, Vue",
+    "lat": 47.1986519,
+    "lng": -1.8829058,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 bis Route de Paimboeuf, Vue",
+    "lat": 47.198638,
+    "lng": -1.882916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 ter Route de Paimboeuf, Vue",
+    "lat": 47.198639,
+    "lng": -1.8828932,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Route de Paimboeuf, Vue",
+    "lat": 47.1986251,
+    "lng": -1.883321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Route de Paimboeuf, Vue",
+    "lat": 47.198674,
+    "lng": -1.883136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Route de Paimboeuf, Vue",
+    "lat": 47.198658,
+    "lng": -1.883481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Route de Paimboeuf, Vue",
+    "lat": 47.198739,
+    "lng": -1.883621,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Route de Paimboeuf, Vue",
+    "lat": 47.198678,
+    "lng": -1.883604,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Route de Paimboeuf, Vue",
+    "lat": 47.198808,
+    "lng": -1.883947,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Route de Paimboeuf, Vue",
+    "lat": 47.198714,
+    "lng": -1.8837699,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Route de Paimboeuf, Vue",
+    "lat": 47.198859,
+    "lng": -1.8842011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Route de Paimboeuf, Vue",
+    "lat": 47.198742,
+    "lng": -1.883948,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Route de Paimboeuf, Vue",
+    "lat": 47.19887,
+    "lng": -1.8844161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Route de Paimboeuf, Vue",
+    "lat": 47.19877,
+    "lng": -1.88406,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Route de Paimboeuf, Vue",
+    "lat": 47.198873,
+    "lng": -1.88459,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Route de Paimboeuf, Vue",
+    "lat": 47.19879,
+    "lng": -1.8841681,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Route de Paimboeuf, Vue",
+    "lat": 47.198869,
+    "lng": -1.884711,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Route de Paimboeuf, Vue",
+    "lat": 47.198807,
+    "lng": -1.884364,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Route de Paimboeuf, Vue",
+    "lat": 47.198875,
+    "lng": -1.884873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Route de Paimboeuf, Vue",
+    "lat": 47.198813,
+    "lng": -1.884485,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Route de Paimboeuf, Vue",
+    "lat": 47.198884,
+    "lng": -1.885047,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Route de Paimboeuf, Vue",
+    "lat": 47.198818,
+    "lng": -1.884631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Route de Paimboeuf, Vue",
+    "lat": 47.198897,
+    "lng": -1.885227,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Route de Paimboeuf, Vue",
+    "lat": 47.198819,
+    "lng": -1.8847949,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Route de Paimboeuf, Vue",
+    "lat": 47.198935,
+    "lng": -1.8854219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Route de Paimboeuf, Vue",
+    "lat": 47.198806,
+    "lng": -1.884999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Route de Paimboeuf, Vue",
+    "lat": 47.19927,
+    "lng": -1.885436,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Route de Paimboeuf, Vue",
+    "lat": 47.198827,
+    "lng": -1.885054,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Route de Paimboeuf, Vue",
+    "lat": 47.199008,
+    "lng": -1.885831,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Route de Paimboeuf, Vue",
+    "lat": 47.198834,
+    "lng": -1.885217,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Route de Paimboeuf, Vue",
+    "lat": 47.199084,
+    "lng": -1.886235,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50A Route de Paimboeuf, Vue",
+    "lat": 47.199576,
+    "lng": -1.8861739,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50B Route de Paimboeuf, Vue",
+    "lat": 47.199447,
+    "lng": -1.8862991,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50C Route de Paimboeuf, Vue",
+    "lat": 47.199457,
+    "lng": -1.8860967,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Route de Paimboeuf, Vue",
+    "lat": 47.19885,
+    "lng": -1.885375,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Route de Paimboeuf, Vue",
+    "lat": 47.199081,
+    "lng": -1.8865299,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 Route de Paimboeuf, Vue",
+    "lat": 47.198879,
+    "lng": -1.88555,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Route de Paimboeuf, Vue",
+    "lat": 47.199099,
+    "lng": -1.886733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54A Route de Paimboeuf, Vue",
+    "lat": 47.200019,
+    "lng": -1.8871709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54B Route de Paimboeuf, Vue",
+    "lat": 47.199474,
+    "lng": -1.886734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54T Route de Paimboeuf, Vue",
+    "lat": 47.198685,
+    "lng": -1.8831902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Route de Paimboeuf, Vue",
+    "lat": 47.199116,
+    "lng": -1.886917,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 Route de Paimboeuf, Vue",
+    "lat": 47.198942,
+    "lng": -1.885881,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Route de Paimboeuf, Vue",
+    "lat": 47.199127,
+    "lng": -1.887048,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "59 Route de Paimboeuf, Vue",
+    "lat": 47.1989513,
+    "lng": -1.8859256,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Route de Paimboeuf, Vue",
+    "lat": 47.199154,
+    "lng": -1.8873699,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "61 Route de Paimboeuf, Vue",
+    "lat": 47.199118,
+    "lng": -1.8869029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Route de Paimboeuf, Vue",
+    "lat": 47.199176,
+    "lng": -1.887584,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "63 Route de Paimboeuf, Vue",
+    "lat": 47.199002,
+    "lng": -1.886414,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Route de Paimboeuf, Vue",
+    "lat": 47.199193,
+    "lng": -1.8877601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "65 Route de Paimboeuf, Vue",
+    "lat": 47.199024,
+    "lng": -1.886584,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Route de Paimboeuf, Vue",
+    "lat": 47.199206,
+    "lng": -1.8879541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "67 Route de Paimboeuf, Vue",
+    "lat": 47.199046,
+    "lng": -1.886821,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "68 Route de Paimboeuf, Vue",
+    "lat": 47.199218,
+    "lng": -1.888074,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "69 Route de Paimboeuf, Vue",
+    "lat": 47.199069,
+    "lng": -1.8870779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "70 Route de Paimboeuf, Vue",
+    "lat": 47.199227,
+    "lng": -1.8882,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "71 Route de Paimboeuf, Vue",
+    "lat": 47.199087,
+    "lng": -1.887288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "72 Route de Paimboeuf, Vue",
+    "lat": 47.199238,
+    "lng": -1.888354,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "73 Route de Paimboeuf, Vue",
+    "lat": 47.199108,
+    "lng": -1.887541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "74 Route de Paimboeuf, Vue",
+    "lat": 47.19925,
+    "lng": -1.888487,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "75 Route de Paimboeuf, Vue",
+    "lat": 47.199123,
+    "lng": -1.887814,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "76 Route de Paimboeuf, Vue",
+    "lat": 47.19926,
+    "lng": -1.888575,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "76 bis Route de Paimboeuf, Vue",
+    "lat": 47.199264,
+    "lng": -1.888644,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "77 Route de Paimboeuf, Vue",
+    "lat": 47.199151,
+    "lng": -1.8880481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "78 Route de Paimboeuf, Vue",
+    "lat": 47.199275,
+    "lng": -1.888774,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "78 bis Route de Paimboeuf, Vue",
+    "lat": 47.199283,
+    "lng": -1.888895,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "79 Route de Paimboeuf, Vue",
+    "lat": 47.199151,
+    "lng": -1.8882171,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "80 Route de Paimboeuf, Vue",
+    "lat": 47.199291,
+    "lng": -1.889,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "81 Route de Paimboeuf, Vue",
+    "lat": 47.199154,
+    "lng": -1.888326,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "82 Route de Paimboeuf, Vue",
+    "lat": 47.199304,
+    "lng": -1.889142,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "83 Route de Paimboeuf, Vue",
+    "lat": 47.199153,
+    "lng": -1.888485,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "84 Route de Paimboeuf, Vue",
+    "lat": 47.199319,
+    "lng": -1.889361,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "85 Route de Paimboeuf, Vue",
+    "lat": 47.199151,
+    "lng": -1.88871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "86 Route de Paimboeuf, Vue",
+    "lat": 47.199345,
+    "lng": -1.889614,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "88 Route de Paimboeuf, Vue",
+    "lat": 47.199379,
+    "lng": -1.890044,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "93 Route de Paimboeuf, Vue",
+    "lat": 47.199302,
+    "lng": -1.890302,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route des Quartrons, Vue",
+    "lat": 47.200686,
+    "lng": -1.876177,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route des Quartrons, Vue",
+    "lat": 47.200811,
+    "lng": -1.876464,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route des Quartrons, Vue",
+    "lat": 47.2010518,
+    "lng": -1.8765686,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Route des Quartrons, Vue",
+    "lat": 47.201293,
+    "lng": -1.876742,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route des Quartrons, Vue",
+    "lat": 47.2014338,
+    "lng": -1.8768228,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Route des Quartrons, Vue",
+    "lat": 47.2015858,
+    "lng": -1.8769924,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Route du Pont de Bois, Vue",
+    "lat": 47.198068,
+    "lng": -1.89225,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Route du Pont de Bois, Vue",
+    "lat": 47.198108,
+    "lng": -1.892389,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Route du Pont de Bois, Vue",
+    "lat": 47.197938,
+    "lng": -1.891276,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Route du Pont de Bois, Vue",
+    "lat": 47.198035,
+    "lng": -1.892059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Route du Pont de Bois, Vue",
+    "lat": 47.198038,
+    "lng": -1.891731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4A Route du Pont de Bois, Vue",
+    "lat": 47.198973,
+    "lng": -1.8943481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Route du Pont de Bois, Vue",
+    "lat": 47.198833,
+    "lng": -1.8939951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6A Route du Pont de Bois, Vue",
+    "lat": 47.198777,
+    "lng": -1.893863,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Route du Pont de Bois, Vue",
+    "lat": 47.197871,
+    "lng": -1.8912859,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A Route du Pont de Bois, Vue",
+    "lat": 47.1979277,
+    "lng": -1.891498,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B Route du Pont de Bois, Vue",
+    "lat": 47.1979405,
+    "lng": -1.8915704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Route du Pont de Bois, Vue",
+    "lat": 47.198331,
+    "lng": -1.892744,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8A Route du Pont de Bois, Vue",
+    "lat": 47.1987172,
+    "lng": -1.8937055,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Route du Pont de Bois, Vue",
+    "lat": 47.199467,
+    "lng": -1.8961751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Route du Pont de Bois, Vue",
+    "lat": 47.199185,
+    "lng": -1.895138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Route du Pont de Bois, Vue",
+    "lat": 47.199103,
+    "lng": -1.8948901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Route du Pont de Bois, Vue",
+    "lat": 47.19901,
+    "lng": -1.894656,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Ilette, Vue",
+    "lat": 47.197982,
+    "lng": -1.881519,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Ilette, Vue",
+    "lat": 47.197935,
+    "lng": -1.881809,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Ilette, Vue",
+    "lat": 47.197858,
+    "lng": -1.8822071,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Ilette, Vue",
+    "lat": 47.1977962,
+    "lng": -1.8824308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A Rue de l'Ilette, Vue",
+    "lat": 47.1978013,
+    "lng": -1.8826017,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de l'Ilette, Vue",
+    "lat": 47.1979013,
+    "lng": -1.882241,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de L'Ilette, Vue",
+    "lat": 47.1979597,
+    "lng": -1.8821512,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Oisilière, Vue",
+    "lat": 47.201662,
+    "lng": -1.8992321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Oisilière, Vue",
+    "lat": 47.201725,
+    "lng": -1.8991909,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Oisilière, Vue",
+    "lat": 47.201607,
+    "lng": -1.898999,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Oisilière, Vue",
+    "lat": 47.201667,
+    "lng": -1.898944,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Oisilière, Vue",
+    "lat": 47.201542,
+    "lng": -1.8987541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Oisilière, Vue",
+    "lat": 47.20161,
+    "lng": -1.898707,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Oisilière, Vue",
+    "lat": 47.201438,
+    "lng": -1.8985059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de l'Oisilière, Vue",
+    "lat": 47.201542,
+    "lng": -1.898424,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de l'Oisilière, Vue",
+    "lat": 47.201043,
+    "lng": -1.898408,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de l'Oisilière, Vue",
+    "lat": 47.201492,
+    "lng": -1.8982329,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de l'Oisilière, Vue",
+    "lat": 47.200834,
+    "lng": -1.898442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de l'Oisilière, Vue",
+    "lat": 47.201434,
+    "lng": -1.898219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de l'Oisilière, Vue",
+    "lat": 47.200663,
+    "lng": -1.898473,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de l'Oisilière, Vue",
+    "lat": 47.20056,
+    "lng": -1.8985229,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de l'Oisilière, Vue",
+    "lat": 47.200553,
+    "lng": -1.8983,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de l'Oisilière, Vue",
+    "lat": 47.200509,
+    "lng": -1.897804,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de l'Oisilière, Vue",
+    "lat": 47.200489,
+    "lng": -1.897544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue de l'Oisilière, Vue",
+    "lat": 47.200469,
+    "lng": -1.897314,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de l'Oisilière, Vue",
+    "lat": 47.200448,
+    "lng": -1.8970529,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue de l'Oisilière, Vue",
+    "lat": 47.200431,
+    "lng": -1.896813,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de l'Oisilière, Vue",
+    "lat": 47.200408,
+    "lng": -1.8965631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Oppidum, Vue",
+    "lat": 47.1985921,
+    "lng": -1.8781675,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Oppidum, Vue",
+    "lat": 47.1977971,
+    "lng": -1.8776414,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Oppidum, Vue",
+    "lat": 47.1983718,
+    "lng": -1.8780646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Oppidum, Vue",
+    "lat": 47.1972927,
+    "lng": -1.8758235,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Oppidum, Vue",
+    "lat": 47.1979251,
+    "lng": -1.8781306,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Oppidum, Vue",
+    "lat": 47.1972003,
+    "lng": -1.8756533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Oppidum, Vue",
+    "lat": 47.1976121,
+    "lng": -1.8780588,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de l'Oppidum, Vue",
+    "lat": 47.197289,
+    "lng": -1.8776348,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de l'Oppidum, Vue",
+    "lat": 47.1973214,
+    "lng": -1.8774404,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de l'Oppidum, Vue",
+    "lat": 47.1973483,
+    "lng": -1.8773126,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de l'Oppidum, Vue",
+    "lat": 47.1973619,
+    "lng": -1.8770533,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de l'Oppidum, Vue",
+    "lat": 47.1971992,
+    "lng": -1.8761268,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de l'Oppidum, Vue",
+    "lat": 47.1971547,
+    "lng": -1.8759688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue de l'Oppidum, Vue",
+    "lat": 47.1971029,
+    "lng": -1.8758576,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de l'Oppidum, Vue",
+    "lat": 47.1970518,
+    "lng": -1.8757306,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue de l'Oppidum, Vue",
+    "lat": 47.1970105,
+    "lng": -1.8756242,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue de l'Oppidum, Vue",
+    "lat": 47.1969587,
+    "lng": -1.875513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue de l'Oppidum, Vue",
+    "lat": 47.1969099,
+    "lng": -1.8753941,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue de l'Oppidum, Vue",
+    "lat": 47.1968685,
+    "lng": -1.8752916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue de l'Oppidum, Vue",
+    "lat": 47.1968192,
+    "lng": -1.8751845,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue de l'Oppidum, Vue",
+    "lat": 47.1968016,
+    "lng": -1.8750113,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue de l'Oppidum, Vue",
+    "lat": 47.1969143,
+    "lng": -1.8749228,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue de l'Oppidum, Vue",
+    "lat": 47.1970169,
+    "lng": -1.8748196,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue de l'Oppidum, Vue",
+    "lat": 47.197073,
+    "lng": -1.8748602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue de l'Oppidum, Vue",
+    "lat": 47.1970023,
+    "lng": -1.8750058,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Tannerie, Vue",
+    "lat": 47.200258,
+    "lng": -1.878332,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Tannerie, Vue",
+    "lat": 47.200284,
+    "lng": -1.878543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Tannerie, Vue",
+    "lat": 47.200356,
+    "lng": -1.878646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue de la Tannerie, Vue",
+    "lat": 47.200401,
+    "lng": -1.878738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Tannerie, Vue",
+    "lat": 47.200407,
+    "lng": -1.878935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de la Tannerie, Vue",
+    "lat": 47.200446,
+    "lng": -1.8792269,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de la Tannerie, Vue",
+    "lat": 47.200462,
+    "lng": -1.87939,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de la Tannerie, Vue",
+    "lat": 47.200565,
+    "lng": -1.879899,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de la Tannerie, Vue",
+    "lat": 47.200555,
+    "lng": -1.8802451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de la Tannerie, Vue",
+    "lat": 47.200538,
+    "lng": -1.8805441,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16A Rue de la Tannerie, Vue",
+    "lat": 47.200538,
+    "lng": -1.880654,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de la Tannerie, Vue",
+    "lat": 47.200214,
+    "lng": -1.880032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de la Tannerie, Vue",
+    "lat": 47.200071,
+    "lng": -1.879992,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue de la Tannerie, Vue",
+    "lat": 47.19991,
+    "lng": -1.879971,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue de la Tannerie, Vue",
+    "lat": 47.199838,
+    "lng": -1.879958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue de la Tannerie, Vue",
+    "lat": 47.199536,
+    "lng": -1.879915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 bis Rue de la Tannerie, Vue",
+    "lat": 47.199578,
+    "lng": -1.879918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 ter Rue de la Tannerie, Vue",
+    "lat": 47.199484,
+    "lng": -1.8799069,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue de la Tannerie, Vue",
+    "lat": 47.199297,
+    "lng": -1.87988,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Cigognes, Vue",
+    "lat": 47.1974306,
+    "lng": -1.8749933,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Cigognes, Vue",
+    "lat": 47.1974252,
+    "lng": -1.874833,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Four Banal, Vue",
+    "lat": 47.199814,
+    "lng": -1.8784349,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Four Banal, Vue",
+    "lat": 47.199912,
+    "lng": -1.8782409,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Four Banal, Vue",
+    "lat": 47.199841,
+    "lng": -1.8785531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Four Banal, Vue",
+    "lat": 47.199914,
+    "lng": -1.87837,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Four Banal, Vue",
+    "lat": 47.199869,
+    "lng": -1.878734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Four Banal, Vue",
+    "lat": 47.199917,
+    "lng": -1.878578,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Four Banal, Vue",
+    "lat": 47.199892,
+    "lng": -1.8788911,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Four Banal, Vue",
+    "lat": 47.199822,
+    "lng": -1.879219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Four Banal, Vue",
+    "lat": 47.199422,
+    "lng": -1.879352,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Four Banal, Vue",
+    "lat": 47.199698,
+    "lng": -1.879376,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Four Banal, Vue",
+    "lat": 47.199291,
+    "lng": -1.879359,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Moulin, Vue",
+    "lat": 47.20089,
+    "lng": -1.8721631,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Moulin, Vue",
+    "lat": 47.200609,
+    "lng": -1.8724749,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Moulin, Vue",
+    "lat": 47.200963,
+    "lng": -1.8721561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Moulin, Vue",
+    "lat": 47.200875,
+    "lng": -1.8718371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Moulin, Vue",
+    "lat": 47.200945,
+    "lng": -1.87182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Moulin, Vue",
+    "lat": 47.200817,
+    "lng": -1.871704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Moulin, Vue",
+    "lat": 47.20166,
+    "lng": -1.8715541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Moulin, Vue",
+    "lat": 47.200829,
+    "lng": -1.871539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Moulin, Vue",
+    "lat": 47.201695,
+    "lng": -1.871905,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Moulin, Vue",
+    "lat": 47.200853,
+    "lng": -1.871458,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Moulin, Vue",
+    "lat": 47.201384,
+    "lng": -1.8721239,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Moulin, Vue",
+    "lat": 47.200942,
+    "lng": -1.8714161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Moulin, Vue",
+    "lat": 47.201087,
+    "lng": -1.871343,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Moulin, Vue",
+    "lat": 47.201255,
+    "lng": -1.871259,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Moulin, Vue",
+    "lat": 47.201544,
+    "lng": -1.870974,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Moulin, Vue",
+    "lat": 47.201526,
+    "lng": -1.87041,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Moulin, Vue",
+    "lat": 47.201622,
+    "lng": -1.870436,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Moulin, Vue",
+    "lat": 47.201608,
+    "lng": -1.870596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Moulin, Vue",
+    "lat": 47.201633,
+    "lng": -1.870933,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Moulin, Vue",
+    "lat": 47.20168,
+    "lng": -1.871176,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Moulin, Vue",
+    "lat": 47.201737,
+    "lng": -1.8714219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Moulin, Vue",
+    "lat": 47.20178,
+    "lng": -1.871648,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31A Rue du Moulin, Vue",
+    "lat": 47.201812,
+    "lng": -1.8717971,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Moulin, Vue",
+    "lat": 47.201367,
+    "lng": -1.8721839,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Moulin, Vue",
+    "lat": 47.201675,
+    "lng": -1.872096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Moulin, Vue",
+    "lat": 47.20087,
+    "lng": -1.8724169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue du Moulin, Vue",
+    "lat": 47.2025397,
+    "lng": -1.8717097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46A Rue du Moulin, Vue",
+    "lat": 47.2026721,
+    "lng": -1.871685,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46B Rue du Moulin, Vue",
+    "lat": 47.2028329,
+    "lng": -1.8716683,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Paradis, Vue",
+    "lat": 47.198039,
+    "lng": -1.883742,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Paradis, Vue",
+    "lat": 47.198305,
+    "lng": -1.883637,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Paradis, Vue",
+    "lat": 47.198689,
+    "lng": -1.8836359,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Paradis, Vue",
+    "lat": 47.19866,
+    "lng": -1.8835199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Paradis, Vue",
+    "lat": 47.198671,
+    "lng": -1.8836342,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue du Paradis, Vue",
+    "lat": 47.198259,
+    "lng": -1.883672,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Paradis, Vue",
+    "lat": 47.198048,
+    "lng": -1.883796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Vieux Cimetière, Vue",
+    "lat": 47.199883,
+    "lng": -1.879525,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Vieux Cimetière, Vue",
+    "lat": 47.200223,
+    "lng": -1.879589,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Vieux Cimetière, Vue",
+    "lat": 47.200019,
+    "lng": -1.879941,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Vieux Cimetière, Vue",
+    "lat": 47.200355,
+    "lng": -1.879528,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1990781,
+    "lng": -1.8741266,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1979304,
+    "lng": -1.8750525,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1985919,
+    "lng": -1.8751717,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Fontaine aux Bains, Vue",
+    "lat": 47.197831,
+    "lng": -1.8750513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Fontaine aux Bains, Vue",
+    "lat": 47.198476,
+    "lng": -1.8752085,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1977251,
+    "lng": -1.8750733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1983703,
+    "lng": -1.8752285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1976362,
+    "lng": -1.8750771,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1982689,
+    "lng": -1.8752391,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1972426,
+    "lng": -1.8752903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1971534,
+    "lng": -1.8753619,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1976999,
+    "lng": -1.8752881,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1974949,
+    "lng": -1.8753011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue Fontaine aux Bains, Vue",
+    "lat": 47.1973911,
+    "lng": -1.8754022,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue les Noels, Vue",
+    "lat": 47.200806,
+    "lng": -1.897398,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue les Noels, Vue",
+    "lat": 47.200824,
+    "lng": -1.8975779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue les Noels, Vue",
+    "lat": 47.200885,
+    "lng": -1.8970669,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue les Noels, Vue",
+    "lat": 47.200884,
+    "lng": -1.8977369,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue les Noels, Vue",
+    "lat": 47.200868,
+    "lng": -1.896797,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue les Noels, Vue",
+    "lat": 47.200906,
+    "lng": -1.8975249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue les Noels, Vue",
+    "lat": 47.20081,
+    "lng": -1.8965211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue les Noels, Vue",
+    "lat": 47.200902,
+    "lng": -1.897224,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue les Noels, Vue",
+    "lat": 47.200919,
+    "lng": -1.89697,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue les Noels, Vue",
+    "lat": 47.200895,
+    "lng": -1.89674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue les Noels, Vue",
+    "lat": 47.200827,
+    "lng": -1.896469,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Royale, Vue",
+    "lat": 47.199195,
+    "lng": -1.8796551,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Royale, Vue",
+    "lat": 47.199149,
+    "lng": -1.8796609,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue Royale, Vue",
+    "lat": 47.1991296,
+    "lng": -1.8795679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Royale, Vue",
+    "lat": 47.199116,
+    "lng": -1.8794731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Royale, Vue",
+    "lat": 47.19907,
+    "lng": -1.879193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Royale, Vue",
+    "lat": 47.19904,
+    "lng": -1.879258,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Royale, Vue",
+    "lat": 47.19914,
+    "lng": -1.8790281,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 tartifume, Vue",
+    "lat": 47.1996689,
+    "lng": -1.8627671,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Guermiton, Frossay",
+    "lat": 47.241451,
+    "lng": -1.887519,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Guermiton, Frossay",
+    "lat": 47.243304,
+    "lng": -1.886611,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 L’Almousse, Frossay",
+    "lat": 47.221382,
+    "lng": -1.89003,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 L’Almousse, Frossay",
+    "lat": 47.221029,
+    "lng": -1.889887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 L’Almousse, Frossay",
+    "lat": 47.220098,
+    "lng": -1.890505,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 L’Yonniere, Frossay",
+    "lat": 47.219031,
+    "lng": -1.893672,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 L’Yonniere, Frossay",
+    "lat": 47.219064,
+    "lng": -1.893886,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 L’Yonniere, Frossay",
+    "lat": 47.218837,
+    "lng": -1.892408,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 L’Yonniere, Frossay",
+    "lat": 47.218855,
+    "lng": -1.893161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Bidonniere, Frossay",
+    "lat": 47.214208,
+    "lng": -1.885178,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Bidonniere, Frossay",
+    "lat": 47.214043,
+    "lng": -1.88503,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Bidonniere, Frossay",
+    "lat": 47.214145,
+    "lng": -1.886207,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Bidonniere, Frossay",
+    "lat": 47.214086,
+    "lng": -1.886377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 La Bidonniere, Frossay",
+    "lat": 47.214136,
+    "lng": -1.886487,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 La Bidonniere, Frossay",
+    "lat": 47.214136,
+    "lng": -1.886487,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Giraudais, Frossay",
+    "lat": 47.217072,
+    "lng": -1.892123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Giraudais, Frossay",
+    "lat": 47.216847,
+    "lng": -1.892074,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Giraudais, Frossay",
+    "lat": 47.216929,
+    "lng": -1.892207,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Maillerelle, Frossay",
+    "lat": 47.21312,
+    "lng": -1.887044,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Maillerelle, Frossay",
+    "lat": 47.212155,
+    "lng": -1.887539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Maillerelle, Frossay",
+    "lat": 47.212183,
+    "lng": -1.887522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Maillerelle, Frossay",
+    "lat": 47.212784,
+    "lng": -1.887558,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Noe de l'Ile, Frossay",
+    "lat": 47.21347,
+    "lng": -1.884376,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Noe de l'Ile, Frossay",
+    "lat": 47.213463,
+    "lng": -1.884509,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Taillee, Frossay",
+    "lat": 47.219043,
+    "lng": -1.884204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 La Taillee, Frossay",
+    "lat": 47.219043,
+    "lng": -1.884204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 La Taillee, Frossay",
+    "lat": 47.219362,
+    "lng": -1.884203,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 La Taillee, Frossay",
+    "lat": 47.219043,
+    "lng": -1.884204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 La Vilette, Frossay",
+    "lat": 47.240901,
+    "lng": -1.888806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Moulin de l'Ile, Frossay",
+    "lat": 47.223532,
+    "lng": -1.893818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Moulin de l'Ile, Frossay",
+    "lat": 47.223879,
+    "lng": -1.894757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Le Moulin de l'Ile, Frossay",
+    "lat": 47.22396,
+    "lng": -1.89477,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Le Pe de l'Ile, Frossay",
+    "lat": 47.224084,
+    "lng": -1.887958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Le Pe de l'Ile, Frossay",
+    "lat": 47.223714,
+    "lng": -1.887216,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Le Pe de l'Ile, Frossay",
+    "lat": 47.223526,
+    "lng": -1.886692,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Le Pe de l'Ile, Frossay",
+    "lat": 47.224181,
+    "lng": -1.887076,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Le Pe de l'Ile, Frossay",
+    "lat": 47.224504,
+    "lng": -1.88662,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Les Champs Neufs, Frossay",
+    "lat": 47.23802,
+    "lng": -1.871968,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Les Champs Neufs, Frossay",
+    "lat": 47.234058,
+    "lng": -1.864169,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Les Champs Neufs, Frossay",
+    "lat": 47.234275,
+    "lng": -1.864606,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Les Champs Neufs, Frossay",
+    "lat": 47.237413,
+    "lng": -1.870706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Les Champs Neufs, Frossay",
+    "lat": 47.234492,
+    "lng": -1.865042,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Les Champs Neufs, Frossay",
+    "lat": 47.234709,
+    "lng": -1.865478,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Les Champs Neufs, Frossay",
+    "lat": 47.234927,
+    "lng": -1.865915,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Les Champs Neufs, Frossay",
+    "lat": 47.235149,
+    "lng": -1.866345,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Les Champs Neufs, Frossay",
+    "lat": 47.233215,
+    "lng": -1.868085,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Port de l'Ile, Frossay",
+    "lat": 47.209751,
+    "lng": -1.881636,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Port de l'Ile, Frossay",
+    "lat": 47.209751,
+    "lng": -1.881636,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Port de l'Ile, Frossay",
+    "lat": 47.209751,
+    "lng": -1.881636,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Port de l'Ile, Frossay",
+    "lat": 47.209491,
+    "lng": -1.881377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Port de l'Ile, Frossay",
+    "lat": 47.209389,
+    "lng": -1.881211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Port de l'Ile, Frossay",
+    "lat": 47.209353,
+    "lng": -1.880975,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Sainte Marie, Frossay",
+    "lat": 47.222784,
+    "lng": -1.885138,
+    "etat": "non_visite"
+  }
+]

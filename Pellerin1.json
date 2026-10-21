@@ -1,0 +1,4592 @@
+[
+  {
+    "adresse": "1 Allée de la Carrière, Le Pellerin",
+    "lat": 47.203101,
+    "lng": -1.763255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée de la Carrière, Le Pellerin",
+    "lat": 47.20278,
+    "lng": -1.763462,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Allée de la Carrière, Le Pellerin",
+    "lat": 47.203354,
+    "lng": -1.763155,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Allée de la Carrière, Le Pellerin",
+    "lat": 47.202869,
+    "lng": -1.763455,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Allée de la Carrière, Le Pellerin",
+    "lat": 47.203165,
+    "lng": -1.763479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Allée des Mésanges, Le Pellerin",
+    "lat": 47.200952,
+    "lng": -1.765273,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201049,
+    "lng": -1.765097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Allée des Mésanges, Le Pellerin",
+    "lat": 47.20096,
+    "lng": -1.765122,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201059,
+    "lng": -1.764913,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Allée des Mésanges, Le Pellerin",
+    "lat": 47.200971,
+    "lng": -1.764895,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201071,
+    "lng": -1.764705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Allée des Mésanges, Le Pellerin",
+    "lat": 47.200982,
+    "lng": -1.764663,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201146,
+    "lng": -1.764335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Allée des Mésanges, Le Pellerin",
+    "lat": 47.200996,
+    "lng": -1.764405,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201339,
+    "lng": -1.764254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201005,
+    "lng": -1.764212,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Allée des Mésanges, Le Pellerin",
+    "lat": 47.201109,
+    "lng": -1.764088,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201506,
+    "lng": -1.764228,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201321,
+    "lng": -1.764126,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Allée des Mésanges, Le Pellerin",
+    "lat": 47.20168,
+    "lng": -1.764229,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201479,
+    "lng": -1.764095,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201887,
+    "lng": -1.76434,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201671,
+    "lng": -1.764093,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201798,
+    "lng": -1.764123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Allée des Mésanges, Le Pellerin",
+    "lat": 47.201921,
+    "lng": -1.764212,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Allée des Mésanges, Le Pellerin",
+    "lat": 47.202006,
+    "lng": -1.764327,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203017,
+    "lng": -1.762871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203122,
+    "lng": -1.762863,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203239,
+    "lng": -1.762853,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203322,
+    "lng": -1.762847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203465,
+    "lng": -1.762827,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Allée du Belvédère, Le Pellerin",
+    "lat": 47.203559,
+    "lng": -1.762635,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199491,
+    "lng": -1.754624,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199553,
+    "lng": -1.754602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199438,
+    "lng": -1.754642,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.1994,
+    "lng": -1.754655,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199338,
+    "lng": -1.754677,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199256,
+    "lng": -1.754705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199117,
+    "lng": -1.754753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Allée Frédéric Chopin, Le Pellerin",
+    "lat": 47.199004,
+    "lng": -1.754792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Allée George Sand, Le Pellerin",
+    "lat": 47.198689,
+    "lng": -1.755108,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée George Sand, Le Pellerin",
+    "lat": 47.199038,
+    "lng": -1.754442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Allée Jacques Sauvestre, Le Pellerin",
+    "lat": 47.202563,
+    "lng": -1.765034,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée Jacques Sauvestre, Le Pellerin",
+    "lat": 47.202552,
+    "lng": -1.765119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Allée Jean Georget, Le Pellerin",
+    "lat": 47.202832,
+    "lng": -1.766269,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée Jean Georget, Le Pellerin",
+    "lat": 47.202842,
+    "lng": -1.766346,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201276,
+    "lng": -1.760556,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201326,
+    "lng": -1.760561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.20129,
+    "lng": -1.760451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201345,
+    "lng": -1.760417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201303,
+    "lng": -1.760353,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.20136,
+    "lng": -1.760308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201316,
+    "lng": -1.760255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201374,
+    "lng": -1.760202,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201223,
+    "lng": -1.760102,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201387,
+    "lng": -1.760106,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Allée Olympe de Gouges, Le Pellerin",
+    "lat": 47.201232,
+    "lng": -1.760031,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202297,
+    "lng": -1.759899,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202408,
+    "lng": -1.759792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202293,
+    "lng": -1.760508,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202291,
+    "lng": -1.760326,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202411,
+    "lng": -1.760059,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202227,
+    "lng": -1.761945,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202414,
+    "lng": -1.760328,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202065,
+    "lng": -1.761951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202416,
+    "lng": -1.760588,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201839,
+    "lng": -1.761958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202421,
+    "lng": -1.760902,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201624,
+    "lng": -1.761961,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202425,
+    "lng": -1.761181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201464,
+    "lng": -1.761967,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202427,
+    "lng": -1.761425,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.20243,
+    "lng": -1.761688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.202433,
+    "lng": -1.761947,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201887,
+    "lng": -1.762114,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201706,
+    "lng": -1.762121,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201524,
+    "lng": -1.762128,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Avenue François Mitterrand, Le Pellerin",
+    "lat": 47.201011,
+    "lng": -1.762128,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202136,
+    "lng": -1.764867,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202196,
+    "lng": -1.765011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202245,
+    "lng": -1.765178,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202275,
+    "lng": -1.765297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202316,
+    "lng": -1.765482,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202344,
+    "lng": -1.765621,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202388,
+    "lng": -1.765901,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202409,
+    "lng": -1.766043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202438,
+    "lng": -1.766238,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202456,
+    "lng": -1.766362,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.2025,
+    "lng": -1.766641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.20252,
+    "lng": -1.766774,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.202552,
+    "lng": -1.766987,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Avenue Mathurin Métayer, Le Pellerin",
+    "lat": 47.20257,
+    "lng": -1.767108,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Chemin de la Chaumière, Le Pellerin",
+    "lat": 47.200728,
+    "lng": -1.748808,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.20034,
+    "lng": -1.748522,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.200326,
+    "lng": -1.748409,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.200294,
+    "lng": -1.748237,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.200183,
+    "lng": -1.747815,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.200125,
+    "lng": -1.747521,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.200026,
+    "lng": -1.747226,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.199947,
+    "lng": -1.747041,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Chemin de la Chaumière, Saint-Jean-de-Boiseau",
+    "lat": 47.199805,
+    "lng": -1.746844,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Impasse de la Fontaine, Le Pellerin",
+    "lat": 47.199393,
+    "lng": -1.750125,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse de la Fontaine, Le Pellerin",
+    "lat": 47.19936,
+    "lng": -1.750172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Impasse de la Fontaine, Le Pellerin",
+    "lat": 47.199346,
+    "lng": -1.74998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Impasse Rouaud Bastard, Le Pellerin",
+    "lat": 47.198592,
+    "lng": -1.751355,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Impasse Rouaud Bastard, Le Pellerin",
+    "lat": 47.198452,
+    "lng": -1.751288,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Impasse Rouaud Bastard, Le Pellerin",
+    "lat": 47.198272,
+    "lng": -1.75119,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199664,
+    "lng": -1.751937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199692,
+    "lng": -1.752009,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199719,
+    "lng": -1.752149,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199791,
+    "lng": -1.752318,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199862,
+    "lng": -1.752284,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199906,
+    "lng": -1.752001,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199998,
+    "lng": -1.751783,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Place de l'Eglise, Le Pellerin",
+    "lat": 47.200044,
+    "lng": -1.751705,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199927,
+    "lng": -1.751604,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Place de l'Eglise, Le Pellerin",
+    "lat": 47.199893,
+    "lng": -1.751521,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.201609,
+    "lng": -1.759433,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Place du Champ de Foire, Le Pellerin",
+    "lat": 47.201346,
+    "lng": -1.759302,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1C Place du Champ de Foire, Le Pellerin",
+    "lat": 47.20154,
+    "lng": -1.759411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1D Place du Champ de Foire, Le Pellerin",
+    "lat": 47.201435,
+    "lng": -1.759372,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Place du Champ de Foire, Le Pellerin",
+    "lat": 47.201734,
+    "lng": -1.759474,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B Place du Champ de Foire, Le Pellerin",
+    "lat": 47.201861,
+    "lng": -1.759512,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2C Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202011,
+    "lng": -1.759562,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2D Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202091,
+    "lng": -1.759588,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2E Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202167,
+    "lng": -1.759613,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2F Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202274,
+    "lng": -1.759658,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202306,
+    "lng": -1.759449,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202301,
+    "lng": -1.759382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202295,
+    "lng": -1.759313,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202286,
+    "lng": -1.759208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202282,
+    "lng": -1.759163,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202266,
+    "lng": -1.758746,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202189,
+    "lng": -1.758758,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202105,
+    "lng": -1.758759,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Place du Champ de Foire, Le Pellerin",
+    "lat": 47.202066,
+    "lng": -1.758627,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "Luc-A est le meilleur",
+    "lat": 47.202061,
+    "lng": -1.75894,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202463,
+    "lng": -1.754512,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202507,
+    "lng": -1.754666,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202554,
+    "lng": -1.754871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202746,
+    "lng": -1.755529,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202794,
+    "lng": -1.755782,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Place du Commandant l'Herminier, Le Pellerin",
+    "lat": 47.202815,
+    "lng": -1.755871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Place du Président René Coty, Le Pellerin",
+    "lat": 47.201282,
+    "lng": -1.748465,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Place du Président René Coty, Le Pellerin",
+    "lat": 47.201179,
+    "lng": -1.748779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Place du Président René Coty, Le Pellerin",
+    "lat": 47.201039,
+    "lng": -1.749006,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Place du Président René Coty, Le Pellerin",
+    "lat": 47.201398,
+    "lng": -1.749328,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203136,
+    "lng": -1.756067,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203162,
+    "lng": -1.756165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Quai des Côteaux, Le Pellerin",
+    "lat": 47.20317,
+    "lng": -1.756197,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203183,
+    "lng": -1.75625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Quai des Côteaux, Le Pellerin",
+    "lat": 47.20321,
+    "lng": -1.756354,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203235,
+    "lng": -1.756449,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203275,
+    "lng": -1.756602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 bis Quai des Côteaux, Le Pellerin",
+    "lat": 47.203676,
+    "lng": -1.758481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203778,
+    "lng": -1.759034,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Quai des Côteaux, Le Pellerin",
+    "lat": 47.203552,
+    "lng": -1.7597,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204002,
+    "lng": -1.760804,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204195,
+    "lng": -1.762166,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204342,
+    "lng": -1.763028,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Quai des Côteaux, Le Pellerin",
+    "lat": 47.204396,
+    "lng": -1.763403,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204728,
+    "lng": -1.765709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 bis Quai des Côteaux, Le Pellerin",
+    "lat": 47.20476,
+    "lng": -1.765883,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204801,
+    "lng": -1.766103,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Quai des Côteaux, Le Pellerin",
+    "lat": 47.204925,
+    "lng": -1.766728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Quai des Côteaux, Le Pellerin",
+    "lat": 47.205025,
+    "lng": -1.767541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Quai des Côteaux, Le Pellerin",
+    "lat": 47.205657,
+    "lng": -1.772848,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201461,
+    "lng": -1.749471,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201488,
+    "lng": -1.749594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201516,
+    "lng": -1.749738,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201538,
+    "lng": -1.749841,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201574,
+    "lng": -1.750015,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201693,
+    "lng": -1.750595,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201735,
+    "lng": -1.750794,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201766,
+    "lng": -1.750947,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201836,
+    "lng": -1.751297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.20197,
+    "lng": -1.751785,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.201887,
+    "lng": -1.751527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202033,
+    "lng": -1.751988,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202067,
+    "lng": -1.752097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202123,
+    "lng": -1.752266,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202149,
+    "lng": -1.752357,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202216,
+    "lng": -1.752587,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202249,
+    "lng": -1.752709,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202438,
+    "lng": -1.753428,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16A Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202414,
+    "lng": -1.753337,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202464,
+    "lng": -1.753527,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202535,
+    "lng": -1.753796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202617,
+    "lng": -1.754106,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Quai du Docteur Provost, Le Pellerin",
+    "lat": 47.202637,
+    "lng": -1.754181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200253,
+    "lng": -1.751374,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200303,
+    "lng": -1.751264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200294,
+    "lng": -1.751396,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200398,
+    "lng": -1.751309,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20035,
+    "lng": -1.751422,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200482,
+    "lng": -1.75136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200409,
+    "lng": -1.751448,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20059,
+    "lng": -1.751438,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200459,
+    "lng": -1.751471,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200691,
+    "lng": -1.751511,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200539,
+    "lng": -1.751513,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200773,
+    "lng": -1.751573,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200611,
+    "lng": -1.751559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20087,
+    "lng": -1.751651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200681,
+    "lng": -1.751613,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200942,
+    "lng": -1.751702,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200784,
+    "lng": -1.751687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201052,
+    "lng": -1.751756,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200907,
+    "lng": -1.751806,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201129,
+    "lng": -1.751803,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.200996,
+    "lng": -1.751801,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201227,
+    "lng": -1.751858,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201064,
+    "lng": -1.751843,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201296,
+    "lng": -1.751903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201125,
+    "lng": -1.751882,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201401,
+    "lng": -1.751966,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201177,
+    "lng": -1.751918,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28A Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201518,
+    "lng": -1.752053,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28B Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201575,
+    "lng": -1.752116,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201221,
+    "lng": -1.751948,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201636,
+    "lng": -1.752198,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201307,
+    "lng": -1.752002,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 bis Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201361,
+    "lng": -1.752036,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201667,
+    "lng": -1.752249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201455,
+    "lng": -1.752114,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201691,
+    "lng": -1.75229,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201724,
+    "lng": -1.752345,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20161,
+    "lng": -1.752318,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201773,
+    "lng": -1.752478,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201684,
+    "lng": -1.752439,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201802,
+    "lng": -1.752575,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201718,
+    "lng": -1.752514,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201827,
+    "lng": -1.752658,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20174,
+    "lng": -1.752571,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201948,
+    "lng": -1.75291,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201759,
+    "lng": -1.752622,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201975,
+    "lng": -1.752983,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201869,
+    "lng": -1.752908,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201985,
+    "lng": -1.753254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201906,
+    "lng": -1.752992,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201986,
+    "lng": -1.753378,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201931,
+    "lng": -1.753067,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "52 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202013,
+    "lng": -1.753611,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "53 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.20193,
+    "lng": -1.753196,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "54 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202003,
+    "lng": -1.753712,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "55 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201945,
+    "lng": -1.753438,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "56 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202008,
+    "lng": -1.753823,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "57 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201947,
+    "lng": -1.75356,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202031,
+    "lng": -1.753978,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "59 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201954,
+    "lng": -1.753712,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202017,
+    "lng": -1.754136,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 bis Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202043,
+    "lng": -1.754303,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "61 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201961,
+    "lng": -1.753855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.202046,
+    "lng": -1.754377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "63 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201969,
+    "lng": -1.753997,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "65 Rue Aristide Bertreux, Le Pellerin",
+    "lat": 47.201974,
+    "lng": -1.754097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Beau Soleil, Le Pellerin",
+    "lat": 47.202138,
+    "lng": -1.755661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Beau Soleil, Le Pellerin",
+    "lat": 47.202173,
+    "lng": -1.755654,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Beau Soleil, Le Pellerin",
+    "lat": 47.202219,
+    "lng": -1.755645,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Beau Soleil, Le Pellerin",
+    "lat": 47.202363,
+    "lng": -1.755503,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Cambry, Le Pellerin",
+    "lat": 47.202599,
+    "lng": -1.767301,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Cambry, Le Pellerin",
+    "lat": 47.202197,
+    "lng": -1.767351,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Cambry, Le Pellerin",
+    "lat": 47.202506,
+    "lng": -1.767331,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Cambry, Le Pellerin",
+    "lat": 47.202,
+    "lng": -1.767416,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Cambry, Le Pellerin",
+    "lat": 47.202352,
+    "lng": -1.767382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Cambry, Le Pellerin",
+    "lat": 47.201792,
+    "lng": -1.767484,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Cambry, Le Pellerin",
+    "lat": 47.202163,
+    "lng": -1.767444,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Cambry, Le Pellerin",
+    "lat": 47.201989,
+    "lng": -1.7675,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Cambry, Le Pellerin",
+    "lat": 47.201808,
+    "lng": -1.767559,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Cambry, Le Pellerin",
+    "lat": 47.201617,
+    "lng": -1.767622,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue d'Alger, Le Pellerin",
+    "lat": 47.202667,
+    "lng": -1.75651,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue d'Alger, Le Pellerin",
+    "lat": 47.20275,
+    "lng": -1.756516,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue d'Alger, Le Pellerin",
+    "lat": 47.202717,
+    "lng": -1.756555,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue d'Alger, Le Pellerin",
+    "lat": 47.202807,
+    "lng": -1.756596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue d'Alger, Le Pellerin",
+    "lat": 47.202701,
+    "lng": -1.756674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue d'Alger, Le Pellerin",
+    "lat": 47.202664,
+    "lng": -1.75676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue d'Alger, Le Pellerin",
+    "lat": 47.202628,
+    "lng": -1.756951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue d'Alger, Le Pellerin",
+    "lat": 47.202624,
+    "lng": -1.756857,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue d'Alger, Le Pellerin",
+    "lat": 47.202581,
+    "lng": -1.756958,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de Bel Air, Le Pellerin",
+    "lat": 47.199337,
+    "lng": -1.751037,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de Bel Air, Le Pellerin",
+    "lat": 47.199057,
+    "lng": -1.75111,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de Bel Air, Le Pellerin",
+    "lat": 47.199213,
+    "lng": -1.751137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de Bel Air, Le Pellerin",
+    "lat": 47.198997,
+    "lng": -1.751311,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.203352,
+    "lng": -1.757721,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.203017,
+    "lng": -1.757855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.202951,
+    "lng": -1.757953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.202799,
+    "lng": -1.758029,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.20241,
+    "lng": -1.758269,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue de l'Anguille, Le Pellerin",
+    "lat": 47.202328,
+    "lng": -1.758297,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199613,
+    "lng": -1.752411,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199652,
+    "lng": -1.75233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199598,
+    "lng": -1.752753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199613,
+    "lng": -1.752596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Eglise, Le Pellerin",
+    "lat": 47.19955,
+    "lng": -1.752543,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199569,
+    "lng": -1.752904,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Eglise, Le Pellerin",
+    "lat": 47.199481,
+    "lng": -1.752687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.20002,
+    "lng": -1.75264,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200066,
+    "lng": -1.752778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200125,
+    "lng": -1.752719,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200101,
+    "lng": -1.752647,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200047,
+    "lng": -1.75249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200125,
+    "lng": -1.752952,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200171,
+    "lng": -1.752855,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200161,
+    "lng": -1.753057,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200231,
+    "lng": -1.75303,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.20019,
+    "lng": -1.753143,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200295,
+    "lng": -1.753204,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200221,
+    "lng": -1.753234,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200249,
+    "lng": -1.753318,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200429,
+    "lng": -1.753603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200303,
+    "lng": -1.753474,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200491,
+    "lng": -1.753787,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200348,
+    "lng": -1.753603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200631,
+    "lng": -1.754195,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200399,
+    "lng": -1.753753,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200704,
+    "lng": -1.754407,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200448,
+    "lng": -1.753896,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200739,
+    "lng": -1.754508,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200503,
+    "lng": -1.754057,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200789,
+    "lng": -1.754653,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200687,
+    "lng": -1.754596,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue de l'Enclos, Le Pellerin",
+    "lat": 47.200734,
+    "lng": -1.754731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Cure, Le Pellerin",
+    "lat": 47.200622,
+    "lng": -1.749787,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Cure, Le Pellerin",
+    "lat": 47.200735,
+    "lng": -1.750117,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Cure, Le Pellerin",
+    "lat": 47.200524,
+    "lng": -1.750388,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199615,
+    "lng": -1.752099,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199456,
+    "lng": -1.752275,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199584,
+    "lng": -1.75219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199535,
+    "lng": -1.752145,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199399,
+    "lng": -1.752321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199481,
+    "lng": -1.752177,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199347,
+    "lng": -1.752361,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199426,
+    "lng": -1.752211,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue de la Gaudarière, Le Pellerin",
+    "lat": 47.199368,
+    "lng": -1.752246,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Grande Chaussée, Le Pellerin",
+    "lat": 47.201984,
+    "lng": -1.752293,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Grande Chaussée, Le Pellerin",
+    "lat": 47.201876,
+    "lng": -1.752294,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Paix, Le Pellerin",
+    "lat": 47.20066,
+    "lng": -1.758445,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Paix, Le Pellerin",
+    "lat": 47.200731,
+    "lng": -1.758704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Paix, Le Pellerin",
+    "lat": 47.200528,
+    "lng": -1.758193,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.201909,
+    "lng": -1.752744,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.201943,
+    "lng": -1.752653,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.202005,
+    "lng": -1.752609,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.201962,
+    "lng": -1.752704,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.202102,
+    "lng": -1.752541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue de la Petite Chaussée, Le Pellerin",
+    "lat": 47.20209,
+    "lng": -1.752612,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Dames, Le Pellerin",
+    "lat": 47.20032,
+    "lng": -1.752577,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Dames, Le Pellerin",
+    "lat": 47.200021,
+    "lng": -1.752242,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue des Dames, Le Pellerin",
+    "lat": 47.200103,
+    "lng": -1.752323,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue des Dames, Le Pellerin",
+    "lat": 47.200281,
+    "lng": -1.752483,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Dames, Le Pellerin",
+    "lat": 47.200408,
+    "lng": -1.752664,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Dames, Le Pellerin",
+    "lat": 47.20041,
+    "lng": -1.75261,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Dames, Le Pellerin",
+    "lat": 47.200518,
+    "lng": -1.752719,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue des Dames, Le Pellerin",
+    "lat": 47.200592,
+    "lng": -1.752783,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue des Dames, Le Pellerin",
+    "lat": 47.201187,
+    "lng": -1.752942,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue des Dames, Le Pellerin",
+    "lat": 47.201234,
+    "lng": -1.752935,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue des Dames, Le Pellerin",
+    "lat": 47.200778,
+    "lng": -1.752854,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 bis Rue des Dames, Le Pellerin",
+    "lat": 47.200835,
+    "lng": -1.752871,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 ter Rue des Dames, Le Pellerin",
+    "lat": 47.200902,
+    "lng": -1.752887,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue des Dames, Le Pellerin",
+    "lat": 47.201271,
+    "lng": -1.75293,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue des Dames, Le Pellerin",
+    "lat": 47.201052,
+    "lng": -1.752865,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 bis Rue des Dames, Le Pellerin",
+    "lat": 47.2011,
+    "lng": -1.752864,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue des Dames, Le Pellerin",
+    "lat": 47.201314,
+    "lng": -1.752922,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue des Dames, Le Pellerin",
+    "lat": 47.201295,
+    "lng": -1.752844,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue des Dames, Le Pellerin",
+    "lat": 47.201381,
+    "lng": -1.752906,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue des Dames, Le Pellerin",
+    "lat": 47.20164,
+    "lng": -1.753361,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue des Dames, Le Pellerin",
+    "lat": 47.201512,
+    "lng": -1.752896,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue des Dames, Le Pellerin",
+    "lat": 47.201758,
+    "lng": -1.754023,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue des Dames, Le Pellerin",
+    "lat": 47.201559,
+    "lng": -1.753009,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue des Dames, Le Pellerin",
+    "lat": 47.201781,
+    "lng": -1.754138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue des Dames, Le Pellerin",
+    "lat": 47.20159,
+    "lng": -1.753322,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue des Dames, Le Pellerin",
+    "lat": 47.201614,
+    "lng": -1.753554,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue des Dames, Le Pellerin",
+    "lat": 47.201658,
+    "lng": -1.753764,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue des Dames, Le Pellerin",
+    "lat": 47.201696,
+    "lng": -1.753946,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 bis Rue des Dames, Le Pellerin",
+    "lat": 47.201729,
+    "lng": -1.754116,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue des Dames, Le Pellerin",
+    "lat": 47.201753,
+    "lng": -1.754249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202504,
+    "lng": -1.756056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202544,
+    "lng": -1.756156,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202439,
+    "lng": -1.756116,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2A Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202547,
+    "lng": -1.75634,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202536,
+    "lng": -1.756303,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2C Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202521,
+    "lng": -1.75625,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.20241,
+    "lng": -1.75606,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202236,
+    "lng": -1.756174,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202332,
+    "lng": -1.756138,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.20235,
+    "lng": -1.756073,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue des Vieux Chantiers, Le Pellerin",
+    "lat": 47.202182,
+    "lng": -1.756182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202047,
+    "lng": -1.753072,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202083,
+    "lng": -1.753182,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202129,
+    "lng": -1.75355,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 ter Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202179,
+    "lng": -1.753898,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202194,
+    "lng": -1.754003,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Capitaine Boucher, Le Pellerin",
+    "lat": 47.202168,
+    "lng": -1.754296,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.200141,
+    "lng": -1.758352,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.20018,
+    "lng": -1.758189,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199921,
+    "lng": -1.757782,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199777,
+    "lng": -1.757505,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199892,
+    "lng": -1.757668,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199733,
+    "lng": -1.7574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199861,
+    "lng": -1.757581,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199694,
+    "lng": -1.757308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199821,
+    "lng": -1.757484,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.19965,
+    "lng": -1.757201,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199779,
+    "lng": -1.757385,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199613,
+    "lng": -1.757114,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199741,
+    "lng": -1.757293,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199358,
+    "lng": -1.757417,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199705,
+    "lng": -1.757208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.19949,
+    "lng": -1.757735,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199667,
+    "lng": -1.757116,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Capitaine Guérin, Le Pellerin",
+    "lat": 47.199627,
+    "lng": -1.757022,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.200943,
+    "lng": -1.755215,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.200967,
+    "lng": -1.755308,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.200794,
+    "lng": -1.755526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 bis Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.20072,
+    "lng": -1.755563,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.200601,
+    "lng": -1.755558,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Champ d'Armée, Le Pellerin",
+    "lat": 47.200335,
+    "lng": -1.755734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Château, Le Pellerin",
+    "lat": 47.201871,
+    "lng": -1.754724,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Rue du Château, Le Pellerin",
+    "lat": 47.20187,
+    "lng": -1.75485,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Château, Le Pellerin",
+    "lat": 47.202019,
+    "lng": -1.754603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Château, Le Pellerin",
+    "lat": 47.201863,
+    "lng": -1.75494,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Château, Le Pellerin",
+    "lat": 47.202008,
+    "lng": -1.754668,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Château, Le Pellerin",
+    "lat": 47.201863,
+    "lng": -1.755011,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Château, Le Pellerin",
+    "lat": 47.201991,
+    "lng": -1.754728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Château, Le Pellerin",
+    "lat": 47.20187,
+    "lng": -1.7551,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Château, Le Pellerin",
+    "lat": 47.20196,
+    "lng": -1.754832,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Château, Le Pellerin",
+    "lat": 47.201879,
+    "lng": -1.755195,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Château, Le Pellerin",
+    "lat": 47.201933,
+    "lng": -1.754953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Château, Le Pellerin",
+    "lat": 47.201891,
+    "lng": -1.755335,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Château, Le Pellerin",
+    "lat": 47.20195,
+    "lng": -1.755301,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Château, Le Pellerin",
+    "lat": 47.201902,
+    "lng": -1.755445,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Château, Le Pellerin",
+    "lat": 47.202011,
+    "lng": -1.755766,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Château, Le Pellerin",
+    "lat": 47.201911,
+    "lng": -1.75551,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Château, Le Pellerin",
+    "lat": 47.202043,
+    "lng": -1.755907,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Château, Le Pellerin",
+    "lat": 47.201916,
+    "lng": -1.75561,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Château, Le Pellerin",
+    "lat": 47.202098,
+    "lng": -1.756033,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Château, Le Pellerin",
+    "lat": 47.201939,
+    "lng": -1.755701,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Château, Le Pellerin",
+    "lat": 47.202107,
+    "lng": -1.75624,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Château, Le Pellerin",
+    "lat": 47.201988,
+    "lng": -1.755913,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Château, Le Pellerin",
+    "lat": 47.202039,
+    "lng": -1.756338,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Château, Le Pellerin",
+    "lat": 47.202022,
+    "lng": -1.756032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Château, Le Pellerin",
+    "lat": 47.202005,
+    "lng": -1.756392,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Château, Le Pellerin",
+    "lat": 47.202025,
+    "lng": -1.756161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25B Rue du Château, Le Pellerin",
+    "lat": 47.202004,
+    "lng": -1.756256,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Château, Le Pellerin",
+    "lat": 47.20193,
+    "lng": -1.756503,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Château, Le Pellerin",
+    "lat": 47.201948,
+    "lng": -1.756359,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Château, Le Pellerin",
+    "lat": 47.201887,
+    "lng": -1.756587,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Château, Le Pellerin",
+    "lat": 47.201865,
+    "lng": -1.756481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29A Rue du Château, Le Pellerin",
+    "lat": 47.201831,
+    "lng": -1.756534,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29B Rue du Château, Le Pellerin",
+    "lat": 47.201679,
+    "lng": -1.756325,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29C Rue du Château, Le Pellerin",
+    "lat": 47.201749,
+    "lng": -1.75646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Château, Le Pellerin",
+    "lat": 47.201843,
+    "lng": -1.756656,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Château, Le Pellerin",
+    "lat": 47.201799,
+    "lng": -1.75673,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Château, Le Pellerin",
+    "lat": 47.201727,
+    "lng": -1.756706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Château, Le Pellerin",
+    "lat": 47.20174,
+    "lng": -1.756828,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 bis Rue du Château, Le Pellerin",
+    "lat": 47.201694,
+    "lng": -1.756927,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Château, Le Pellerin",
+    "lat": 47.201607,
+    "lng": -1.757198,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Château, Le Pellerin",
+    "lat": 47.201546,
+    "lng": -1.757175,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Château, Le Pellerin",
+    "lat": 47.201547,
+    "lng": -1.757443,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38A Rue du Château, Le Pellerin",
+    "lat": 47.201525,
+    "lng": -1.757532,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38B Rue du Château, Le Pellerin",
+    "lat": 47.201481,
+    "lng": -1.757693,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38C Rue du Château, Le Pellerin",
+    "lat": 47.201441,
+    "lng": -1.757827,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 Rue du Château, Le Pellerin",
+    "lat": 47.201431,
+    "lng": -1.757591,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "39 bis Rue du Château, Le Pellerin",
+    "lat": 47.201491,
+    "lng": -1.757399,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Château, Le Pellerin",
+    "lat": 47.201377,
+    "lng": -1.757998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "41 Rue du Château, Le Pellerin",
+    "lat": 47.201371,
+    "lng": -1.757778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue du Château, Le Pellerin",
+    "lat": 47.20128,
+    "lng": -1.758249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "43 Rue du Château, Le Pellerin",
+    "lat": 47.201316,
+    "lng": -1.757934,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue du Château, Le Pellerin",
+    "lat": 47.201154,
+    "lng": -1.758574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "45 Rue du Château, Le Pellerin",
+    "lat": 47.201273,
+    "lng": -1.758044,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "47 Rue du Château, Le Pellerin",
+    "lat": 47.20122,
+    "lng": -1.758181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "49 Rue du Château, Le Pellerin",
+    "lat": 47.201162,
+    "lng": -1.758329,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "51 Rue du Château, Le Pellerin",
+    "lat": 47.201091,
+    "lng": -1.75851,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200057,
+    "lng": -1.756233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20011,
+    "lng": -1.756078,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200201,
+    "lng": -1.756734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200159,
+    "lng": -1.756247,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200292,
+    "lng": -1.75707,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5A Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200318,
+    "lng": -1.757172,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200353,
+    "lng": -1.757402,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200196,
+    "lng": -1.756372,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200367,
+    "lng": -1.757514,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200232,
+    "lng": -1.756497,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20038,
+    "lng": -1.757728,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200273,
+    "lng": -1.756637,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200394,
+    "lng": -1.758063,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200316,
+    "lng": -1.756778,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20036,
+    "lng": -1.756936,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20043,
+    "lng": -1.759097,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15A Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200171,
+    "lng": -1.759151,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15B Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200433,
+    "lng": -1.759224,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15C Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200377,
+    "lng": -1.759277,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15D Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200284,
+    "lng": -1.759254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15E Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200153,
+    "lng": -1.759259,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200413,
+    "lng": -1.75715,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20044,
+    "lng": -1.759495,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200446,
+    "lng": -1.75734,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200461,
+    "lng": -1.757483,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200473,
+    "lng": -1.757646,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.200479,
+    "lng": -1.757792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Chêne Vert, Le Pellerin",
+    "lat": 47.20049,
+    "lng": -1.757979,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199424,
+    "lng": -1.753234,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199447,
+    "lng": -1.753315,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199502,
+    "lng": -1.753071,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199454,
+    "lng": -1.753442,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199516,
+    "lng": -1.753161,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.19947,
+    "lng": -1.753539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199529,
+    "lng": -1.753249,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199481,
+    "lng": -1.753642,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199545,
+    "lng": -1.753353,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199498,
+    "lng": -1.753786,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199565,
+    "lng": -1.753501,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199516,
+    "lng": -1.753945,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199581,
+    "lng": -1.75364,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199525,
+    "lng": -1.75412,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199597,
+    "lng": -1.753779,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199559,
+    "lng": -1.754321,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199612,
+    "lng": -1.753909,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199625,
+    "lng": -1.754052,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199633,
+    "lng": -1.754763,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 bis Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199671,
+    "lng": -1.754916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199632,
+    "lng": -1.754131,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199707,
+    "lng": -1.755038,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199644,
+    "lng": -1.754256,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199724,
+    "lng": -1.755096,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.19966,
+    "lng": -1.754358,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199757,
+    "lng": -1.755208,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199834,
+    "lng": -1.755132,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.19979,
+    "lng": -1.755319,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Clos Grillé, Le Pellerin",
+    "lat": 47.199827,
+    "lng": -1.755445,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201716,
+    "lng": -1.754549,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201755,
+    "lng": -1.754637,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201545,
+    "lng": -1.754605,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 bis Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201437,
+    "lng": -1.754641,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201613,
+    "lng": -1.754687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201338,
+    "lng": -1.754674,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201374,
+    "lng": -1.754768,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201227,
+    "lng": -1.754708,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7A Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201147,
+    "lng": -1.754733,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7B Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201098,
+    "lng": -1.754747,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7C Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201051,
+    "lng": -1.754761,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.201058,
+    "lng": -1.754865,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200655,
+    "lng": -1.754998,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 bis Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200714,
+    "lng": -1.754957,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200904,
+    "lng": -1.754948,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10B Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200947,
+    "lng": -1.754916,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200607,
+    "lng": -1.755032,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.20059,
+    "lng": -1.755044,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.2008,
+    "lng": -1.755035,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200553,
+    "lng": -1.75507,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200745,
+    "lng": -1.755078,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200498,
+    "lng": -1.755108,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200645,
+    "lng": -1.755153,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200492,
+    "lng": -1.755255,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200373,
+    "lng": -1.755344,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200266,
+    "lng": -1.755426,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.2002,
+    "lng": -1.755476,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.20014,
+    "lng": -1.755521,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Docteur Sourdille, Le Pellerin",
+    "lat": 47.200055,
+    "lng": -1.755585,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199016,
+    "lng": -1.750476,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1A Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198655,
+    "lng": -1.750386,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1B Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198799,
+    "lng": -1.750382,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198339,
+    "lng": -1.750025,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199412,
+    "lng": -1.75065,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198434,
+    "lng": -1.750077,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199482,
+    "lng": -1.750685,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 bis Rue du Huit Mai, Le Pellerin",
+    "lat": 47.19971,
+    "lng": -1.751057,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198563,
+    "lng": -1.750165,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199849,
+    "lng": -1.751181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198634,
+    "lng": -1.750194,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199936,
+    "lng": -1.751199,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198707,
+    "lng": -1.750231,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.200025,
+    "lng": -1.75124,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198774,
+    "lng": -1.75026,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.200104,
+    "lng": -1.751285,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198884,
+    "lng": -1.750306,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.198973,
+    "lng": -1.750341,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199042,
+    "lng": -1.750366,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.19914,
+    "lng": -1.750388,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 bis Rue du Huit Mai, Le Pellerin",
+    "lat": 47.19919,
+    "lng": -1.750446,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199246,
+    "lng": -1.75047,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199302,
+    "lng": -1.750494,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199412,
+    "lng": -1.750545,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199468,
+    "lng": -1.750574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199634,
+    "lng": -1.750574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199756,
+    "lng": -1.750723,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199838,
+    "lng": -1.750827,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.199943,
+    "lng": -1.751065,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Huit Mai, Le Pellerin",
+    "lat": 47.200043,
+    "lng": -1.751123,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202496,
+    "lng": -1.758774,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202496,
+    "lng": -1.758233,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202504,
+    "lng": -1.758316,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202504,
+    "lng": -1.758962,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202512,
+    "lng": -1.758408,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6B Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202526,
+    "lng": -1.758564,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202533,
+    "lng": -1.758634,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202549,
+    "lng": -1.758792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202556,
+    "lng": -1.758861,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202566,
+    "lng": -1.758937,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202589,
+    "lng": -1.759205,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202664,
+    "lng": -1.762431,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202376,
+    "lng": -1.762339,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202774,
+    "lng": -1.760795,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202377,
+    "lng": -1.762406,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 bis Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202659,
+    "lng": -1.762796,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 ter Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202648,
+    "lng": -1.763143,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "28 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202776,
+    "lng": -1.760961,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202641,
+    "lng": -1.763384,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29A Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202645,
+    "lng": -1.763254,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29B Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.20261,
+    "lng": -1.763518,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "30 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202779,
+    "lng": -1.761137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202551,
+    "lng": -1.76366,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "32 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202775,
+    "lng": -1.76132,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202413,
+    "lng": -1.763975,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 bis Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202333,
+    "lng": -1.764141,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202762,
+    "lng": -1.761541,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34A Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202767,
+    "lng": -1.761451,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "34 bis Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202748,
+    "lng": -1.761802,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "35 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201794,
+    "lng": -1.764818,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.20274,
+    "lng": -1.762043,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "36A Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.20274,
+    "lng": -1.761953,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "37 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201678,
+    "lng": -1.76493,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202738,
+    "lng": -1.762252,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38A Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.20317,
+    "lng": -1.762328,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "38B Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.203351,
+    "lng": -1.762368,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "40 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.20273,
+    "lng": -1.762692,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "42 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202727,
+    "lng": -1.762869,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "44 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202693,
+    "lng": -1.763133,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "46 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202718,
+    "lng": -1.763266,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "48 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202506,
+    "lng": -1.763873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "50 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.202235,
+    "lng": -1.764403,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201546,
+    "lng": -1.765179,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 bis Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201787,
+    "lng": -1.764995,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "58 ter Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201872,
+    "lng": -1.764897,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201146,
+    "lng": -1.76594,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60A Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201174,
+    "lng": -1.765555,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60B Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201209,
+    "lng": -1.765788,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "60C Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.201125,
+    "lng": -1.765716,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "62 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.200849,
+    "lng": -1.765555,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "64 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.200728,
+    "lng": -1.76557,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "66 Rue du Moulin Collet, Le Pellerin",
+    "lat": 47.200656,
+    "lng": -1.765579,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Port Brutus, Le Pellerin",
+    "lat": 47.202104,
+    "lng": -1.754544,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2B Rue du Port Brutus, Le Pellerin",
+    "lat": 47.202177,
+    "lng": -1.754526,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Port Brutus, Le Pellerin",
+    "lat": 47.20234,
+    "lng": -1.754497,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202661,
+    "lng": -1.75621,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202899,
+    "lng": -1.756036,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202538,
+    "lng": -1.756436,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202705,
+    "lng": -1.756334,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202504,
+    "lng": -1.756539,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202426,
+    "lng": -1.756767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202565,
+    "lng": -1.756688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202307,
+    "lng": -1.75703,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.200899,
+    "lng": -1.759219,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202265,
+    "lng": -1.757215,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202223,
+    "lng": -1.757397,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202175,
+    "lng": -1.757605,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202117,
+    "lng": -1.757847,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.202046,
+    "lng": -1.758128,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.201964,
+    "lng": -1.758364,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "23 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.201791,
+    "lng": -1.758688,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "25 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.201438,
+    "lng": -1.759035,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "27 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.201138,
+    "lng": -1.758968,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "29 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.201076,
+    "lng": -1.758924,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "31 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.200835,
+    "lng": -1.759049,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "33 Rue du Port Chassé, Le Pellerin",
+    "lat": 47.200787,
+    "lng": -1.759129,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue du Prieuré, Le Pellerin",
+    "lat": 47.19838,
+    "lng": -1.75048,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue du Prieuré, Le Pellerin",
+    "lat": 47.198082,
+    "lng": -1.749393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198209,
+    "lng": -1.749608,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 bis Rue du Prieuré, Le Pellerin",
+    "lat": 47.198233,
+    "lng": -1.749743,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198444,
+    "lng": -1.750639,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198453,
+    "lng": -1.750393,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198514,
+    "lng": -1.750812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Prieuré, Le Pellerin",
+    "lat": 47.19853,
+    "lng": -1.750569,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198576,
+    "lng": -1.750965,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198569,
+    "lng": -1.750676,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198645,
+    "lng": -1.751137,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198643,
+    "lng": -1.750861,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198809,
+    "lng": -1.751545,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 bis Rue du Prieuré, Le Pellerin",
+    "lat": 47.198739,
+    "lng": -1.751371,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198689,
+    "lng": -1.750977,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198852,
+    "lng": -1.751655,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199036,
+    "lng": -1.752106,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue du Prieuré, Le Pellerin",
+    "lat": 47.198964,
+    "lng": -1.751661,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue du Prieuré, Le Pellerin",
+    "lat": 47.19914,
+    "lng": -1.752366,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199021,
+    "lng": -1.751804,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199278,
+    "lng": -1.752706,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "20 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199073,
+    "lng": -1.751936,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199173,
+    "lng": -1.752184,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22 bis Rue du Prieuré, Le Pellerin",
+    "lat": 47.199291,
+    "lng": -1.752472,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "22C Rue du Prieuré, Le Pellerin",
+    "lat": 47.199329,
+    "lng": -1.752531,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "24 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199354,
+    "lng": -1.752606,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "26 Rue du Prieuré, Le Pellerin",
+    "lat": 47.199394,
+    "lng": -1.75273,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue du Verger, Le Pellerin",
+    "lat": 47.203195,
+    "lng": -1.757054,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue du Verger, Le Pellerin",
+    "lat": 47.202981,
+    "lng": -1.75675,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue du Verger, Le Pellerin",
+    "lat": 47.203139,
+    "lng": -1.756877,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue du Verger, Le Pellerin",
+    "lat": 47.202932,
+    "lng": -1.756679,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue du Verger, Le Pellerin",
+    "lat": 47.203094,
+    "lng": -1.756792,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue du Verger, Le Pellerin",
+    "lat": 47.202928,
+    "lng": -1.756536,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue du Verger, Le Pellerin",
+    "lat": 47.202895,
+    "lng": -1.756481,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Honoraty, Le Pellerin",
+    "lat": 47.202079,
+    "lng": -1.766687,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Honoraty, Le Pellerin",
+    "lat": 47.202081,
+    "lng": -1.766602,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Honoraty, Le Pellerin",
+    "lat": 47.201884,
+    "lng": -1.766751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Honoraty, Le Pellerin",
+    "lat": 47.201882,
+    "lng": -1.766668,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Honoraty, Le Pellerin",
+    "lat": 47.201696,
+    "lng": -1.766812,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Honoraty, Le Pellerin",
+    "lat": 47.201687,
+    "lng": -1.766731,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.202,
+    "lng": -1.760576,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.202205,
+    "lng": -1.760751,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201926,
+    "lng": -1.760574,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.202049,
+    "lng": -1.760757,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201861,
+    "lng": -1.760576,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201815,
+    "lng": -1.760765,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201788,
+    "lng": -1.760601,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201588,
+    "lng": -1.760772,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.20171,
+    "lng": -1.760582,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201433,
+    "lng": -1.760776,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201643,
+    "lng": -1.760583,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "13 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201224,
+    "lng": -1.760767,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "15 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201205,
+    "lng": -1.761051,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "17 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201188,
+    "lng": -1.761326,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "19 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201171,
+    "lng": -1.761603,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "21 Rue Jean Jaurès, Le Pellerin",
+    "lat": 47.201151,
+    "lng": -1.761873,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201831,
+    "lng": -1.76291,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201831,
+    "lng": -1.763025,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201664,
+    "lng": -1.7629,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201649,
+    "lng": -1.763013,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201513,
+    "lng": -1.762903,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201481,
+    "lng": -1.763015,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201358,
+    "lng": -1.762907,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.2013,
+    "lng": -1.763016,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201257,
+    "lng": -1.76231,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201054,
+    "lng": -1.763168,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue Jean Moulin, Le Pellerin",
+    "lat": 47.201116,
+    "lng": -1.762409,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Lieutenant Boulanger, Le Pellerin",
+    "lat": 47.201857,
+    "lng": -1.754234,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Lieutenant Boulanger, Le Pellerin",
+    "lat": 47.201834,
+    "lng": -1.754187,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Lieutenant Boulanger, Le Pellerin",
+    "lat": 47.201891,
+    "lng": -1.754176,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Lieutenant Boulanger, Le Pellerin",
+    "lat": 47.201958,
+    "lng": -1.754162,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202802,
+    "lng": -1.759496,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202967,
+    "lng": -1.759479,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.203045,
+    "lng": -1.75951,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.20306,
+    "lng": -1.759658,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.203072,
+    "lng": -1.759909,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.203171,
+    "lng": -1.760181,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "7 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.203181,
+    "lng": -1.760377,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202992,
+    "lng": -1.760401,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "9 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202987,
+    "lng": -1.760315,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202951,
+    "lng": -1.759936,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "11 Rue Martin Luther King, Le Pellerin",
+    "lat": 47.202942,
+    "lng": -1.759746,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Saint Jean, Le Pellerin",
+    "lat": 47.201404,
+    "lng": -1.752549,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 bis Rue Saint Jean, Le Pellerin",
+    "lat": 47.201425,
+    "lng": -1.752671,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Saint Jean, Le Pellerin",
+    "lat": 47.20141,
+    "lng": -1.7524,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Saint Jean, Le Pellerin",
+    "lat": 47.201458,
+    "lng": -1.752739,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Saint Jean, Le Pellerin",
+    "lat": 47.201533,
+    "lng": -1.752244,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Rue Souin, Le Pellerin",
+    "lat": 47.201951,
+    "lng": -1.765943,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "2 Rue Souin, Le Pellerin",
+    "lat": 47.201944,
+    "lng": -1.765863,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "3 Rue Souin, Le Pellerin",
+    "lat": 47.201766,
+    "lng": -1.766003,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 Rue Souin, Le Pellerin",
+    "lat": 47.201859,
+    "lng": -1.765891,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "4 bis Rue Souin, Le Pellerin",
+    "lat": 47.201445,
+    "lng": -1.766435,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "5 Rue Souin, Le Pellerin",
+    "lat": 47.201603,
+    "lng": -1.766056,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "6 Rue Souin, Le Pellerin",
+    "lat": 47.201435,
+    "lng": -1.766725,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "8 Rue Souin, Le Pellerin",
+    "lat": 47.201338,
+    "lng": -1.767262,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "10 Rue Souin, Le Pellerin",
+    "lat": 47.201153,
+    "lng": -1.767131,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "12 Rue Souin, Le Pellerin",
+    "lat": 47.201081,
+    "lng": -1.767248,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "14 Rue Souin, Le Pellerin",
+    "lat": 47.201334,
+    "lng": -1.767364,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "16 Rue Souin, Le Pellerin",
+    "lat": 47.201426,
+    "lng": -1.767562,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "18 Rue Souin, Le Pellerin",
+    "lat": 47.201423,
+    "lng": -1.767775,
+    "etat": "non_visite"
+  },
+  {
+    "adresse": "1 Venelle Anne de Bretagne, Le Pellerin",
+    "lat": 47.201707,
+    "lng": -1.751985,
+    "etat": "non_visite"
+  }
+]
